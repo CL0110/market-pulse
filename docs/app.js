@@ -85,16 +85,16 @@ function loadDay(data) {
 /* ---- market mood ---- */
 function moodColor(idx) {
   if (idx === null || idx === undefined) return "var(--muted)";
-  if (idx > 8) return "#16a34a";
-  if (idx < -8) return "#dc2626";
+  if (idx > 12) return "#16a34a";
+  if (idx < -12) return "#dc2626";
   return "#6b7280";
 }
 function moodWord(idx) {
   if (idx === null || idx === undefined) return "Sentiment pending";
-  if (idx > 25) return "Very bullish";
-  if (idx > 8) return "Bullish";
-  if (idx < -25) return "Very bearish";
-  if (idx < -8) return "Bearish";
+  if (idx > 40) return "Very bullish";
+  if (idx > 12) return "Bullish";
+  if (idx < -40) return "Very bearish";
+  if (idx < -12) return "Bearish";
   return "Neutral / mixed";
 }
 
@@ -104,11 +104,12 @@ function renderMood(mood) {
   val.textContent = o.index === null || o.index === undefined ? "—" : (o.index > 0 ? "+" + o.index : o.index);
   val.style.color = moodColor(o.index);
   $("#moodLabel").textContent = `Market Mood — ${moodWord(o.index)}`;
-  if (o.scored) {
+  if (o.relevant) {
     $("#moodBreakdown").innerHTML =
       `<span class="mood-pos">▲ ${o.positive} positive</span> · ` +
       `<span class="mood-neg">▼ ${o.negative} negative</span> · ` +
-      `<span class="mood-neu">● ${o.neutral} neutral</span> &nbsp;<span style="color:var(--muted)">(${o.scored} scored)</span>`;
+      `<span class="mood-neu">● ${o.neutral} neutral</span> ` +
+      `&nbsp;<span style="color:var(--muted)">(net of ${o.relevant} market-relevant headlines)</span>`;
   } else {
     $("#moodBreakdown").textContent = "Sentiment will appear after the next scored run.";
   }
@@ -187,7 +188,7 @@ function drawMoodChart(index) {
         borderColor: "#1f6feb",
         backgroundColor: "rgba(31,111,235,.10)",
         fill: true, tension: .3, pointRadius: 3,
-        pointBackgroundColor: vals.map((v) => v === null ? "#cbd5e1" : v > 8 ? "#16a34a" : v < -8 ? "#dc2626" : "#6b7280"),
+        pointBackgroundColor: vals.map((v) => v === null ? "#cbd5e1" : v > 12 ? "#16a34a" : v < -12 ? "#dc2626" : "#6b7280"),
         spanGaps: true,
       }],
     },

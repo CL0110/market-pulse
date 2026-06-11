@@ -51,7 +51,6 @@ SOURCES = [
     {"name": "WSJ Business",         "category": "Markets", "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml"},
     {"name": "Yahoo Finance",        "category": "Markets", "url": "https://finance.yahoo.com/news/rssindex"},
     {"name": "Seeking Alpha",        "category": "Markets", "url": "https://seekingalpha.com/feed.xml"},
-    {"name": "Business Insider",     "category": "Markets", "url": "https://markets.businessinsider.com/rss/news"},
     {"name": "Google News: Business","category": "Markets", "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en"},
     {"name": "Reuters",              "category": "Markets", "url": "https://news.google.com/rss/search?q=(business+OR+economy+OR+markets)+site:reuters.com+when:2d&hl=en-US&gl=US&ceid=US:en"},
     {"name": "Bloomberg",            "category": "Markets", "url": "https://news.google.com/rss/search?q=(markets+OR+economy)+site:bloomberg.com+when:2d&hl=en-US&gl=US&ceid=US:en"},
@@ -87,8 +86,9 @@ ATOM = "{http://www.w3.org/2005/Atom}"
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash").strip()
 GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
-SENTIMENT_BATCH = 60          # headlines per Gemini request
-GEMINI_RETRIES = 3
+SENTIMENT_BATCH = 25          # smaller batches: less truncation risk, a failure loses fewer items
+GEMINI_RETRIES = 5
+SENT_VERSION = 2              # bump to force re-scoring of items scored by an older prompt
 
 log = logging.getLogger("market-pulse")
 
@@ -247,13 +247,19 @@ def merge_with_existing(new_items: list[dict], day_path: Path) -> list[dict]:
 
 # --- sentiment (Gemini Flash, finance-aware, with graceful fallback) --------
 _SENT_PROMPT = (
-    "You are a financial-market sentiment classifier. For EACH numbered headline, "
-    "judge how it would affect market participants' mood: 'positive' (optimistic / "
-    "bullish / good economic news), 'negative' (pessimistic / bearish / bad news / "
-    "risk), or 'neutral' (factual, mixed, or no clear market direction). Also give a "
-    "score from -1.0 (very negative) to 1.0 (very positive). Judge from a markets lens: "
-    "e.g. 'stock plunges', 'layoffs', 'inflation rises' are negative; 'beats estimates', "
-    "'rate cut hopes', 'rally' are positive. Return one object per headline.\n\nHEADLINES:\n"
+    "You are a financial-market sentiment classifier. For EACH numbered headline, return:\n"
+    "- label: 'positive' (optimistic/bullish/good economic news), 'negative' "
+    "(pessimistic/bearish/bad news/risk), or 'neutral' (factual, mixed, or no clear "
+    "market direction). Judge from a broad markets/economy lens: 'inflation rises', "
+    "'stock plunges', 'layoffs', 'rate hike to fight inflation', 'recession warning' are "
+    "negative; 'beats estimates', 'rate cut', 'rally', 'cooling inflation' are positive.\n"
+    "- score: -1.0 (very negative) to 1.0 (very positive).\n"
+    "- relevant: true if the headline is about the broad economy or markets (indices, the "
+    "Fed/central banks, inflation, jobs, GDP, oil, major macro/policy/geopolitics moving "
+    "markets). false for single-stock pitches/'I'm buying X', fund commentary, earnings-call "
+    "transcripts, press releases, product launches, awards, personal-finance advice, "
+    "lottery numbers, lifestyle. When unsure, false.\n"
+    "Return one object per headline.\n\nHEADLINES:\n"
 )
 _SENT_SCHEMA = {
     "type": "ARRAY",
@@ -263,8 +269,9 @@ _SENT_SCHEMA = {
             "i": {"type": "INTEGER"},
             "label": {"type": "STRING", "enum": ["positive", "negative", "neutral"]},
             "score": {"type": "NUMBER"},
+            "relevant": {"type": "BOOLEAN"},
         },
-        "required": ["i", "label", "score"],
+        "required": ["i", "label", "score", "relevant"],
     },
 }
 
@@ -291,19 +298,30 @@ def _gemini_batch(titles: list[str]) -> list[dict] | None:
                 payload = json.loads(resp.read())
             text = payload["candidates"][0]["content"]["parts"][0]["text"]
             parsed = json.loads(text)
-            out: list[dict] = [{"label": "neutral", "score": 0.0} for _ in titles]
+            out: list[dict | None] = [None] * len(titles)
             for obj in parsed:
                 idx = obj.get("i")
                 if isinstance(idx, int) and 0 <= idx < len(titles):
                     score = max(-1.0, min(1.0, float(obj.get("score", 0.0))))
-                    label = obj.get("label", "neutral")
-                    out[idx] = {"label": label, "score": round(score, 3)}
-            return out
+                    out[idx] = {
+                        "label": obj.get("label", "neutral"),
+                        "score": round(score, 3),
+                        "relevant": bool(obj.get("relevant", True)),
+                        "v": SENT_VERSION,
+                    }
+            # If the model dropped some indices, retry rather than silently neutralize.
+            if any(o is None for o in out) and attempt < GEMINI_RETRIES - 1:
+                missing = sum(o is None for o in out)
+                log.warning("  Gemini returned %d/%d items — retrying", len(titles) - missing, len(titles))
+                time.sleep(2 ** attempt)
+                continue
+            return [o if o is not None else {"label": "neutral", "score": 0.0, "relevant": False, "v": SENT_VERSION}
+                    for o in out]
         except urllib.error.HTTPError as exc:
             detail = exc.read().decode("utf-8", "ignore")[:200]
             log.warning("  Gemini HTTP %s (try %d/%d): %s", exc.code, attempt + 1, GEMINI_RETRIES, detail)
             if exc.code == 429:
-                time.sleep(5 * (attempt + 1))   # rate limited — back off harder
+                time.sleep(min(60, 12 * (attempt + 1)))   # rate limited — back off hard
             else:
                 time.sleep(2 ** attempt)
         except Exception as exc:  # noqa: BLE001
@@ -318,7 +336,8 @@ def score_sentiment(items: list[dict]) -> None:
     Skips items that already have sentiment (so re-runs only pay for new headlines).
     If GEMINI_API_KEY is unset, leaves items unscored (the site shows them neutral and
     a later cloud run with the key will score them)."""
-    todo = [it for it in items if "sentiment" not in it]
+    todo = [it for it in items
+            if it.get("sentiment", {}).get("v") != SENT_VERSION]
     if not todo:
         return
     if not GEMINI_API_KEY:
@@ -335,7 +354,7 @@ def score_sentiment(items: list[dict]) -> None:
         for it, res in zip(chunk, results):
             it["sentiment"] = res
             scored += 1
-        time.sleep(1.0)   # be gentle on the free tier
+        time.sleep(3.0)   # pace under the free-tier rate limit (~15 req/min)
     dist = tally_labels(items)
     log.info("Sentiment done: %d scored | pos=%d neg=%d neu=%d",
              scored, dist["positive"], dist["negative"], dist["neutral"])
@@ -350,20 +369,23 @@ def tally_labels(items: list[dict]) -> dict:
 
 
 def mood_for(subset: list[dict]) -> dict:
-    """Aggregate a Market Mood reading for a list of items."""
+    """Market Mood = NET sentiment over market-RELEVANT scored items.
+
+    index = (positive - negative) / (positive + negative) * 100, range -100..100.
+    Using a net ratio (not a mean) keeps neutral/factual headlines from washing the
+    signal out; the relevance filter keeps single-stock pitches / PR / lifestyle noise
+    from swaying it."""
     scored = [it for it in subset if "sentiment" in it]
-    if not scored:
-        return {"index": None, "positive": 0, "negative": 0, "neutral": 0, "scored": 0, "total": len(subset)}
-    avg = sum(it["sentiment"]["score"] for it in scored) / len(scored)
-    d = tally_labels(scored)
-    return {
-        "index": round(avg * 100),       # -100..100
-        "positive": d["positive"],
-        "negative": d["negative"],
-        "neutral": d["neutral"],
-        "scored": len(scored),
-        "total": len(subset),
-    }
+    relevant = [it for it in scored if it["sentiment"].get("relevant", True)]
+    if not relevant:
+        return {"index": None, "positive": 0, "negative": 0, "neutral": 0,
+                "relevant": 0, "scored": len(scored), "total": len(subset)}
+    d = tally_labels(relevant)
+    pn = d["positive"] + d["negative"]
+    index = round((d["positive"] - d["negative"]) / pn * 100) if pn else 0
+    return {"index": index,
+            "positive": d["positive"], "negative": d["negative"], "neutral": d["neutral"],
+            "relevant": len(relevant), "scored": len(scored), "total": len(subset)}
 
 
 def aggregate_mood(items: list[dict]) -> dict:
