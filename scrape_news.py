@@ -87,7 +87,10 @@ GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash").strip()
 GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
 SENTIMENT_BATCH = 25          # smaller batches: less truncation risk, a failure loses fewer items
-GEMINI_RETRIES = 5
+GEMINI_RETRIES = 3
+GEMINI_MAX_BACKOFF = 20       # cap per-retry wait so one bad batch can't eat minutes
+MAX_SCORE_PER_RUN = 240       # bound work per run (stays under free-tier daily quota; backlog finishes over later runs)
+CIRCUIT_BREAK_FAILS = 3       # after this many consecutive failed batches, stop scoring this run
 SENT_VERSION = 2              # bump to force re-scoring of items scored by an older prompt
 
 log = logging.getLogger("market-pulse")
@@ -320,10 +323,7 @@ def _gemini_batch(titles: list[str]) -> list[dict] | None:
         except urllib.error.HTTPError as exc:
             detail = exc.read().decode("utf-8", "ignore")[:200]
             log.warning("  Gemini HTTP %s (try %d/%d): %s", exc.code, attempt + 1, GEMINI_RETRIES, detail)
-            if exc.code == 429:
-                time.sleep(min(60, 12 * (attempt + 1)))   # rate limited — back off hard
-            else:
-                time.sleep(2 ** attempt)
+            time.sleep(min(GEMINI_MAX_BACKOFF, 5 * (attempt + 1)))
         except Exception as exc:  # noqa: BLE001
             log.warning("  Gemini error (try %d/%d): %s", attempt + 1, GEMINI_RETRIES, exc)
             time.sleep(2 ** attempt)
@@ -336,28 +336,41 @@ def score_sentiment(items: list[dict]) -> None:
     Skips items that already have sentiment (so re-runs only pay for new headlines).
     If GEMINI_API_KEY is unset, leaves items unscored (the site shows them neutral and
     a later cloud run with the key will score them)."""
-    todo = [it for it in items
-            if it.get("sentiment", {}).get("v") != SENT_VERSION]
-    if not todo:
+    pending = [it for it in items
+               if it.get("sentiment", {}).get("v") != SENT_VERSION]
+    if not pending:
         return
     if not GEMINI_API_KEY:
-        log.warning("GEMINI_API_KEY not set — skipping sentiment for %d headlines", len(todo))
+        log.warning("GEMINI_API_KEY not set — skipping sentiment for %d headlines", len(pending))
         return
-    log.info("Scoring sentiment for %d headlines via %s", len(todo), GEMINI_MODEL)
+    # Bound work per run so we never blow the daily quota or run for ages. Any leftover
+    # backlog is picked up by the next scheduled run.
+    todo = pending[:MAX_SCORE_PER_RUN]
+    log.info("Scoring %d/%d pending headlines via %s (cap %d/run)",
+             len(todo), len(pending), GEMINI_MODEL, MAX_SCORE_PER_RUN)
     scored = 0
+    consecutive_fail = 0
     for start in range(0, len(todo), SENTIMENT_BATCH):
         chunk = todo[start:start + SENTIMENT_BATCH]
         results = _gemini_batch([it["title"] for it in chunk])
         if results is None:
-            log.error("  batch failed — leaving %d headlines unscored", len(chunk))
+            consecutive_fail += 1
+            log.error("  batch failed (%d in a row) — %d headlines left unscored this run",
+                      consecutive_fail, len(chunk))
+            if consecutive_fail >= CIRCUIT_BREAK_FAILS:
+                log.error("  circuit breaker: %d consecutive failures — stopping sentiment for this run "
+                          "(likely rate/quota limit; backlog resumes next run)", consecutive_fail)
+                break
             continue
+        consecutive_fail = 0
         for it, res in zip(chunk, results):
             it["sentiment"] = res
             scored += 1
-        time.sleep(3.0)   # pace under the free-tier rate limit (~15 req/min)
+        time.sleep(2.0)   # pace under the free-tier rate limit
+    left = len(pending) - scored
     dist = tally_labels(items)
-    log.info("Sentiment done: %d scored | pos=%d neg=%d neu=%d",
-             scored, dist["positive"], dist["negative"], dist["neutral"])
+    log.info("Sentiment done: %d scored this run, %d still pending | pos=%d neg=%d neu=%d",
+             scored, max(0, left), dist["positive"], dist["negative"], dist["neutral"])
 
 
 def tally_labels(items: list[dict]) -> dict:
