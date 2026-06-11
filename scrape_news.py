@@ -84,12 +84,13 @@ ATOM = "{http://www.w3.org/2005/Atom}"
 
 # --- sentiment (Google Gemini Flash) ----------------------------------------
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
-GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash").strip()
+# flash-lite: higher free daily quota + faster than flash, plenty accurate for headline sentiment.
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash-lite").strip()
 GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
-SENTIMENT_BATCH = 25          # smaller batches: less truncation risk, a failure loses fewer items
+SENTIMENT_BATCH = 40          # fewer requests (eases rate limits); small enough to avoid truncation
 GEMINI_RETRIES = 3
 GEMINI_MAX_BACKOFF = 20       # cap per-retry wait so one bad batch can't eat minutes
-MAX_SCORE_PER_RUN = 240       # bound work per run (stays under free-tier daily quota; backlog finishes over later runs)
+MAX_SCORE_PER_RUN = 800       # flash-lite quota is generous — clear the whole backlog in one run
 CIRCUIT_BREAK_FAILS = 3       # after this many consecutive failed batches, stop scoring this run
 SENT_VERSION = 2              # bump to force re-scoring of items scored by an older prompt
 
