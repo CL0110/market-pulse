@@ -28,6 +28,7 @@ import datetime as dt
 import html
 import json
 import logging
+import os
 import re
 import sys
 import time
@@ -46,11 +47,21 @@ SOURCES = [
     {"name": "MarketWatch Top",      "category": "Markets", "url": "http://feeds.marketwatch.com/marketwatch/topstories/"},
     {"name": "MarketWatch Realtime", "category": "Markets", "url": "http://feeds.marketwatch.com/marketwatch/realtimeheadlines/"},
     {"name": "Financial Times",      "category": "Markets", "url": "https://www.ft.com/rss/home"},
+    {"name": "Wall Street Journal",  "category": "Markets", "url": "https://feeds.a.dj.com/rss/RSSMarketsMain.xml"},
+    {"name": "WSJ Business",         "category": "Markets", "url": "https://feeds.a.dj.com/rss/WSJcomUSBusiness.xml"},
+    {"name": "Yahoo Finance",        "category": "Markets", "url": "https://finance.yahoo.com/news/rssindex"},
+    {"name": "Seeking Alpha",        "category": "Markets", "url": "https://seekingalpha.com/feed.xml"},
+    {"name": "Business Insider",     "category": "Markets", "url": "https://markets.businessinsider.com/rss/news"},
     {"name": "Google News: Business","category": "Markets", "url": "https://news.google.com/rss/headlines/section/topic/BUSINESS?hl=en-US&gl=US&ceid=US:en"},
     {"name": "Reuters",              "category": "Markets", "url": "https://news.google.com/rss/search?q=(business+OR+economy+OR+markets)+site:reuters.com+when:2d&hl=en-US&gl=US&ceid=US:en"},
+    {"name": "Bloomberg",            "category": "Markets", "url": "https://news.google.com/rss/search?q=(markets+OR+economy)+site:bloomberg.com+when:2d&hl=en-US&gl=US&ceid=US:en"},
+    {"name": "Barron's",             "category": "Markets", "url": "https://news.google.com/rss/search?q=site:barrons.com+when:2d&hl=en-US&gl=US&ceid=US:en"},
     # Economy
     {"name": "CNBC Economy",         "category": "Economy", "url": "https://www.cnbc.com/id/20910258/device/rss/rss.html"},
     {"name": "Calculated Risk",      "category": "Economy", "url": "https://www.calculatedriskblog.com/feeds/posts/default?alt=rss"},
+    {"name": "The Economist",        "category": "Economy", "url": "https://www.economist.com/finance-and-economics/rss.xml"},
+    {"name": "NPR Economy",          "category": "Economy", "url": "https://feeds.npr.org/1017/rss.xml"},
+    {"name": "Guardian Business",    "category": "Economy", "url": "https://www.theguardian.com/business/rss"},
     {"name": "Google News: Inflation/Fed", "category": "Economy", "url": "https://news.google.com/rss/search?q=(inflation+OR+%22federal+reserve%22+OR+%22interest+rates%22)+when:1d&hl=en-US&gl=US&ceid=US:en"},
     # Policy / government releases
     {"name": "Federal Reserve",      "category": "Policy",  "url": "https://www.federalreserve.gov/feeds/press_all.xml"},
@@ -71,6 +82,13 @@ USER_AGENT = (
     "AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
 )
 ATOM = "{http://www.w3.org/2005/Atom}"
+
+# --- sentiment (Google Gemini Flash) ----------------------------------------
+GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "").strip()
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash").strip()
+GEMINI_URL = f"https://generativelanguage.googleapis.com/v1beta/models/{GEMINI_MODEL}:generateContent"
+SENTIMENT_BATCH = 60          # headlines per Gemini request
+GEMINI_RETRIES = 3
 
 log = logging.getLogger("market-pulse")
 
@@ -227,8 +245,136 @@ def merge_with_existing(new_items: list[dict], day_path: Path) -> list[dict]:
     return merged
 
 
+# --- sentiment (Gemini Flash, finance-aware, with graceful fallback) --------
+_SENT_PROMPT = (
+    "You are a financial-market sentiment classifier. For EACH numbered headline, "
+    "judge how it would affect market participants' mood: 'positive' (optimistic / "
+    "bullish / good economic news), 'negative' (pessimistic / bearish / bad news / "
+    "risk), or 'neutral' (factual, mixed, or no clear market direction). Also give a "
+    "score from -1.0 (very negative) to 1.0 (very positive). Judge from a markets lens: "
+    "e.g. 'stock plunges', 'layoffs', 'inflation rises' are negative; 'beats estimates', "
+    "'rate cut hopes', 'rally' are positive. Return one object per headline.\n\nHEADLINES:\n"
+)
+_SENT_SCHEMA = {
+    "type": "ARRAY",
+    "items": {
+        "type": "OBJECT",
+        "properties": {
+            "i": {"type": "INTEGER"},
+            "label": {"type": "STRING", "enum": ["positive", "negative", "neutral"]},
+            "score": {"type": "NUMBER"},
+        },
+        "required": ["i", "label", "score"],
+    },
+}
+
+
+def _gemini_batch(titles: list[str]) -> list[dict] | None:
+    """Score a batch of headlines. Returns list aligned to titles, or None on failure."""
+    numbered = "\n".join(f"{i}. {t}" for i, t in enumerate(titles))
+    body = json.dumps({
+        "contents": [{"parts": [{"text": _SENT_PROMPT + numbered}]}],
+        "generationConfig": {
+            "responseMimeType": "application/json",
+            "responseSchema": _SENT_SCHEMA,
+            "temperature": 0,
+        },
+    }).encode("utf-8")
+
+    for attempt in range(GEMINI_RETRIES):
+        try:
+            req = urllib.request.Request(
+                GEMINI_URL, data=body, method="POST",
+                headers={"Content-Type": "application/json", "x-goog-api-key": GEMINI_API_KEY},
+            )
+            with urllib.request.urlopen(req, timeout=60) as resp:
+                payload = json.loads(resp.read())
+            text = payload["candidates"][0]["content"]["parts"][0]["text"]
+            parsed = json.loads(text)
+            out: list[dict] = [{"label": "neutral", "score": 0.0} for _ in titles]
+            for obj in parsed:
+                idx = obj.get("i")
+                if isinstance(idx, int) and 0 <= idx < len(titles):
+                    score = max(-1.0, min(1.0, float(obj.get("score", 0.0))))
+                    label = obj.get("label", "neutral")
+                    out[idx] = {"label": label, "score": round(score, 3)}
+            return out
+        except urllib.error.HTTPError as exc:
+            detail = exc.read().decode("utf-8", "ignore")[:200]
+            log.warning("  Gemini HTTP %s (try %d/%d): %s", exc.code, attempt + 1, GEMINI_RETRIES, detail)
+            if exc.code == 429:
+                time.sleep(5 * (attempt + 1))   # rate limited — back off harder
+            else:
+                time.sleep(2 ** attempt)
+        except Exception as exc:  # noqa: BLE001
+            log.warning("  Gemini error (try %d/%d): %s", attempt + 1, GEMINI_RETRIES, exc)
+            time.sleep(2 ** attempt)
+    return None
+
+
+def score_sentiment(items: list[dict]) -> None:
+    """Add item['sentiment'] = {label, score} to each item, in place.
+
+    Skips items that already have sentiment (so re-runs only pay for new headlines).
+    If GEMINI_API_KEY is unset, leaves items unscored (the site shows them neutral and
+    a later cloud run with the key will score them)."""
+    todo = [it for it in items if "sentiment" not in it]
+    if not todo:
+        return
+    if not GEMINI_API_KEY:
+        log.warning("GEMINI_API_KEY not set — skipping sentiment for %d headlines", len(todo))
+        return
+    log.info("Scoring sentiment for %d headlines via %s", len(todo), GEMINI_MODEL)
+    scored = 0
+    for start in range(0, len(todo), SENTIMENT_BATCH):
+        chunk = todo[start:start + SENTIMENT_BATCH]
+        results = _gemini_batch([it["title"] for it in chunk])
+        if results is None:
+            log.error("  batch failed — leaving %d headlines unscored", len(chunk))
+            continue
+        for it, res in zip(chunk, results):
+            it["sentiment"] = res
+            scored += 1
+        time.sleep(1.0)   # be gentle on the free tier
+    dist = tally_labels(items)
+    log.info("Sentiment done: %d scored | pos=%d neg=%d neu=%d",
+             scored, dist["positive"], dist["negative"], dist["neutral"])
+
+
+def tally_labels(items: list[dict]) -> dict:
+    out = {"positive": 0, "negative": 0, "neutral": 0}
+    for it in items:
+        lbl = it.get("sentiment", {}).get("label", "neutral")
+        out[lbl] = out.get(lbl, 0) + 1
+    return out
+
+
+def mood_for(subset: list[dict]) -> dict:
+    """Aggregate a Market Mood reading for a list of items."""
+    scored = [it for it in subset if "sentiment" in it]
+    if not scored:
+        return {"index": None, "positive": 0, "negative": 0, "neutral": 0, "scored": 0, "total": len(subset)}
+    avg = sum(it["sentiment"]["score"] for it in scored) / len(scored)
+    d = tally_labels(scored)
+    return {
+        "index": round(avg * 100),       # -100..100
+        "positive": d["positive"],
+        "negative": d["negative"],
+        "neutral": d["neutral"],
+        "scored": len(scored),
+        "total": len(subset),
+    }
+
+
+def aggregate_mood(items: list[dict]) -> dict:
+    cats = ["Markets", "Economy", "Policy"]
+    return {"overall": mood_for(items),
+            **{c: mood_for([it for it in items if it["category"] == c]) for c in cats}}
+
+
 # --- output -----------------------------------------------------------------
-def write_outputs(items: list[dict], out_dir: Path, date: str, generated: str) -> None:
+def write_outputs(items: list[dict], out_dir: Path, date: str, generated: str,
+                  mood: dict) -> None:
     by_cat: dict[str, int] = {}
     for it in items:
         by_cat[it["category"]] = by_cat.get(it["category"], 0) + 1
@@ -238,6 +384,7 @@ def write_outputs(items: list[dict], out_dir: Path, date: str, generated: str) -
         "generated_et": generated,
         "count": len(items),
         "by_category": by_cat,
+        "mood": mood,
         "items": items,
     }
     day_file = out_dir / f"news_{date}.json"
@@ -250,7 +397,8 @@ def write_outputs(items: list[dict], out_dir: Path, date: str, generated: str) -
         try:
             d = json.loads(f.read_text(encoding="utf-8"))
             days.append({"date": d.get("date"), "count": d.get("count", 0),
-                         "by_category": d.get("by_category", {})})
+                         "by_category": d.get("by_category", {}),
+                         "mood": d.get("mood", {})})
         except (json.JSONDecodeError, OSError):
             continue
     days.sort(key=lambda x: x["date"] or "", reverse=True)
@@ -285,8 +433,11 @@ def main(argv: list[str] | None = None) -> int:
             log.error("No items collected from any feed — aborting without overwrite")
             return 1
         merged = merge_with_existing(new_items, out_dir / f"news_{date}.json")
-        write_outputs(merged, out_dir, date, generated)
-        log.info("=== OK: %d new this run, %d total today ===", len(new_items), len(merged))
+        score_sentiment(merged)                 # only scores headlines that lack it
+        mood = aggregate_mood(merged)
+        write_outputs(merged, out_dir, date, generated, mood)
+        log.info("=== OK: %d new this run, %d total today | mood index=%s ===",
+                 len(new_items), len(merged), mood["overall"]["index"])
         return 0
     except Exception as exc:  # noqa: BLE001
         log.exception("Run FAILED: %s", exc)

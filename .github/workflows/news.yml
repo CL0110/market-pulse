@@ -29,7 +29,9 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Scrape news feeds
+      - name: Scrape news feeds + score sentiment
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         run: python scrape_news.py --output-dir docs/data
 
       - name: Commit updated data

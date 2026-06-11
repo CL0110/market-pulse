@@ -31,6 +31,32 @@ body {
 .tagline { margin: 6px 0 2px; color: #cbd5e1; }
 .updated { margin: 0; font-size: .85rem; color: #94a3b8; }
 
+/* mood strip */
+.mood-strip {
+  display: grid;
+  grid-template-columns: 1.2fr 2fr;
+  gap: 16px;
+  margin: 22px 0 6px;
+}
+.mood-hero { display: flex; align-items: center; gap: 18px; padding: 18px 22px; }
+.mood-gauge { display: flex; align-items: baseline; gap: 4px; }
+.mood-value { font-size: 3rem; font-weight: 800; letter-spacing: -2px; line-height: 1; }
+.mood-scale { color: var(--muted); font-size: .9rem; }
+.mood-text h2 { margin: 0 0 2px; font-size: 1.05rem; }
+.mood-breakdown { margin: 0; color: var(--muted); font-size: .85rem; }
+.mood-pos { color: var(--economy); }
+.mood-neg { color: #dc2626; }
+.mood-neu { color: var(--muted); }
+.mood-cats { display: grid; grid-template-columns: repeat(3, 1fr); gap: 0; padding: 0; overflow: hidden; }
+.mood-cat { padding: 16px 18px; border-right: 1px solid var(--line); }
+.mood-cat:last-child { border-right: none; }
+.mood-cat .name { font-size: .72rem; text-transform: uppercase; letter-spacing: .05em; color: var(--muted); font-weight: 600; }
+.mood-cat .val { font-size: 1.7rem; font-weight: 700; margin: 2px 0; }
+.mood-cat .bar { height: 6px; border-radius: 3px; background: var(--line); overflow: hidden; display: flex; }
+.mood-cat .bar i { display: block; height: 100%; }
+.mood-cat .bar .p { background: var(--economy); }
+.mood-cat .bar .n { background: #dc2626; }
+
 /* charts */
 .charts {
   display: grid;
@@ -95,6 +121,16 @@ body {
 .item .src { color: var(--muted); font-weight: 600; }
 .item .time { color: var(--muted); }
 .empty { text-align: center; color: var(--muted); padding: 50px 0; }
+
+/* sentiment dot on each headline */
+.sent-dot { width: 9px; height: 9px; border-radius: 50%; display: inline-block; flex: 0 0 auto; }
+.sent-positive { background: #16a34a; }
+.sent-negative { background: #dc2626; }
+.sent-neutral  { background: #cbd5e1; }
+.sent-label { font-weight: 600; }
+.sent-label.sent-positive-t { color: #16a34a; }
+.sent-label.sent-negative-t { color: #dc2626; }
+.disclaimer { background: #fff7ed; border: 1px solid #fed7aa; border-radius: 8px; padding: 8px 12px; color: #9a3412 !important; }
 
 /* footer */
 .site-footer { border-top: 1px solid var(--line); background: var(--card); padding: 20px 0; margin-top: 20px; }

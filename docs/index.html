@@ -12,14 +12,25 @@
   <header class="site-header">
     <div class="wrap">
       <h1>📈 Market Pulse</h1>
-      <p class="tagline">Daily business &amp; economic news, aggregated from quality sources.</p>
+      <p class="tagline">Daily business &amp; economic news + AI sentiment, aggregated from quality sources.</p>
       <p class="updated" id="updated">Loading…</p>
     </div>
   </header>
 
   <main class="wrap">
+    <section class="mood-strip" id="moodStrip" aria-label="Market mood">
+      <div class="card mood-hero" id="moodHero">
+        <div class="mood-gauge"><span class="mood-value" id="moodValue">—</span><span class="mood-scale">/ 100</span></div>
+        <div class="mood-text">
+          <h2 id="moodLabel">Market Mood</h2>
+          <p id="moodBreakdown" class="mood-breakdown">Sentiment pending…</p>
+        </div>
+      </div>
+      <div class="card mood-cats" id="moodCats"></div>
+    </section>
+
     <section class="charts" id="charts" aria-label="Overview charts">
-      <div class="card chart-card"><h3>Headlines per day</h3><canvas id="chartTime"></canvas></div>
+      <div class="card chart-card"><h3>Market mood over time</h3><canvas id="chartMood"></canvas></div>
       <div class="card chart-card"><h3>Top sources today</h3><canvas id="chartSources"></canvas></div>
       <div class="card chart-card"><h3>Trending keywords</h3><canvas id="chartKeywords"></canvas></div>
     </section>
@@ -32,6 +43,12 @@
         <button class="tab" data-cat="Policy">Policy</button>
       </div>
       <div class="right-controls">
+        <select id="sentiment" aria-label="Filter by sentiment">
+          <option value="All">All sentiment</option>
+          <option value="positive">🟢 Positive</option>
+          <option value="negative">🔴 Negative</option>
+          <option value="neutral">⚪ Neutral</option>
+        </select>
         <input type="search" id="search" placeholder="Search headlines…" aria-label="Search headlines" />
         <select id="archive" aria-label="Choose a day"></select>
       </div>
@@ -43,8 +60,9 @@
 
   <footer class="site-footer">
     <div class="wrap">
-      <p>Auto-updated 3×/day via GitHub Actions · data is public · headlines link to their original sources.</p>
-      <p>Sources: CNBC · MarketWatch · Financial Times · Reuters · Calculated Risk · Federal Reserve · BLS · BEA · US Treasury · Google News</p>
+      <p>Auto-updated 3×/day via GitHub Actions · sentiment by Google Gemini · headlines link to their original sources.</p>
+      <p class="disclaimer">⚠️ The mood index reflects <strong>media tone</strong>, not a trading signal — it gauges how the news <em>reads</em>, and is most meaningful as a trend over time.</p>
+      <p>Sources: WSJ · CNBC · MarketWatch · FT · Bloomberg · Barron's · Reuters · Yahoo Finance · Seeking Alpha · Business Insider · The Economist · NPR · Guardian · Calculated Risk · Federal Reserve · BLS · BEA · US Treasury · Google News</p>
     </div>
   </footer>
 
