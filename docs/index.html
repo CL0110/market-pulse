@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Market Pulse — Daily Business &amp; Economic News</title>
+  <meta name="description" content="Daily aggregated business and economic news headlines from CNBC, MarketWatch, FT, Reuters, the Fed, BLS, BEA and more." />
+  <link rel="stylesheet" href="style.css" />
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>📈</text></svg>" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <h1>📈 Market Pulse</h1>
+      <p class="tagline">Daily business &amp; economic news, aggregated from quality sources.</p>
+      <p class="updated" id="updated">Loading…</p>
+    </div>
+  </header>
+
+  <main class="wrap">
+    <section class="charts" id="charts" aria-label="Overview charts">
+      <div class="card chart-card"><h3>Headlines per day</h3><canvas id="chartTime"></canvas></div>
+      <div class="card chart-card"><h3>Top sources today</h3><canvas id="chartSources"></canvas></div>
+      <div class="card chart-card"><h3>Trending keywords</h3><canvas id="chartKeywords"></canvas></div>
+    </section>
+
+    <section class="controls">
+      <div class="tabs" id="tabs" role="tablist">
+        <button class="tab active" data-cat="All">All</button>
+        <button class="tab" data-cat="Markets">Markets</button>
+        <button class="tab" data-cat="Economy">Economy</button>
+        <button class="tab" data-cat="Policy">Policy</button>
+      </div>
+      <div class="right-controls">
+        <input type="search" id="search" placeholder="Search headlines…" aria-label="Search headlines" />
+        <select id="archive" aria-label="Choose a day"></select>
+      </div>
+    </section>
+
+    <p class="result-meta" id="resultMeta"></p>
+    <section id="headlines" class="headlines" aria-live="polite"></section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="wrap">
+      <p>Auto-updated 3×/day via GitHub Actions · data is public · headlines link to their original sources.</p>
+      <p>Sources: CNBC · MarketWatch · Financial Times · Reuters · Calculated Risk · Federal Reserve · BLS · BEA · US Treasury · Google News</p>
+    </div>
+  </footer>
+
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

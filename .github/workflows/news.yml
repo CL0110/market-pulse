@@ -1,0 +1,45 @@
+name: Market Pulse (scrape)
+
+# Runs on GitHub's servers 3x/day, scrapes the feeds, and commits the JSON into
+# docs/data/. GitHub Pages (set to serve from /docs on main) then publishes the
+# updated site automatically. No servers, no API keys.
+
+on:
+  schedule:
+    # GitHub cron is UTC. US Eastern = UTC-4 (EDT) / UTC-5 (EST).
+    - cron: "0 13 * * *"   # ~9am ET  (catches the 8:30am BLS/BEA/Fed releases)
+    - cron: "0 17 * * *"   # ~1pm ET
+    - cron: "0 22 * * *"   # ~6pm ET
+  workflow_dispatch: {}     # manual "Run workflow" button
+
+permissions:
+  contents: write
+
+concurrency:
+  group: market-pulse
+  cancel-in-progress: false
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v6
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: "3.12"
+
+      - name: Scrape news feeds
+        run: python scrape_news.py --output-dir docs/data
+
+      - name: Commit updated data
+        run: |
+          git config user.name  "market-pulse-bot"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add docs/data
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "news: $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
