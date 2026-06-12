@@ -1,51 +1,1341 @@
 {
   "date": "2026-06-12",
-  "generated_et": "2026-06-12 10:02 EDT",
-  "count": 630,
+  "generated_et": "2026-06-12 13:53 EDT",
+  "count": 785,
   "by_category": {
-    "Markets": 336,
-    "Economy": 159,
-    "Policy": 135
+    "Markets": 462,
+    "Economy": 184,
+    "Policy": 139
   },
   "mood": {
     "overall": {
-      "index": -35,
-      "positive": 70,
-      "negative": 147,
-      "neutral": 167,
-      "relevant": 384,
-      "scored": 630,
-      "total": 630
+      "index": -29,
+      "positive": 94,
+      "negative": 170,
+      "neutral": 183,
+      "relevant": 447,
+      "scored": 785,
+      "total": 785
     },
     "Markets": {
-      "index": -14,
-      "positive": 48,
-      "negative": 63,
-      "neutral": 48,
-      "relevant": 159,
-      "scored": 336,
-      "total": 336
+      "index": -2,
+      "positive": 67,
+      "negative": 70,
+      "neutral": 58,
+      "relevant": 195,
+      "scored": 462,
+      "total": 462
     },
     "Economy": {
       "index": -59,
-      "positive": 20,
-      "negative": 78,
-      "neutral": 32,
-      "relevant": 130,
-      "scored": 159,
-      "total": 159
+      "positive": 24,
+      "negative": 94,
+      "neutral": 35,
+      "relevant": 153,
+      "scored": 184,
+      "total": 184
     },
     "Policy": {
-      "index": -50,
-      "positive": 2,
+      "index": -33,
+      "positive": 3,
       "negative": 6,
-      "neutral": 87,
-      "relevant": 95,
-      "scored": 135,
-      "total": 135
+      "neutral": 90,
+      "relevant": 99,
+      "scored": 139,
+      "total": 139
     }
   },
   "items": [
+    {
+      "title": "SpaceX market cap tops $2 trillion after shares of Elon Musk's rocket company gain 28% on debut",
+      "url": "https://www.cnbc.com/2026/06/12/spacex-stock-jumps-2-trillion.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-06-12T13:53:12-04:00",
+      "summary": "SpaceX shares soared on Friday as trading commenced on the Nasdaq.",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.8,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "TBIL: Real Return On Capital In Uncertain Times",
+      "url": "https://seekingalpha.com/article/4914630-tbil-real-return-on-capital-in-uncertain-times?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T13:50:17-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "How to get SpaceX stock — without buying the IPO",
+      "url": "https://www.cnbc.com/2026/06/12/how-to-buy-spacex-stock-without-buying-the-ipo.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-06-12T13:46:01-04:00",
+      "summary": "Investors will can hold SpaceX stock by virtue of owning shares in certain mutual funds and exchange-traded funds.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Trump name still must come down from Kennedy Center, judge says",
+      "url": "https://www.cnbc.com/2026/06/12/trump-loses-kennedy-center-name.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-06-12T13:45:33-04:00",
+      "summary": "President Donald Trump has asked a federal appeals court to stay a lower-court order that his name before removed from the performing arts center.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "ROCY: A Different Strategy To Generate Premium You Need To Know",
+      "url": "https://seekingalpha.com/article/4914629-rocy-different-strategy-to-generate-premium-you-need-to-know?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T13:44:47-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Trump admin: Iran deal signing likely in coming days, but not '100%' certain",
+      "url": "https://www.cnbc.com/2026/06/12/iran-deal-trump-pakistan-sharif.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-06-12T13:43:56-04:00",
+      "summary": "A deal to end the Iran war could be signed soon, a senior Trump administration official said, following conflicting statements in recent days from the warring nations.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "SpaceX IPO Live: Investors Await SPCX Stock Opening",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5FM3AwRHdtRkdRVnlSck9RMVJjRW13aWtCR1piNm5yYU5fSVY2VVVWajN5d1NCRmdNVGphZ3NobWxTTHVod2JNdmxfSDhjSkV4MW9fSHZ6YmRRVUluQ0l1bjRZY0M4b1c4NVdadWtVSjA0Ujc3dVE?oc=5",
+      "source": "WSJ",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-06-12T13:42:00-04:00",
+      "summary": "SpaceX IPO Live: Investors Await SPCX Stock Opening WSJ SpaceX IPO Draws More Than $100 Billion in Retail Orders Bloomberg.com Why We Think the SpaceX IPO Is Overvalued Morningstar SpaceX hit with sell rating by CFRA shortly after IPO CNBC SpaceX Raises Record $75 Billion in Hist",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Elon Musk becomes world’s first trillionaire after SpaceX shares jump on stock market debut – business live",
+      "url": "https://www.theguardian.com/business/live/2026/jun/12/spacex-float-us-stock-market-share-elon-musk-trillionaire-largest-ipo-ever-live-news-updates",
+      "source": "Guardian Business",
+      "feed": "Guardian Business",
+      "category": "Economy",
+      "published": "2026-06-12T13:41:55-04:00",
+      "summary": "The record-breaking IPO valued Musk’s company at $1.77tn after raising $75bn through a share offering SpaceX’s shares will be supported by a number of “forced buyers”, such as tracker funds. Richard Hunter, head of markets at interactive investor, explains: The Nasdaq index has t",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "S&P 500 rises as traders await Iran deal details, SpaceX's first trade: Live updates",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5QZnQ4UTR5MV9DTmdtZkxkWFJqdmdxR0xaZGZ4THB2U1UyN2hOaWQ5RFZaUzl2bkxqU05LQmowd1UwTUVOUDFaMV92VTV6ZUdoSDA4RlNzNW5aUHNsWWNoU054dHRuaWtEZ1lJM29URk9oTHZvTlBr?oc=5",
+      "source": "CNBC",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-06-12T13:39:00-04:00",
+      "summary": "S&P 500 rises as traders await Iran deal details, SpaceX's first trade: Live updates CNBC Stock Market Today, June 12: SpaceX Mega IPO Soars, Testing Tech Stocks at Midday Yahoo Finance S&P 500, Dow rise on Mideast deal hopes, SpaceX's historic debut Reuters SpaceX IPO: The stock",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.1,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "As investors flock to SpaceX, one trader eyes a sleepy 'stealth' play",
+      "url": "https://www.cnbc.com/2026/06/12/as-investors-flock-to-spacex-one-trader-eyes-a-sleepy-stealth-play.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-06-12T13:33:56-04:00",
+      "summary": "If you're looking for something a little more terrestrial, there's one stock that investors are overlooking.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Invesco Municipal Income Fund Q1 2026 Commentary",
+      "url": "https://seekingalpha.com/article/4914627-invesco-municipal-income-fund-q1-2026-commentary?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T13:28:00-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "KC could force dilapidated, historic Federal Reserve tower downtown into new hands",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBzcDVNWFhLN3NrZktWNzhheXRfU1owRHlacExuR2FUd1Q4UlY1MFk5c09ZNDNxZGVBNlNSTkE3MVIxQWlzaVYyVE01Tl9acW4tRzRJMW1TLUJSZkhpZHltakpGUGt5VUl0dnJJ0gFrQVVfeXFMTW5kb2ZLdG50VzZXSnkzUnA2V1luazRZb0FLMUJFcU9hdF84UWFwM3k2WHNKbWMyeTY1OEhGMDMtb1RvLXI1cXB6VXV5cTI4MWJlMXJ4aGdjZENqcFRJM2VwTldWOTlWeDh2WXM?oc=5",
+      "source": "Kansas City Star",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-12T13:24:11-04:00",
+      "summary": "KC could force dilapidated, historic Federal Reserve tower downtown into new hands Kansas City Star",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Correction: The Real Rate of Inflation In Japan: Official Numbers vs. BOJ Correction For Subsidies",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5TQ0pBTFNBeTMtN0RJaDd0bFNJZ3lyZWJ5bFB4NFppSTVaemg2RlBfQl8tS2ZpaVlkWGxNRTdzSkhTM1o2ck5aZWQxYlhHY3RocUx4ZkNxUzVjZjBKeFkxRjktYjk4YWdJLXItZmMxcHBIb2luY1htd19DQ1U?oc=5",
+      "source": "Japan Economy Watch",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-12T13:22:51-04:00",
+      "summary": "Correction: The Real Rate of Inflation In Japan: Official Numbers vs. BOJ Correction For Subsidies Japan Economy Watch",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Leef Brands Inc. (LEEEF) Shareholder/Analyst Call Transcript",
+      "url": "https://seekingalpha.com/article/4914605-leef-brands-inc-leeef-shareholder-analyst-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T13:22:10-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Stitch Fix: Price Not Reflective Of Turnaround Potential",
+      "url": "https://seekingalpha.com/article/4914626-stitch-fix-price-not-reflective-of-turnaround-potential?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T13:20:18-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "SpaceX vaults over $2 trillion valuation as stock jumps after record IPO",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQUM0N1pnemJMbTkxX1JYd0t1c3JRTDYtSmJiSkUwTkprOVZ1NTdVdFNQelEyc1FwV0ZRLXRfSWxGWmFtcXV0ODJoY2xUUU0tQS1kZC1oMmtKa3ZjX2ZXU3ZSZ0VtN3NHazRzWWlldnBHdEJFM2NzN2h1WG1mWU5rRi1IdTFwZE4xd2sxZlhoUHhnUjhPV2FpdlZIUFlFSjY3R3VaRzFicHg5blgzQThPcTdmYmU?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-06-12T13:15:21-04:00",
+      "summary": "SpaceX vaults over $2 trillion valuation as stock jumps after record IPO Reuters",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.8,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Remarks by Treasury Secretary Scott Bessent before the Petroleum Club of Houston",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBiR0U5UmFwLWllaV9VRm5aWURaa1QxRndDai1HOVM2bHByMUszLWlTZXpMQUtNZkM3ZS1MLVdNQnlUQ3oxWF9MS3RTNDdhNm1aSmZpaFFCekFFWC1IcEdjcy13?oc=5",
+      "source": "U.S. Department of the Treasury (.gov)",
+      "feed": "US Treasury",
+      "category": "Policy",
+      "published": "2026-06-12T13:15:00-04:00",
+      "summary": "Remarks by Treasury Secretary Scott Bessent before the Petroleum Club of Houston U.S. Department of the Treasury (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "US-Iran peace deal text agreed, says Pakistan’s PM",
+      "url": "https://www.ft.com/content/b91fc27b-8e50-48c1-b9e6-0c93aea19b76",
+      "source": "Financial Times",
+      "feed": "Financial Times",
+      "category": "Markets",
+      "published": "2026-06-12T13:13:45-04:00",
+      "summary": "Shehbaz Sharif’s comments come after Trump accused Tehran of misrepresenting pact’s details",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Chegg, Inc. (CHGG) Shareholder/Analyst Call Prepared Remarks Transcript",
+      "url": "https://seekingalpha.com/article/4914631-chegg-inc-chgg-shareholder-analyst-call-prepared-remarks-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T13:12:10-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "UTG: AI Demand Pull Meets Higher Rate Pressure",
+      "url": "https://seekingalpha.com/article/4914625-utg-cef-ai-demand-pull-meets-higher-rate-pressure?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T13:12:04-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Oil prices fall after Pakistan says U.S. and Iran have reached final peace deal text",
+      "url": "https://www.cnbc.com/2026/06/12/oil-prices-wti-brent-on-hopes-of-us-iran-deal-despite-tehran-pushback.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-06-12T13:07:36-04:00",
+      "summary": "Oil prices fell Friday after a proposed peace deal that would see the Strait of Hormuz reopen was reported by Iranian state media.",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Average gas prices pass $5 a gallon in Chicago as inflation surges to 3-year high",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE41WW9lRC1iZjdGUlgyM1JDMDZGM2RsM0JoR2ZWa1NVZlpkSEZ2NnRvb0VsSFFzMFhIRXNtUXJVTnlDS3o3Z1pUenhiY2hVeG9veWM0aURETHkzc2NudDVKaDJRX1c4NDlLM3doaHFfTE5nTzBXSWhpLQ?oc=5",
+      "source": "Chicago Tribune",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-12T13:05:23-04:00",
+      "summary": "Average gas prices pass $5 a gallon in Chicago as inflation surges to 3-year high Chicago Tribune",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "It's Too Early For An Upgrade For Franklin Electric, Even If Sales Are Soaring",
+      "url": "https://seekingalpha.com/article/4914623-its-too-early-for-an-upgrade-for-franklin-electric-even-if-sales-are-soaring?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T13:03:17-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Grafton Group plc (GROUF) Analyst/Investor Day - Slideshow",
+      "url": "https://seekingalpha.com/article/4914638-grafton-group-plc-grouf-analyst-investor-day-slideshow?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T13:02:57-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Judge blocks DOJ 'anti-weaponization' fund for longer, wants guarantee it’s dead",
+      "url": "https://www.cnbc.com/2026/06/12/trump-doj-fund-preliminary-injunction-blanche-bessent.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-06-12T13:01:13-04:00",
+      "summary": "A judge gave Acting Attorney General Todd Blanche and Treasury Secretary Scott Bessent a week to submit a sworn declaration the DOJ fund was not going forward.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "SpaceX: The Most Misunderstood IPO In Decades",
+      "url": "https://seekingalpha.com/article/4914628-spacex-the-most-misunderstood-ipo-in-decades?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T13:00:34-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "SpaceX 'proxies' plunge as real deal arrives: Here's where traders are buying the dip",
+      "url": "https://www.cnbc.com/2026/06/12/spacex-proxies-crash-as-real-deal-arrives-heres-where-traders-are-buying-the-dip.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-06-12T12:58:37-04:00",
+      "summary": "SpaceX \"proxy stocks,\" whose options volumes were booming ahead of Friday's historic initial public offering, are unwinding gains.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Elon Musk becomes world's first trillionaire as SpaceX begins trading on the Nasdaq",
+      "url": "https://www.cnbc.com/2026/06/12/elon-musk-trillionaire-spacex.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-06-12T12:58:09-04:00",
+      "summary": "Elon Musk's stake in SpaceX is worth more than $766 billion. Combined with his Tesla holdings, Musk's net worth as of Friday is roughly $1.05 trillion.",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "SkyWater Technology Is An IonQ Bet Dressed Up As A Chip Foundry",
+      "url": "https://seekingalpha.com/article/4914622-skywater-technology-is-an-ionq-bet-dressed-up-as-a-chip-foundry?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T12:57:45-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "U.S. oil prices drop to $84 a barrel after Pakistan says a U.S.-Iran peace deal has been reached",
+      "url": "https://www.marketwatch.com/story/oil-prices-extend-declines-on-possible-u-s-iran-peace-deal-to-reopen-strait-of-hormuz-6d2822bd?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-06-12T12:55:00-04:00",
+      "summary": "Oil prices fell Friday, with the international benchmark Brent crude briefly sliding to its lowest levels since the early days of the Iran conflict, after Pakistan said a peace deal between the U.S. and Iran had been reached.",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Apollo selects Austin as site of second headquarters",
+      "url": "https://www.ft.com/content/036a838f-8209-4df7-8cbc-bb069e4e703a",
+      "source": "Financial Times",
+      "feed": "Financial Times",
+      "category": "Markets",
+      "published": "2026-06-12T12:54:32-04:00",
+      "summary": "Private capital giant chose Texas city over Miami and Palm Beach as private schools’ capacity fills up in Florida",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Wesfarmers Limited (WFAFY) Discusses Strategic Priorities and Long-Term Value Creation at Strategy Briefing Day - Slideshow",
+      "url": "https://seekingalpha.com/article/4914635-wesfarmers-limited-wfafy-discusses-strategic-priorities-and-long-term-value-creation-at?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T12:53:54-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Wesfarmers Limited (WFAFY) Discusses Strategic Priorities and Long-Term Value Creation at Strategy Briefing Day Transcript",
+      "url": "https://seekingalpha.com/article/4914632-wesfarmers-limited-wfafy-discusses-strategic-priorities-and-long-term-value-creation-at?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T12:52:30-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "S&P 500, Dow rise on Mideast deal hopes, SpaceX's historic debut",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeXNKNzNQRjdTSU90RjJ6d0JSM1FNVHRUQ1Q3VTM1VTlRSWZfVkoxcU9DRzQxRkE5R2JNdk9QelpoS3RoS29rNGVJTzNpWnVydDdweHhlcEVpd2hWNFVKcV9JUWNpODNzdGVSVlRTUVNKenhMdWpIZGd2RlRwWlBSNS1lWkNfRkRUdFBlUzNYemNtclNFcTdRR2Q4eWMyaERXV3dLc1VMQWQwdVAyUzVvNQ?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-06-12T12:48:06-04:00",
+      "summary": "S&P 500, Dow rise on Mideast deal hopes, SpaceX's historic debut Reuters",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Recursion Pharmaceuticals: Short-Trade Crowded But Near-Term Squeeze Not Guaranteed",
+      "url": "https://seekingalpha.com/article/4914620-recursion-pharmaceuticals-short-trade-crowded-but-near-term-squeeze-not-guaranteed?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T12:43:10-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "U.S. Sentiment Underlines K-Shaped Consumer Strife",
+      "url": "https://seekingalpha.com/article/4914619-us-sentiment-underlines-k-shaped-consumer-strife?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T12:42:00-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "New SpaceX millionaires are reinventing the business of managing large wealth",
+      "url": "https://www.cnbc.com/2026/06/12/spacex-millionaires-wealth-management.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-06-12T12:40:44-04:00",
+      "summary": "Wealth advisors say SpaceXers have unique ways of addressing their financial challenges, including whiteboarding, troubleshooting and AI.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "The Real Rate of Inflation In Japan: Official Numbers vs. BOJ Correction For Subsidies",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE0zd0JEOXZCWUpyWHNrQ0JsMndERk5ER3F0TVg2U0FHYkFqX284aTlXR1hHZC1wVmVveU1kZDFjVVBHY2d0a0lZOVlSWE1FQks2NDdpa1J4UVFTSHhWUTA3WTI2c0RDZlhRSUFUVFEzZmZZaGhoWjlzaDRR?oc=5",
+      "source": "Japan Economy Watch",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-12T12:38:21-04:00",
+      "summary": "The Real Rate of Inflation In Japan: Official Numbers vs. BOJ Correction For Subsidies Japan Economy Watch",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Clarus Corporation Is Looking For A Buyer",
+      "url": "https://seekingalpha.com/article/4914616-clarus-corporation-is-looking-for-a-buyer?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T12:36:30-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Novo Nordisk: Wegovy Pill Is Encouraging But Still Not Enough To Make Me Buy",
+      "url": "https://seekingalpha.com/article/4914615-novo-nordisk-wegovy-pill-is-encouraging-but-still-not-enough-to-make-me-buy?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T12:33:10-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Sam Bankman-Fried loses bid to overturn crypto fraud conviction",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQkxvLTNYcFBTOHNBRlpoeS11emZyY053RVJuMFp6c3BCeTdmVzZ0QXdDRDZzb2lrOFM0WGdUVTkzT3d6bFhuYWN3aEVSV0Zkc2VlcUF1WUc3QlJOeS13cHZDRnJvaHVOWi1ISmRyR3d0TFFiQ3E0czJOVklkUE02UEpnRmRHZzdSVEQ3eDdWcXhiSGVubUxoNERvcjdWS01ZQXBNTUh2b1A2d3ZVSTlkblNpYw?oc=5",
+      "source": "Reuters",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-06-12T12:31:34-04:00",
+      "summary": "Sam Bankman-Fried loses bid to overturn crypto fraud conviction Reuters Sam Bankman-Fried’s conviction upheld by appeals court Politico Appeals court upholds FTX co-founder Sam Bankman-Fried's fraud conviction CNBC Sam Bankman-Fried loses fraud conviction appeal Financial Times D",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "I’m 55 and earn $100,000. Should I take a $2,900 monthly pension — or $2,200 with 3% annual hikes?",
+      "url": "https://www.marketwatch.com/story/im-55-and-earn-100-000-should-i-take-a-2-900-monthly-pension-or-2-200-with-3-annual-hikes-c02dc525?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-06-12T12:30:00-04:00",
+      "summary": "“I plan to continue working until age 60.”",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Oil touches three-month low after Trump says US close to Iran deal",
+      "url": "https://www.ft.com/content/9d8b31b0-1269-458e-b831-9b5e079e564e",
+      "source": "Financial Times",
+      "feed": "Financial Times",
+      "category": "Markets",
+      "published": "2026-06-12T12:28:51-04:00",
+      "summary": "Stocks and government bonds make gains on hopes energy shock will ease",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.3,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Here are all the red flags in the SpaceX IPO",
+      "url": "https://www.marketwatch.com/story/here-are-all-the-red-flags-in-the-spacex-ipo-7c55b31e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-06-12T12:28:00-04:00",
+      "summary": "You have to give Elon Musk credit for his vision — and chutzpah.",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fidelity National Financial: Strong Title Margins And F&G Growth Create An Attractive Setup For 2026",
+      "url": "https://seekingalpha.com/article/4914614-fidelity-national-financial-strong-title-margins-and-f-and-g-growth-create-an-attractive-setup-for-2026?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T12:27:58-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "LightPath Taking Off",
+      "url": "https://seekingalpha.com/article/4914613-lightpath-taking-off?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T12:26:21-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Microsoft Stock Is Having a Rough Week. It’s the Latest AI Play Under Pressure.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE8weE5HZlNudnhFeW1GRnVrZktad0lGV2xBbXZXZHZyOG9BSHRtM2JDYTdnVVpnNjFvMzNlMzBIZUtSekZmQlkwX2pTcktPU21BVHItaGZFV2VKNU0yQW80X0E5SW9FOTExR0FfaHAtTzliMk5mbnRkMw?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-06-12T12:25:00-04:00",
+      "summary": "Microsoft Stock Is Having a Rough Week. It’s the Latest AI Play Under Pressure. Barron's",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Why Goldman Is Cautious on Micron Stock Ahead of Earnings",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQMDMtcmE5RkdOSlpnQ2QxbXd0UzhDLUR2M2RuT3pxb0xya3dwckIxcUE1RXJPZmpZN3Rjc0p6TXNFTXhlSVlma2pEb0lFYjRfX0JURTJJZkY1b2xPdWZ6akFjeDRNQm5JTVlnLW84bjNaREtENDJpTTZWeldhc1p4d1lZN0JMM3l1VXE3Yw?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-06-12T12:24:00-04:00",
+      "summary": "Why Goldman Is Cautious on Micron Stock Ahead of Earnings Barron's",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.3,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "US consumer sentiment improves in June due to easing gas prices",
+      "url": "https://www.theguardian.com/business/2026/jun/12/consumer-sentiment-june-data-gas-prices",
+      "source": "Guardian Business",
+      "feed": "Guardian Business",
+      "category": "Economy",
+      "published": "2026-06-12T12:23:00-04:00",
+      "summary": "Consumer sentiment still remains at historically low levels amid Iran war and rising inflation, new survey shows Easing gas prices are making Americans feel better about their personal finances and the economy in June, but consumer sentiment remains at historically low levels ami",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "1,000,000,000,000 (that’s 1 trillion), in graphics",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNU3REMXNELWRSNmlBY1IwN2VkaURhbkd3NVRrVGxsWTdEU1A5QUszV252MlNXM21PV0pBYmpuTDZPVmJ2NkhSRjZyX3RQaFgyQXJUdGVUdXpQem1DUnEyd3FOVmx2dDRaR1NfMGtfRlIwYTZLNVEyRkZ0UGlOQ2Q3TkFQWFdkNm5MUWxaT2prTEFJZ21QNEtuYjllbzU1NVlaTnRtcm5Sa0tlZFp1blFZRXV6SlNQTVU?oc=5",
+      "source": "NBC News",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-06-12T12:16:35-04:00",
+      "summary": "1,000,000,000,000 (that’s 1 trillion), in graphics NBC News SpaceX IPO latest: Elon Musk becomes world's first trillionaire as opening shares soar Sky News What Elon Musk’s trillion means in real terms AP News You Have No Idea What a Trillion Dollars Is—and We Have Proof WSJ Insi",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Inflation anxiety seen dampening appetite for credit",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxONnJjclZqMVhic2JXVUN4a3lxNDhVeHZSdWlSdm43Um1idUQ0cHRxcFI4SVV4bGp0eERhdmlTWE8yRlh3RkdUanplcFNLVmZnZXNxUjJLQWVSa1ctNDhvdF92UDVDY1M0SWdqNk1lYnpwaTdaY1JrUnNBNHBZTEhES3hWaENINjlzSklNbXFsU3JXUQ?oc=5",
+      "source": "Scotsman Guide",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-12T12:15:19-04:00",
+      "summary": "Inflation anxiety seen dampening appetite for credit Scotsman Guide",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Adobe: The Post-Earnings Selloff Is A Massive Opportunity",
+      "url": "https://seekingalpha.com/article/4914612-adobe-the-post-earnings-selloff-is-a-massive-opportunity?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T12:15:11-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Comcast Is A Mixed Bag But The Valuation Is Attractive",
+      "url": "https://seekingalpha.com/article/4914611-comcast-is-a-mixed-bag-but-the-valuation-is-attractive?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T12:15:09-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.4,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Toll Brothers: Better Execution, But Still Not Enough For A Buy",
+      "url": "https://seekingalpha.com/article/4914556-toll-brothers-better-execution-but-still-not-enough-for-a-buy?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T12:11:58-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Kevin Warsh Navigates A Hawkish Fed Shift",
+      "url": "https://seekingalpha.com/article/4914609-kevin-warsh-navigates-hawkish-fed-shift?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T12:11:00-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Sam Bankman-Fried loses fraud conviction appeal",
+      "url": "https://www.ft.com/content/adbf76dc-c476-4f8f-9a6e-3bea0a5c24a6",
+      "source": "Financial Times",
+      "feed": "Financial Times",
+      "category": "Markets",
+      "published": "2026-06-12T12:10:26-04:00",
+      "summary": "Three-judge panel upholds 25-year prison sentence for founder of collapsed crypto exchange FTX",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "The Weekly Closeout: Trump loves inflation and Abercrombie opens a ‘pinnacle’ store in SoHo",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOVTBRMnpKbjVqYzZNbWdLNEdrOHBUenlRSDNJbE14aGltdjJRUThrMmxJNThaTVFWR2JYZk5Mb2pSQ29YSGRyYkYtaVQ0NjZhNHVablBIWVBiSi1BUkNQenNMRFFldEhndUpUcS12UzdxNmYtaGY2NFRXN0E5Nm9xS2dIZ1lPaW9IVXl5SnU3SmVRUWxRakpBWmN1cW96NzB6TmtITUc3N3VkYzNoMlpsT3BDQQ?oc=5",
+      "source": "Retail Dive",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-12T12:07:11-04:00",
+      "summary": "The Weekly Closeout: Trump loves inflation and Abercrombie opens a ‘pinnacle’ store in SoHo Retail Dive",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.3,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "SpaceX, Tesla, EchoStar, and More Stocks That Explain Today’s Market",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBSMjcyMkRTM3FORUgzWERycXA0dzI1NFRDTHJuNEc5QzB6UGZsNHB6Z1RxTXNEV0xnTFdHR0NTYjNfRVpnS0diUHJMRlRGRjNrTTgyUHZCdHJMeXRWZ0Q1TkRmQkc?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-06-12T12:05:00-04:00",
+      "summary": "SpaceX, Tesla, EchoStar, and More Stocks That Explain Today’s Market Barron's",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "SpaceX At 25x 2027 Sales Is Reasonable If You Understand What Starship Does",
+      "url": "https://seekingalpha.com/article/4914608-spacex-at-25x-2027-sales-is-reasonable-if-you-understand-what-starship-does?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T12:04:22-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "AMD is seen as a CPU stock — but it’s gaining ground here, too",
+      "url": "https://www.marketwatch.com/story/amd-is-seen-as-a-cpu-stock-but-its-gaining-ground-here-too-69a55e0f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-06-12T12:04:00-04:00",
+      "summary": "Wall Street is underestimating how much Meta will spend on AMD’s AI chips, a Citi analyst said.",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.4,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Adobe Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "url": "https://seekingalpha.com/article/4914624-adobe-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T12:03:29-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Tired of chaos, investors retreat from oil market at record pace",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORENFaVhIaTdJZmQzcURNT2t2aUstTFhuYjBjaVBUZld4RkpZUnZqQkx3Uk5WZWcyakRTZDN0ZFBhV2Q4V3Myc0Z2YUoyQURnemtVU1BKSEttMEQxQ0kyLUlCcVZXa05Vb3VsN2M1VWdxYTdlQ0ZzQThheV9mYnB0ejgzeVFWTk9ac2dmamFoOHRjbmh4cUhjV0FRbkJTc0FCTXU0aFQ4cw?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-06-12T11:58:26-04:00",
+      "summary": "Tired of chaos, investors retreat from oil market at record pace Reuters",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Jim Cramer calls this chipmaker his No. 1 stock — and sees 63% upside ahead",
+      "url": "https://www.cnbc.com/2026/06/12/cramer-calls-this-chipmaker-his-no-1-stock-and-sees-63percent-upside-ahead.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-06-12T11:56:15-04:00",
+      "summary": "The Investing Club holds its \"Morning Meeting\" every weekday at 10:20 a.m. ET.",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Credo: Don't Chase This Winner Over The Cliff - Downgrade To Hold",
+      "url": "https://seekingalpha.com/article/4914604-credo-dont-chase-this-winner-over-the-cliff-downgrade-to-hold?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T11:51:01-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Boston Scientific: The Market Is Pricing A Broken Compounder-We See A Reset One",
+      "url": "https://seekingalpha.com/article/4914603-boston-scientific-the-market-is-pricing-a-broken-compounder-we-see-a-reset-one?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T11:49:51-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Plug Power's Turnaround Is Taking Shape, But Risks Remain",
+      "url": "https://seekingalpha.com/article/4914601-plug-power-turnaround-is-taking-shape-but-risks-remain?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T11:48:34-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.1,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Adobe: Do Not Touch This AI Show-Me Story",
+      "url": "https://seekingalpha.com/article/4914600-adobe-do-not-touch-this-ai-show-me-story?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T11:48:22-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "VDY: A Canadian Yield Compounder, But Not My Top Pick Today",
+      "url": "https://seekingalpha.com/article/4914599-vdy-a-canadian-yield-compounder-but-not-my-top-pick-today?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-06-12T11:45:49-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Inflation reaches 3-year high and these products were most affected",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObGExS3hQT3Y5WHdwd2tQTVJmVlE5YThnaEdJQ2tjaDVadXJNOTdZNERmWDF6WHVaRHhOODA4TUJlR2FpVVkyTnduT2hhaGc1aVZXd2VaZE1MVFk0ZWM3ZzZUcjFNYjRCTjVCQTJZb0kxVWZzdzJ4am0tcE42eHlMSFRrZUtvdWE1MzVqN0xEQklnWk1OOTN0ZGlIYXFoLUxRbGlQczJINA?oc=5",
+      "source": "Audacy",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-12T11:21:35-04:00",
+      "summary": "Inflation reaches 3-year high and these products were most affected Audacy",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Options volume in space stocks boomed as investors look for any way 'to get long SpaceX'",
+      "url": "https://www.cnbc.com/2026/06/12/space-stocks-jump-with-huge-demand-as-investors-clamor-for-any-way-to-get-long-spacex.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-06-12T11:18:50-04:00",
+      "summary": "\"There's a ton of short-dated call buying in these names as a way to get long SpaceX,\" Danny Kirsch, head of options trading at Piper Sandler, said.",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Manufacturing revival complicates inflation fight",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPUWUyckhuMHM2RndJNWZWLUphTDJPNGFBa2RzdHE4MmJYUEhkTHN4bjBfY25xUUktNUVnRnp0dXdVSDRqSDRuVFBaNFcxVVozUkxUM3pqLTV3aWtydWRrd0xRSFRpZG5VWHQxd25JTDdoVlh2alBydHB5M3Z3ZjRvb3FldExNekpEdlJHNGF4dVU5TGpPQnpocG40OVZfME41UWFvWVlXNVhJT3BCekxtZllvbTQwbkVZRWpXWkhxZy1yM1FiSE9EQ2ZiZXE2cTZwckE?oc=5",
+      "source": "T. Rowe Price",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-12T11:18:42-04:00",
+      "summary": "Manufacturing revival complicates inflation fight T. Rowe Price",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "My company fired one manager and is doing an ‘organizational reshuffling.’ Am I in trouble?",
+      "url": "https://www.marketwatch.com/story/my-company-fired-one-manager-and-is-doing-an-organizational-reshuffling-am-i-in-trouble-6909eb40?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-06-12T11:18:00-04:00",
+      "summary": "“They let go of a pretty high-up manager who they only hired a month ago.”",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Some U.S. states still don't know if the World Cup will benefit them financially—just look at New Jersey",
+      "url": "https://www.cnbc.com/2026/06/12/2026-world-cup-host-states-new-jersey-costs-financial-benefits.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-06-12T11:12:09-04:00",
+      "summary": "Millions are expected to attend 2026 World Cup matches across North America. For at least one host state, New Jersey, the tournament also brings mounting costs.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Total nonfarm payroll employment increased by 172,000 in May 2026",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNUDd4TEkwRnV2dEJSNU1OOGtaMlZhcGZBSXlDTXNTTzFlNnctVzdnZkI1Y1dTV0VKVTNwdzZQd1IwM3I2MkJiTXNMNkZJZV85LVVQMXctVHRoTlpCNDV6Y1pIVlpiel9UejJKX0d5UkFsMGR1RC1nX0hSQzVIQ1IwNkw4QjZNWW9raHZlWFNTMGRqcVNXOW5yemIzZFc2UDJPWURjVw?oc=5",
+      "source": "Bureau of Labor Statistics (.gov)",
+      "feed": "BLS",
+      "category": "Policy",
+      "published": "2026-06-12T11:02:11-04:00",
+      "summary": "Total nonfarm payroll employment increased by 172,000 in May 2026 Bureau of Labor Statistics (.gov)",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Former star bond investor Ken Leech pleads guilty to obstructing probe",
+      "url": "https://www.ft.com/content/ea2f30d4-4ae4-47cc-b2a8-095328452f0b",
+      "source": "Financial Times",
+      "feed": "Financial Times",
+      "category": "Markets",
+      "published": "2026-06-12T10:55:01-04:00",
+      "summary": "Trial on charges of ‘cherry picking’ profitable trades for favoured portfolios was scheduled to begin on Monday",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Congressional hopefuls talk inflation in Daytona Beach - Daytona Beach News-Journal",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQM1FrMGtwdXhoWUtNeG50RFVLWjBYVEh0Z3ZzUHZSYklJWG50UURaX3ljMVdYT2RuYkliamZVajZ4VTJCNFVKc2xEQkNXYXRXSnZsM0Y2LXVHWThnTVI3NzZMd3hqVzQxUnZIVWJnSk0yRk9aX3NaRnIyZmdJY0dKZnRVWW1FX0QwTDJhQ0ozOWV1LUlGTHg4S1N1a0c4R0E4QjlDemNwa0FpeDRfNGFkX0l5dnpLeXBIYVR3UUpuUDh0ZFJlVXl0OENib19IT3F1a1JF?oc=5",
+      "source": "Daytona Beach News-Journal",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-12T10:42:00-04:00",
+      "summary": "Congressional hopefuls talk inflation in Daytona Beach Daytona Beach News-Journal",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "‘This would be a one-time event’: How can I take extra money from my 401(k) without triggering higher Medicare premiums?",
+      "url": "https://www.marketwatch.com/story/this-would-be-a-one-time-event-how-can-i-take-extra-money-from-my-401-k-without-triggering-higher-medicare-premiums-fef1586d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-06-12T10:30:00-04:00",
+      "summary": "“I generally withdraw money from my traditional 401(k) for projects, larger expenses and sometimes just to stay ahead on upcoming bills.”",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "‘It seems too good to be true’: At a steak-dinner retirement seminar, the guy said annuities can outperform the market. Is that true?",
+      "url": "https://www.marketwatch.com/story/it-seems-too-good-to-be-true-at-a-steak-dinner-retirement-seminar-the-guy-said-annuities-can-outperform-the-market-is-that-true-33e11b0a?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-06-12T10:30:00-04:00",
+      "summary": "“He claimed that fixed-rate annuities are the sparkly, rainbow-fairyland of investments.”",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "ECB Raises Interest Rates by 25 Basis Points Due to the Inflationary Impact of the War in the Middle East",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNYzdWd01TY1p3bENRZWVrRGNlRXBRUWNfNjE3QVdxNDdNOFBCVU01SFdxcVMtckZvRW5iTllBSEpaV1ZIalBGbUxzWjRBMUdDTDJfQXhrS2ZOQ0JPQ0QwSTJ0S3djVjNEVUhCY1FFNWNLdTV0a19TU1B2bEtzcXY2RDBmOXJaTFNQVGhVQ2ZqU3p6eEc2OWtLcXlUajY5QUtpQU1NQWVGRkxxMHhoNUw1anR4NHdMYVdfVjBNcm9LM1Juc29HT3k5OVVzTFVYbnBSbXpkZi1JSXphVFNNQWxaN1FZWHBHZw?oc=5",
+      "source": "Funds Society",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-12T10:28:48-04:00",
+      "summary": "ECB Raises Interest Rates by 25 Basis Points Due to the Inflationary Impact of the War in the Middle East Funds Society",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Shell pauses $3 billion share buyback ahead of ARC acquisition vote",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNnpwaG1JelBPQlh0M2ZPVDFYenh6dVBxdmxEWi0yeXdjTU1PTmI0dXdWWmh4dFBXOFN1N1BNMHBNaHNBUTRPX0NOTlFfXzEyanJTbVRiVmRwcGdPNzdnM0l3SzgwOW5CVHZjdFhkUlBwVzFDM2RwTEVpb1NiX29yd0hEeHlWdGpF?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-06-12T10:25:47-04:00",
+      "summary": "Shell pauses $3 billion share buyback ahead of ARC acquisition vote Reuters",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "SpaceX is cheap on a price-to-cosmos ratio",
+      "url": "https://www.ft.com/content/60fcbe6c-e074-4cd9-9816-cdae8112862f",
+      "source": "Financial Times",
+      "feed": "Financial Times",
+      "category": "Markets",
+      "published": "2026-06-12T10:24:29-04:00",
+      "summary": "Terrestrial valuations don’t apply when it comes to Elon",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "US consumer sentiment improves in June",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNenl0OHVZSjNUQ05QM0FTbnhld3NWZ3k1ZzdPWHU2YVU3OGFxenUyWnBZSzVvZFpCSHNyc0pfWlVEclV6TTNNWDRiTFhJUnlBUlhTSVN3bGREV1pTSnRub2lJZ1ZZbDRDT21MQkgtcDY5TDlGekI3QXl2OWtseWppbzdHWWdOOWc?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-06-12T10:17:17-04:00",
+      "summary": "US consumer sentiment improves in June Reuters",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Consumer sentiment rises for the first time in three months",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOY1B6Y21HalkyaU5MdWd5NWJiUzY3YlNSY2VMV0xUVUpsVzVXQTEzM2NsX1Rjdm8xN1dSRkZPeS14cGNhT2ZQbDZsS25mcTQ3OEtPN2p3ZjhnbG9neHprdU01MHViRy1jVDlMd1ZCOFk5WkRINU92UDIyOW90V2RxRg?oc=5",
+      "source": "CNN",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-12T10:06:22-04:00",
+      "summary": "Consumer sentiment rises for the first time in three months CNN",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.4,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Embraer's Eve vows to spend cautiously, eyes 2028 'flying car' certification",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdS1yZWdOeDFsX1RKeHhha1RDUmtJR2YwTHhFb3JVWldjbDZCYjljbTR5a2l1RGFfQ0pVRzJkMEJtV1hhRUctd0stYlYzQ0otTHVZd0p0NjgxWTBjbUxHUE1RbTNqMC1pUEJMYVdmeVhoaENpNlN6YzNHT1E4Vk9YdVY0a0R2UmlUc0lWMkZfODdoOHFJcUpubnpoMkJoNHpEd1hrZjZFUVdDanJRYmNrLXhxb2VyZWlKWC1NLVpaOEk4RTlzUV9UZXU5Xzg?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-06-12T10:05:44-04:00",
+      "summary": "Embraer's Eve vows to spend cautiously, eyes 2028 'flying car' certification Reuters",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Uber Weighs Delivery Hero Asset Sales to Smooth Full Takeover",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdVVYNW1pczYzUEt3ZFJERGZUZ0dmUXhTUjhuTW9LeVh6SThJVlE1bE5nVllpWFdVWXRLdWxGajY5dWFOUzIwZnVOX1M3ZnlBX1k0TlpMa2Y2UWVjXzBVU01ueEJHa2pFN0dNZUoyb0xpeEZxWWRJQVN2SXNSMkZfZ2UyN0ZHay1UVnhpUGhSUGVuRnlvSjhTRlk2YmJSa3QyNHNmbWZJaEhrbjVHNnFEU2dn?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-06-12T10:03:49-04:00",
+      "summary": "Uber Weighs Delivery Hero Asset Sales to Smooth Full Takeover Bloomberg.com",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Rolex raises gold watch prices again as super-rich buyers are undeterred",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVG9zeTZaVGg0NEFvaExyel8zSGlIZlRwSm1icWlURC1tX05IVF9OdFFLQnFuZWhKREZzaEFjdmJmSjFHaHNsMm5TWWJycXExSGdqMmx0R0thNUowY25UblZDQ0xBRnN2bElpdUlweGg2VlhVQzFyWVZHVDhRd0lYbkZkelRKdGVnUjkzYjhZZnJIRVg1V0I3YXhwY2RNelRhWEQwbVNtNllWdTVMbF9mWm13bjM?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-06-12T10:00:57-04:00",
+      "summary": "Rolex raises gold watch prices again as super-rich buyers are undeterred Reuters",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
     {
       "title": "3D Systems: There Is No Real Moat Even After Pivoting",
       "url": "https://seekingalpha.com/article/4914498-3d-systems-there-is-no-real-moat-even-after-pivoting?source=feed_all_articles",
@@ -77,6 +1367,21 @@
       }
     },
     {
+      "title": "What To Expect From Wednesday's Fed Decision: Flat Interest Rates and a New Direction",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOQldpdGEwMFVDQWw2M24wRkxJLWlaRG8xVlhZQ1ZBUDEzUUJhR1gwaEVhcHFvUHdIV0kyYXVfSkhkVGVUOHpGV1VSOVRXMFhHV0tKSHBFMXJmVzRUc3V4UXlDMkdURk13SFJ1SlhiZlNMeGhtNTg0dkRTUlZ5Ui1qVjQxUFhtMXdsS3FubFQzbFFMWTU0YzgxZzA2Zmw1WHZadjhlS0lSYkpNb04wdWExbTdEWQ?oc=5",
+      "source": "Investopedia",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-12T09:59:26-04:00",
+      "summary": "What To Expect From Wednesday's Fed Decision: Flat Interest Rates and a New Direction Investopedia",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "‘I feel like he may be taking advantage of us’: Our adviser pushes annuities after we already said no. Do we fire him?",
       "url": "https://www.marketwatch.com/story/our-financial-adviser-keeps-pushing-annuities-even-after-we-said-no-should-we-fire-him-19188c98?mod=mw_rss_topstories",
       "source": "MarketWatch Top",
@@ -84,6 +1389,36 @@
       "category": "Markets",
       "published": "2026-06-12T09:59:00-04:00",
       "summary": "“I feel like he may be taking advantage of us.”",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "ECB’s Kazimir Says Rates Must Be Lifted More to Tackle Inflation",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMEw5YmhhX3g5ME5DV2R6Wkd2OEdTWjE4aHlLUXZ5Mkl0cVV4eEExX1BLb2dDUVNKMG5RWWxjVWJ5N2hETTdRbV9VY0JMTkhfV0pVcktJc3NVdkFmTlZFNHA3WXB3UEpleWZhRVpYLW5lbVIwUXRRV1ZqczdyV3JOcWw5NDE4WHhYSS1RclhBNnZmbjh4OF9FTTlST0tTQTNFb2IxU3U5UWU3Q1lLT2dtbTE0MG9fZw?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-12T09:56:47-04:00",
+      "summary": "ECB’s Kazimir Says Rates Must Be Lifted More to Tackle Inflation Bloomberg.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "How Nvidia Is a Big Winner If SpaceX Stock Soars",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZVgtZGNUckRxLXpucGoxM1c3S3pidDh2di1iU2tLYkl0UU5oOW9RSW9VNkYxdGNOdUZxdWxmdm1aVm1sakdCOWdFVVV2Y2NCLXFiRzdiblgyRGg0UGVHT3RGZVFuMTBfc2RKNTN6NjlrX0YzNTBscTFOVUZsMVBtN0p2bFdfanc?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-06-12T09:56:00-04:00",
+      "summary": "How Nvidia Is a Big Winner If SpaceX Stock Soars Barron's",
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
@@ -167,7 +1502,37 @@
       }
     },
     {
+      "title": "Sam Bankman-Fried loses bid to appeal against fraud conviction in FTX case",
+      "url": "https://www.theguardian.com/business/2026/jun/12/sam-bankman-fried-loses-appeal",
+      "source": "Guardian Business",
+      "feed": "Guardian Business",
+      "category": "Economy",
+      "published": "2026-06-12T09:52:59-04:00",
+      "summary": "Decision to not overturn fallen crypto mogul’s 25-year prison sentence was handed down by three-judge panel Sam Bankman-Fried on Friday lost his bid to overturn his fraud conviction and 25-year prison sentence over the collapse of the FTX cryptocurrency exchange he founded. The d",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "If an Iran peace deal is agreed, these are the assets investors should buy, says Bank of America",
+      "url": "https://www.marketwatch.com/story/if-an-iran-peace-deal-is-agreed-these-are-the-assets-investors-should-buy-says-bank-of-america-9b3e9099?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-06-12T09:51:00-04:00",
+      "summary": "Low approval ratings and a jump in inflation may be forcing President Donald Trump’s hand in ending the war, with some asset prices already starting to anticipate that.",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "These are the assets investors should buy if a peace deal with Iran happens, says Bank of America",
       "url": "https://www.marketwatch.com/story/if-an-iran-peace-deal-is-agreed-these-are-the-assets-investors-should-buy-says-bank-of-america-9b3e9099?mod=mw_rss_topstories",
       "source": "MarketWatch Top",
       "feed": "MarketWatch Top",
@@ -223,6 +1588,21 @@
         "label": "positive",
         "score": 0.7,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Geopolitics, fiscal expansion, and the new inflation regime",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNclpPV3pEYm1ZZUd1ZHlTOHhheUozcjdEZEVsTlhhR0ZWQ3VCTlJYdXZLaFRnTmdKVS1hVlhha1NvOXkwTDRSVXM1MWhFelI4WWxBcXlxeEZiMk4zLWdGbWx1YVpuU3BjQTFxbmI3WlFnTC1yMFBaQWN2VE4tcXphTUQ3NmFlWkZRY3RKZmtTdzhBeVNkRnUwaHFub19CdDNTNUkyMDI5RGZ3dVM0TWUxMnlTSGpzcnphZ3dfMWp1dkxOOU50d0FaNDhUa1JCck9DeXYxNXg1QQ?oc=5",
+      "source": "T. Rowe Price",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-12T09:46:28-04:00",
+      "summary": "Geopolitics, fiscal expansion, and the new inflation regime T. Rowe Price",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
         "v": 2
       }
     },
@@ -587,6 +1967,21 @@
       }
     },
     {
+      "title": "SpaceX president Gwynne Shotwell floats Tesla merger on IPO day",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE54TEVycjdWTm9OVnBBelFva2YzTlN1T1pGeGxkT3MtcWp5Y0o3RTEwa0ktT3hnZ2M1QVFPbGNWeHEtVzNvSkpoN0VRWlktZzRYLTlVS1VLRWszM3dWb0JoWGFKZUNadXFsaXlxbWhB?oc=5",
+      "source": "qz.com",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-06-12T09:14:45-04:00",
+      "summary": "SpaceX president Gwynne Shotwell floats Tesla merger on IPO day qz.com SpaceX COO Shotwell says Tesla tie-up ‘might make Elon’s life a little easier’ CNBC SpaceX president hints at Tesla merger post-IPO: ‘That might make Elon Musk's life a little easier’ Fortune SpaceX President ",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Nasdaq begins accepting orders for SpaceX’s historic Wall Street debut",
       "url": "https://www.ft.com/content/097216e1-f3fc-4052-a5b5-fc66cfc57563",
       "source": "Financial Times",
@@ -594,6 +1989,36 @@
       "category": "Markets",
       "published": "2026-06-12T09:12:18-04:00",
       "summary": "Elon Musk’s AI-to-rockets group raised $75bn in the world’s biggest initial public offering",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Elon Musk’s SpaceX pops in historic Wall Street debut",
+      "url": "https://www.ft.com/content/097216e1-f3fc-4052-a5b5-fc66cfc57563",
+      "source": "Financial Times",
+      "feed": "Financial Times",
+      "category": "Markets",
+      "published": "2026-06-12T09:12:18-04:00",
+      "summary": "Shares soar as much as 31% after AI-to-rockets group raised $75bn in the world’s biggest initial public offering",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.8,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "The Outlook for AI-Related Stocks and US Interest Rates",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZEZXbUVSQXZrZ1UycllTRzlTZkYyR2FNZmh3RzFZbUNxNDFpbUYtV2Qxam81TEYyS0s2MG03NXlVNFRnYktqMWYzTjMwaE1hcDlsQmlkRElDYzVqYTd2Y0kxbW1zejhtX3dFc3BBWmFmU1RHbXNTOW1xNE1BNW1Vd20yVEo3Q3pKcEZYNkVPb2s2ZFNyVG5LcFNqeTMwZXlEX0twMEtGcUU?oc=5",
+      "source": "Goldman Sachs",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-12T09:11:26-04:00",
+      "summary": "The Outlook for AI-Related Stocks and US Interest Rates Goldman Sachs",
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
@@ -639,6 +2064,21 @@
       "category": "Markets",
       "published": "2026-06-12T09:10:06-04:00",
       "summary": "SpaceX has achieved its goal of becoming the largest IPO on record.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Ken Leech to Plead Guilty in US ‘Cherry Picking’ Fraud Case",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNaTNCMGZPWXZtVGdSUEdVUllPUURhM05TY3UxclAydDl4eU1iTXdydEYybjBHdTVCaDhkcEJzeGh3YWxlbUx3VjRBdGY1WThRdmtnbUo5WHdyaFJhQmJuZTFOOGVObjdzR1pXNWJBNlVNUWY5YWVyZDU4T2MtUWdMeWt4aXRGV3JvYmdlcUhXY0pzck4xbEFST3NKNkdTandqWmJIVUhRSTBHU09M?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-06-12T09:09:36-04:00",
+      "summary": "Ken Leech to Plead Guilty in US ‘Cherry Picking’ Fraud Case Bloomberg.com Former star bond investor Ken Leech pleads guilty to obstructing probe Financial Times Former star U.S. bond manager Kenneth Leech pleads guilty to obstructing 'cherry-picking' probe CNBC Bond Investor Ken ",
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
@@ -718,6 +2158,21 @@
         "label": "positive",
         "score": 0.5,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "When oil prices could get even worse",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE4wcG1RQ0pDLVVWT1JNRnRUcldUcHc1cHkycnRhZHAyXzljdnBXdmc4R1VoM1JCVjN1OHpHdHdrR2xMZHhmamk0SUVxcURuR2pwMnRJTXpBLWk1cGV5RDZsSVFhZTRoWDB6MWczOWRXOGFaMTJlZkVVYjN3?oc=5",
+      "source": "Axios",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-06-12T09:01:42-04:00",
+      "summary": "When oil prices could get even worse Axios The World Is Draining Oil Reserves, Raising Pressure for a Peace Deal The New York Times Analysts expected oil to surge above $200 but China has quietly kept prices half of that—and can’t for much longer Fortune Ten Reasons Oil Is Still ",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
         "v": 2
       }
     },
@@ -853,6 +2308,21 @@
         "label": "negative",
         "score": -0.4,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "SpaceX Workforce Is About to Be Stacked With Millionaires",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPMl85ZjNfWXV6VHdsZTgtbnNZZlBfTll4UUtXQTBWamZVQmUwaHRuZFVoS1pnSXJfZGFEQXpaaXpXa0hGeVJlVmRLVGFJblRXeDJBZ2R6bExONG1KVDQ4eHFBam03bmtIYnRqMm1PVDhDTndGbWJRQ0h2N2lMLXJtcFJjN1lsT1ZXak9OWWdmbEFTaUkwQnBDOWl5VXR5Nk0?oc=5",
+      "source": "Newser",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-06-12T08:47:00-04:00",
+      "summary": "SpaceX Workforce Is About to Be Stacked With Millionaires Newser SpaceX cafeteria workers poised to become millionaires after blockbuster IPO — 4,400 employees set to hit 7-figures Yahoo Finance Former SpaceX welder expected to become a millionaire after historic IPO CBS News New",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
         "v": 2
       }
     },
@@ -1082,6 +2552,36 @@
       }
     },
     {
+      "title": "May inflation jumped, but economists say the details offer buyers a steadier picture",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZ1ZRNjdnellWdjVWYU01UzB5NXY5M3h6V2EtNTFsdm4tUHdMUnFXMEhteUJYRWd1QTVrc3RjdXJEWjdROTY2NzFLNlpncllZTnZDLTRUTHhtaE5OWmdtZ1Zkd3JyVEo3Y0ZOUU1oTTV5ZEtJek5iTm9WV1FrWUt4bXJiQk1EcHRfMmdET3dTWDhHVm1pc19rcFh2MWhEaTJUbU9MbVVDVkMxU1A2WHF1LXo5MFdXcVdBY1VpNHYxSTFYdkc3SU41MXdR?oc=5",
+      "source": "| Florida Realtors",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-12T08:00:00-04:00",
+      "summary": "May inflation jumped, but economists say the details offer buyers a steadier picture | Florida Realtors",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.3,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Economic commentary: Inflation accelerates as household purchasing power weakens",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPdjB1VWZ6MGt4ZUwybUwzUk10VzE1RmFLanlYUGk5UUpRcG5mT192b2JtTlB5Zmh2cE9URzdpdll3SWs2R21qM2ZmRUl5NmZ2Y21kQi1TQTJxMG9hRUVHeUpSNVlyZ2VvX3RLMUdzSUQ3MXNPR1pfbUJlYTFrNHRuemlxOHdUcllhVUg5X2xMS0RBMVdvV2o5dnktNWhtZDE5blNSR3hDaXoyQjNDd2dmbGtqRjBQa3JjN1V3LTJ5WlN0ZHc?oc=5",
+      "source": "Northmarq",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-12T08:00:00-04:00",
+      "summary": "Economic commentary: Inflation accelerates as household purchasing power weakens Northmarq",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "India's inflation accelerates to 3.93% in May, remains a tad below RBI target",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQU21WZGNCc3ByS1dVclBFX3ZZTEV6b0tCVml1ZllkOW10VzhZcUR1cDZXLXh6NGZ2bUJPMWRBMlkyTXg5TDdUMTlDOHdVTk9LZS03Wlh1cHcyS3ZCRHllREM4UzMzTlZrNEIwa3EzWEtDcVV0VDZ1TFNSSTE3WENsRDRkNnFoQQ?oc=5",
       "source": "Yahoo Finance",
@@ -1292,6 +2792,21 @@
       }
     },
     {
+      "title": "Everyone Loves Chinese Cars, Except the Chinese",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNc2hUR0tKTU5zUUFuN3N1VzBXUjRnN3FyZHlQd09MZGhqbjZBbEI3S0JkVEhDUWd1U2R3X3A4Rm10d3JSMVlKRW9BSUhWU1hock1qcDZ0MlZ5Sm5VeFJ5NGhxazdMemhseE5GNlhFeVdnOUkyQUlmQ3dyc0F5OFFsZ2dYMmZaWWdXT281SUJVb2RXQmxx?oc=5",
+      "source": "WSJ",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-06-12T07:00:00-04:00",
+      "summary": "Everyone Loves Chinese Cars, Except the Chinese WSJ China car exports jump 73% in May as high fuel prices raise interest in EVs AP News EVs capture two-thirds of China’s car market in record-breaking week South China Morning Post Iran oil shock accelerates global brands’ retreat ",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "AMD Stock Pops After Buy Upgrade. It’s More Than a CPU Play.",
       "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE54aU1xUUJwUmFXZlliR09UZGhwb1JSRzNrSnl2YkhxbVpZNGRqcl8tVmEydGhuRnJGQmlpOFRRLXVib1Ayb1NBTURaN0pHaTRBck1WRldUS05ibVhlT3h1YkFuZUJtUjJEeXItTDBGUkJLQUQ0c1E?oc=5",
       "source": "Barron's",
@@ -1322,6 +2837,21 @@
       }
     },
     {
+      "title": "EU’s Top Carmakers Unite to Push for ‘Made in Europe’ Plans",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPNF9TSnc0cnZQS2x1TEJ5cnhUcGdIM21heS1OSlJvN1daa0pSWkxWMzFUSWx1dnM4UE1yN25tYVZtWU5GSV9KclhpcGpmS1NuSjBKWVpwRGxDOGkyeXNvOE05eEdRTlA1TS14NWkxVnY0OXFZdEU1TWF1OGJiQ3VXWkNOS2RLZ3QxSXBaTnFMQ2pObmVwNUxURHNjZnEtSUVzSVVWcUROOW9sdUFW?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-06-12T06:33:54-04:00",
+      "summary": "EU’s Top Carmakers Unite to Push for ‘Made in Europe’ Plans Bloomberg.com",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Exclusive: Italy working on new inflation-linker for institutional investors, debt chief says",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQWi1CVjU0aDZsVG45WU84S0M5LVlueWRYYTh5MG1NQXVrM1BVcGJDUmkxTDJacF9GN1gzMmlsNG9aVFR6ME1TTmxoMlRUbS1wRnJBcHhyUlo1R2t4cVdUTlR4ajZvYjV3UmY0UUJCeVJ6Q09neDMzSEtCc01LTXFSSC1VRy1UcEwtRXhKLUVvRTlraEpQSjBCMWkybk1oSFpWNmRDUkp5cUtneDNvTUtrV21TcU5FWDlMeUF2Z0gxTGlRbm5SYmc?oc=5",
       "source": "Reuters",
@@ -1332,6 +2862,21 @@
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Stock Market Bulls Energized by Trump’s Iran Peace Plan Ahead of Huge SpaceX IPO",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOZDR3djVKU1pJcy1QRldzbnNzSjRpQ3BVRFdFbGtaRFVKSWNXTmxsQW9xQVpiRkpqbkdhcjdpLUw1RWdPLUREOVhZeGJBM3NxSm5BanFNaVJvSkoyMkxzcnIwRVVNMnFzdVh2ZVZWQTdjZjllSXgyTGxxOHIxUmN0c2MyVjc1WjRiUlVMc2tGYmdOcWhpaXc?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-06-12T06:20:00-04:00",
+      "summary": "Stock Market Bulls Energized by Trump’s Iran Peace Plan Ahead of Huge SpaceX IPO Barron's",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
         "relevant": true,
         "v": 2
       }
@@ -1427,6 +2972,21 @@
       }
     },
     {
+      "title": "Global equity funds draw third weekly inflow as investors buy the dip",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQSERkZEdoeVZpZDltZHhXRVAwM3ZwZEF2YVlyWE03UVF2cWxGdGRJTGV5aFh5TzEyVGU0aXY2VTJjdldvdGxzNjJ3M0VOdTdHczVHblQzNGd1SHZnMzJtMEx1YUNob3RDTy0tRnZIU01oQW83azBNcTFjSFdjdXhoR1Nn?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-06-12T05:54:09-04:00",
+      "summary": "Global equity funds draw third weekly inflow as investors buy the dip Reuters",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Inflation Running Hot Could Be Great for Hyperliquid. Here's Why.",
       "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNVM4VVB6Z3c4LURYRWlxU1czY3lSQ0dJTnFsdHRwWlg5YUlOLV9Sa0JDaUtFZUdVamkwdFA4Y2FJWGctT2c2UmZXT3I1T1VfNkc2U3hodF9BMUJfMmRKZ3V6azd3X00xdlZiWlZqTXZuaTM1dkpsUTUzQkdieUZoSTZVaWFLV1VLNENUNnpZT01pOGtMb0FCRE02SVdkZWs?oc=5",
       "source": "Yahoo Finance",
@@ -1452,6 +3012,21 @@
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Private credit dividends look less secure as cash coverage thins",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQRHV6a2hmTGNfY1RaczU0VzVDMUhIV1NnT2dLQlhvTDNrbHplc3JpUF9WcV84eFdXNGJMeEZMWmppNFFkdm1tb2RYZ3IzNUdBOWg0SXMwUktMNDJkME1MVHdEODdIYXJab1NlbFNXYkVuempWTTRORzM4dkpFdVZHWW5aekNFdmxWZmx5alZkQmNLc3d1UFFxOFpJeHVtX0Z6ak5QQU81WUV4Vi1ITkN3V2Y0dms?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-06-12T05:31:19-04:00",
+      "summary": "Private credit dividends look less secure as cash coverage thins Reuters",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
         "relevant": true,
         "v": 2
       }
@@ -1592,6 +3167,21 @@
       }
     },
     {
+      "title": "Door shuts on some immigrant entrepreneurs as U.S. restricts small-business loans",
+      "url": "https://www.npr.org/2026/06/12/nx-s1-5853375/changes-loans-trump-small-business-immigrants-entrepreneurs-green-card",
+      "source": "NPR Economy",
+      "feed": "NPR Economy",
+      "category": "Economy",
+      "published": "2026-06-12T05:01:00-04:00",
+      "summary": "For decades, immigrants who are legal permanent residents in the U.S. could get loans through the Small Business Administration, a core pillar of small-business lending. Not anymore.",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "After SpaceX’s huge IPO, Americans’ financial future will be bound to AI",
       "url": "https://www.theguardian.com/business/2026/jun/12/ai-ipos-stock-market",
       "source": "Guardian Business",
@@ -1647,6 +3237,21 @@
       "sentiment": {
         "label": "positive",
         "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "European Bonds Surge as Trump Touts Progress on Iran Deal",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVTRQbVY3MzE1VU5BN2pmOHAzejRmVlN6dTJBeW9kSmltbWtvemUtSmZSaFBvVUJTRkhCSjRSRDllWnd5ZkRQN2xBRWRrcmhicWVqMFpDMUw0NjhJSmJFUVhqbDJHZVdKaENVcFZhUjA3VTlFRWM3N29vaFJhSzZleEVMeFRNZ1RoclB1TzBPaGFtcTUteHp1UDFYcXRKUlQ2ZDBKZUdkakxZVENKMmJuZTk5MHM?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-06-12T04:43:47-04:00",
+      "summary": "European Bonds Surge as Trump Touts Progress on Iran Deal Bloomberg.com",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
         "relevant": true,
         "v": 2
       }
@@ -1892,6 +3497,21 @@
       }
     },
     {
+      "title": "ECB raises interest rate to tackle inflation surge",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMG5qczN0TDBuT1ZCRTFKQ00wbTd3cnhBN3hBVXBDUFVKcWl0UDl2R090VV9HNkdzcmVLUzlIRkZST3NHS2hsU2hxV3k1WUttZlFKOFEwaUpuQUh6ajh4M2hrYTkwbUF0TDQzN0tBU3l1ekJvVFBIQzB2cWtFOEZXTmdEYlZwSDBXOEl30gGLAUFVX3lxTE1HaUdxT3VNUVJERWp1bGR0cDlhYzlVZUFZYkJTN2sxM3JZZGd4V09SRDY1N19uenNhLTRFTFdaRUNFYlp0Qm91dHpmUnY3ZjBuQmR1eTJ2WWFkc21DVlBIaEhEZG4wZ29uOUwzeEtvQTlfWVZ3R3RoQlFHYTlkWDQ0dW83R3hneDJBWVk?oc=5",
+      "source": "DW.com",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-12T02:06:24-04:00",
+      "summary": "ECB raises interest rate to tackle inflation surge DW.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "UK economy began to feel fallout from Iran war in April, data shows",
       "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNOFItQU9WdzE0Y0xvS2g2clhhTV9HN0M4ZW9BM0FjSFd6MjJyalljN181bWJ0OXNIM2dnMlY2bDVESkFUMTIzcUstalVfUWQwM1F0bXNLM0ttNUpmZk5EbHg5cjFKR2J0OEVkMEx4U3ZKZzJjd01iU2E1ME43NGpHVmVrVS1fandFSzN5a0NsSk0?oc=5",
       "source": "Reuters",
@@ -1947,6 +3567,36 @@
       "sentiment": {
         "label": "positive",
         "score": 0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "average salary - Bls.gov - Bureau of Labor Statistics",
+      "url": "https://news.google.com/rss/articles/CBMiR0FVX3lxTE1XRzg2eC1VeHdWdEhsWml6bHVuSDVGQzFvR1k3YS1pcHpSUWNpeXNPT1BhZ0ZlRWNTWG5fSVlSR1l6YVVrZk44?oc=5",
+      "source": "Bureau of Labor Statistics (.gov)",
+      "feed": "BLS",
+      "category": "Policy",
+      "published": "2026-06-12T01:13:44-04:00",
+      "summary": "average salary - Bls.gov - Bureau of Labor Statistics Bureau of Labor Statistics (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "PPI wholesale inflation hit 6.5% in May, highest since 2022",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE93Ti1tY2RCcEUyZWc2cjlYQjd1VEl1elllaW05ODctTmU5eU5FdTVrUkhkdVc3QWw2VUlBSVRXQ1NsZGZZUWtlU1E0U1hlZ0hsalNtVUctVVgtNUIwLTJrS0NTdlFhdVpH?oc=5",
+      "source": "qz.com",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-12T00:38:46-04:00",
+      "summary": "PPI wholesale inflation hit 6.5% in May, highest since 2022 qz.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
         "relevant": true,
         "v": 2
       }
@@ -2147,6 +3797,21 @@
       }
     },
     {
+      "title": "Trump gifts Dems ready-made midterm ads",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1JSFZhZ0RtU0M2YUFEZEl4VFNKQVNuS09GQm9iSFROLVdBSV9fa0lTSDI4MnhXZFFaVVdSQ1NKejdXMkUxanNRbHE1M182RlA5ekl6Z1o3aTlRM243dzUtVnVRQmtkSWZQeFp0QVFMOFpuSTVlU0J2MHl1Skc?oc=5",
+      "source": "Axios",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-11T22:01:42-04:00",
+      "summary": "Trump gifts Dems ready-made midterm ads Axios",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Reality Limits UK Political Room for Manoeuvre",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPdTlMQm81WU4yQ1B3UXpJUDRscVVBSHJXVFdkVDY4UTE5X2R3dHcyNWd0YUdDUkhvaEtjajYwSm5uWW1xb3ZVaDVfb1JwNmo4WlVCQXpMTllVUUdOWEZDUmxaQlNYc3JtZ1FyTkMxYWtVVVBNWlZzU2kxNTktMkNFeFV4UG5DWkZhSmJjSDkzN2JkaXh6bG1IRW1kb19wclJlZzBnODdBdmF5eFFBR09SdnFvdHpsWVNZdG9YOHc4b0syYkYyRVpZUWZYaXctdw?oc=5",
       "source": "Bloomberg.com",
@@ -2158,6 +3823,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "SK Hynix ETF Boom Is Becoming a Force in the Stock’s Trading",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQMm9UVGx3cmJmSmxKV1hXSXZCOEVRdDFvX3owTFFNVEttRXNMRGZYeFhWTXExYmlqVm9oR29XajNfbV9FRmdWT0plOEU1SUh4aU1PTExrdTBPODJLOGIxaFpqcmRFSnc4T0JwRGZHQWE5RzdzS1dpZ1hCc1FkMDR3SUdrVENaNUJoYTdic1R2c3E4Z1BGeUlXRGNQeUZZc3dfcEIwRU9TYXp2MlJFblhheQ?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-06-11T21:50:00-04:00",
+      "summary": "SK Hynix ETF Boom Is Becoming a Force in the Stock’s Trading Bloomberg.com",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
         "v": 2
       }
     },
@@ -2177,6 +3857,21 @@
       }
     },
     {
+      "title": "Gold heads for second weekly loss on rate rise expectations",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTEJYZGtxMlI2WjgwUnJhSzcwNnM0Z3pWTzVYZngyT2F5YUJZY2JESWE4Yl84YXI1dVZVQUFrNnBxTXZadHZLWmtwSmxNNF82QXFoX0ZxOUkzdXR2OTM1TGlQZzcwUHpYRmIwVEIyVnhZOU1JRlZJWlpxSEE3M0o0VC0xU1RDQTdrLTJ2TVNzdTk3QVZVdVpHWkFn?oc=5",
+      "source": "Reuters",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-06-11T21:25:00-04:00",
+      "summary": "Gold heads for second weekly loss on rate rise expectations Reuters",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "A Chinese start-up's unfolding dilemma exposes cracks in Beijing's tech funding machine",
       "url": "https://www.cnbc.com/2026/06/12/a-chinese-start-ups-dilemma-exposes-cracks-in-beijings-tech-funding.html",
       "source": "CNBC Top News",
@@ -2187,6 +3882,21 @@
       "sentiment": {
         "label": "negative",
         "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Dollar firm as traders weigh prospects for Iran ceasefire",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxONC04MExBWDdBT2lMaDd6aXBldkN4VWRjV0N3TlEyLVVzQmloWDhGNTZLU2k0b2xUUW5KRjRMdmVobFZMc2l0TmY2dEhpamVwbWlmeEpnb1l0RkZnWEFZbTNXYWFBY0piNmZwTlZMNWJGenkxV3BpdGlrbWJKWjlNWlloOEhla3l3aVVTOWd5d0tacndjSFF5ZUJqNFF4T1lnUE8zYmJiTU5sZXpIbFVKU3B5aw?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-06-11T21:06:00-04:00",
+      "summary": "Dollar firm as traders weigh prospects for Iran ceasefire Reuters",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
         "relevant": true,
         "v": 2
       }
@@ -3062,6 +4772,21 @@
       }
     },
     {
+      "title": "Griffin Supercharges His Miami Bet After Mamdani Tax Fight",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQUjJtUFBhS0tjWXA3bjY5dV9QNGVtVGh6cjRmdmdDTmFndDdJV1p2ZDdwVExudzJmbUtFSW1LYjZ5cWp4a0M1RU9LUkdxX1JKWXhPVlRCVjBUaVdYdUY4SEgyS0tXRkZUenNjWkt5SklXTzg4NHVYaWhCYzQxaGRSVTViUENuSXRoWVJ2MnNBWk1PRTdwaFBjM25LWmNkRmRqZTdwNFhYTDJZNW95MG1LcmdSdw?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-06-11T14:22:39-04:00",
+      "summary": "Griffin Supercharges His Miami Bet After Mamdani Tax Fight Bloomberg.com",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Crypto exchanges cash in on SpaceX frenzy with pre-IPO derivatives",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOSV9NY1dnZW1nbVMtZlc5SUJPZHcxN083MGxDbzFJQW96elF3X25IN2pid3ljMllVaVRnaGkwYzFmWncza3M3b0VIMTZGN0l4V28xT2RpZklzcmhjRDdwSVQtNlVId0lGTk14LTEwQ0hVbHotbXZwajRISUFNWUFFSklXM0g2SlNiYkVZUjh0OWxCVVVOOXFnekJhdkVXMk1VMmlJd29Ib29oQU1vN0J5QXRUOA?oc=5",
       "source": "Reuters",
@@ -3827,6 +5552,21 @@
       }
     },
     {
+      "title": "SpaceX by the numbers: Six charts map businesses behind the largest-ever IPO",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOeXl1ZjN6cjRYUlR2RnpZRkVyTTlOcDFFUFVLYmpwWEVSeVFfazMtSWRNUHVnRlV6OE92aU42TWo2TWZMOGI3VlJjRVJibjVnR0RyQlRjaUVFclJjUUR6Tkl4NEU0U0JZam56MHZtdDVNRk40MVhxYlpXd2xCQ0R0Ri1kM2pRdHZGUHplU21KUktJOVdINF96UFkxbXgtZ0tmTERieWdjbzh0ZWpEVHQzTUcxSkliOGt5SVMtemk2NmpOd3hoTTB0b21YMkg?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-06-11T06:05:00-04:00",
+      "summary": "SpaceX by the numbers: Six charts map businesses behind the largest-ever IPO Reuters",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Greek LNG Buyer Says Long-Term US Deals Getting More Difficult",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNcFFBSGxCU2FobGRReTE2enQtUXlzVUF3SmU0Um1pekJLT01zak1nVGgwR0lvT3haS0RhTlJGczR0UWs0Z0dSZmVRdGNuaG02clMyT0VLZkRRVEZaQWFqcDRESjU5aEdnWFhNNHN3cnhDcmE3ZXZiZ3pSQ0l0cl82bFdDdjBiRVIzX1dnRmNvZExZUVNRWFA5Q29FQjdwUU5JTXpfbEt4WnRic2dmd0hJVS1fVQ?oc=5",
       "source": "Bloomberg.com",
@@ -4082,6 +5822,21 @@
       }
     },
     {
+      "title": "Ten Reasons Oil Is Still Below $100 a Barrel",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNVkFzUGRnbEFrbk1lOXNWaTU5QzFVdVlFanlQMTNHRi1UTDJvQ1ZTZHNESkNMaEVxV1FtU2k5TC1HLW1oeTdPbFVuSkZQc2JxVTBYMk1MRzJxLWc4MG5qcm5fOVg0SEZtSEE2OXRyZ2x2S1Q0X3Vhckhlems5N0VYWm42Sy04RGZ2eml6cjh6eVZzcnZ0WF80RHVnTXY3cXo2aG1oVVY4UXpoVHFfalJfRA?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-06-11T00:00:00-04:00",
+      "summary": "Ten Reasons Oil Is Still Below $100 a Barrel Bloomberg.com",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Australian billionaire Brett Blundy wages high-stakes campaign to oust chair of Victoria’s Secret",
       "url": "https://www.theguardian.com/australia-news/2026/jun/11/brett-blundy-bbrc-victorias-secret",
       "source": "Guardian Business",
@@ -4167,6 +5922,21 @@
       "sentiment": {
         "label": "negative",
         "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Stock Futures Are Falling, Oil Rising After the U.S. Begins Strikes on Iran Again",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrXzcwbTM1dnVyNlo2ZXVLSlR1UFdkTnJxQVVZMEhobFBXTnJfMUNOc25hMHVCTXJpdEh6dTVhVEFQTmZ2aElNZEdCOUUyOFN4WmJsaTdFV2Z2alBhN1RueHo3YmFwVTlYWkx3akFjMFFyc0psNFhHVlYwZXdMRWs?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-06-10T18:39:00-04:00",
+      "summary": "Stock Futures Are Falling, Oil Rising After the U.S. Begins Strikes on Iran Again Barron's",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
         "relevant": true,
         "v": 2
       }
@@ -4302,6 +6072,21 @@
       "sentiment": {
         "label": "negative",
         "score": -0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Apple Siri AI Is Enough to Drive Stock Higher",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5pOFlPS3RDdU83OXlDNlFlSkxNeks4WTZ5bzNiUzRHdGl5eUZMYXB6SENqd3RMR2FXQ2NPZDNFV2lkQWdmUklUa2JoMG1EMG5UVk53N0RPeTh0U3QxTU5jamhnR2dQTFdUUTR5WF9B?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-06-10T16:50:00-04:00",
+      "summary": "Apple Siri AI Is Enough to Drive Stock Higher Barron's",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
         "relevant": false,
         "v": 2
       }
@@ -8492,6 +10277,21 @@
       }
     },
     {
+      "title": "Winchester, VA-WV Economy at a Glance",
+      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9YZTBsak9NR1U2LUFxblRxUnNWNW1uaDV3MHQ2S3BEYmItVlZBRFhGX1NXNnh4OU55UXU2OVlZYmtYUHlmWHhjRTUtcjluTUhYQkZMdWRzd2paSldoVWc?oc=5",
+      "source": "Bureau of Labor Statistics (.gov)",
+      "feed": "BLS",
+      "category": "Policy",
+      "published": "2016-12-16T03:48:42-05:00",
+      "summary": "Winchester, VA-WV Economy at a Glance Bureau of Labor Statistics (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "download.bls.gov - /pub/time.series/cu/",
       "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAxbHl1ZXVhMDdEdTF1Wmxvc3ZWeE1lWDJ4eGM4S09xdFdhNWdGSGJaZzhlQU55R3drT1R1R1RyOG5sUmhQSnhwRjZNdlItS1cyd2VxaUtxVQ?oc=5",
       "source": "Bureau of Labor Statistics (.gov)",
@@ -8499,6 +10299,21 @@
       "category": "Policy",
       "published": "2016-12-11T15:36:47-05:00",
       "summary": "download.bls.gov - /pub/time.series/cu/ Bureau of Labor Statistics (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Bloomberg Radio",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lcFJ4TW9mUjB6elZSWEdjRE94dDU3YllJbkp4U29neGtTRUVjMWhfZVEwX2w1TjYyT0dtZG9YZDJBTVFjSHc?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2016-01-13T20:23:40-05:00",
+      "summary": "Bloomberg Radio Bloomberg.com",
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
@@ -9493,6 +11308,516 @@
         "label": "negative",
         "score": -0.8,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Move Over, New York! Why Texas Is Becoming ‘America’s New Center of Gravity’",
+      "url": "https://finance.yahoo.com/economy/articles/move-over-york-why-texas-173814772.html",
+      "source": "24/7 Wall St.",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Brazil launches subsidized motorcycle credit program for app-based delivery drivers",
+      "url": "https://finance.yahoo.com/economy/policy/articles/brazil-launches-subsidized-motorcycle-credit-173047483.html",
+      "source": "Reuters",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.3,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Stock Market Today: Dow Leads On Iran Deal Hopes; SpaceX Bolts Up On First Day Of Trading (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-iran-deal-spacex-ipo-spcx-stock/?src=A00220&yptr=yahoo",
+      "source": "Investor's Business Daily",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "SpaceX stock jumps nearly 30% following largest IPO ever",
+      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-stock-jumps-nearly-30-following-largest-ipo-ever-101955467.html",
+      "source": "Yahoo Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "The AI bubble looks fit to burst, Bank of America director says. Here’s your road map for riding out a crash",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ai-bubble-looks-fit-burst-171500617.html",
+      "source": "Moneywise",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Intel Is Up 8% Today: Is It Outperforming Other Chip Stocks Like AMD and NVIDIA?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/intel-8-today-outperforming-other-173617063.html",
+      "source": "24/7 Wall St.",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Tesla stock muted after SpaceX's opening trade",
+      "url": "https://finance.yahoo.com/markets/article/tesla-stock-muted-after-spacexs-opening-trade-163253474.html",
+      "source": "Yahoo Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "SpaceX IPO live updates: Elon Musk's SpaceX opens at $150 per share in record debut as Dow, S&P 500, Nasdaq rise",
+      "url": "https://finance.yahoo.com/markets/live/spacex-ipo-live-updates-elon-musks-spacex-set-to-make-record-debut-as-dow-sp-500-nasdaq-rise-230015961.html",
+      "source": "Yahoo Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Eli Lilly Stock Hits Buy Zone As Earnings Soar 156%. Funds Are Loading Up.",
+      "url": "https://www.investors.com/stock-lists/stock-spotlight/eli-lilly-stock-lly-buy-zone-earnings-soar-drugmaker-weight-loss-pharma-markets/?src=A00220&yptr=yahoo",
+      "source": "Investor's Business Daily",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.8,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "SpaceX Starts Trading At 150, Now Up 24% In Huge Trading",
+      "url": "https://www.investors.com/news/spacex-ipo-starts-trading/?src=A00220&yptr=yahoo",
+      "source": "Investor's Business Daily",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is Ardent Health Stock a Buy After a Director Purchased More Than 11,000 Shares?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ardent-health-stock-buy-director-173533683.html",
+      "source": "Motley Fool",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Space stocks drop as SpaceX soars in debut",
+      "url": "https://finance.yahoo.com/markets/stocks/article/space-stocks-drop-as-spacex-soars-in-debut-122907387.html",
+      "source": "Yahoo Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is Sirius XM Holdings Inc. (SIRI) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sirius-xm-holdings-inc-siri-163843453.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is Service Corporation International (SCI) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/corporation-international-sci-good-stock-163830101.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is Roper Technologies, Inc. (ROP) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/roper-technologies-inc-rop-good-163814653.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Dow Jones Edges Higher While SpaceX Steals the Show With $2 Trillion Valuation",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/dow-jones-edges-higher-while-173317899.html",
+      "source": "Motley Fool",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is Redwire Corporation (RDW) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/redwire-corporation-rdw-good-stock-163802929.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is PagSeguro Digital Ltd. (PAGS) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/pagseguro-digital-ltd-pags-good-163748391.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is Penske Automotive Group, Inc. (PAG) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/penske-automotive-group-inc-pag-163735635.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is Otis Worldwide Corporation (OTIS) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/otis-worldwide-corporation-otis-good-163721537.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Morgan Stanley resets staggering Chewy stock target",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/morgan-stanley-resets-staggering-chewy-173300125.html",
+      "source": "TheStreet",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is MarketAxess Holdings Inc. (MKTX) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/marketaxess-holdings-inc-mktx-good-163707847.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is Graco Inc. (GGG) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/graco-inc-ggg-good-stock-163650415.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is FactSet Research Systems Inc. (FDS) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/factset-research-systems-inc-fds-163635926.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "SpaceX fever is testing the chip trade",
+      "url": "https://finance.yahoo.com/markets/article/spacex-fever-is-testing-the-chip-trade-100000732.html",
+      "source": "Yahoo Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is Comcast Corporation (CMCSA) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/comcast-corporation-cmcsa-good-stock-161755913.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is Badger Meter, Inc. (BMI) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/badger-meter-inc-bmi-good-161739328.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is Alpha and Omega Semiconductor Limited (AOSL) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/alpha-omega-semiconductor-limited-aosl-161720090.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is Mondelez International, Inc. (MDLZ) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/mondelez-international-inc-mdlz-good-161707908.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Eaton to merge Mobility Group with Dana",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/eaton-merge-mobility-group-dana-173058069.html",
+      "source": "Just Auto",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is Keurig Dr Pepper Inc. (KDP) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/keurig-dr-pepper-inc-kdp-161652500.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is Hormel Foods Corporation (HRL) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/hormel-foods-corporation-hrl-good-161636453.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is ABM Industries Incorporated (ABM) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/abm-industries-incorporated-abm-good-161541274.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is Silgan Holdings Inc. (SLGN) A Good Stock To Buy Now?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/silgan-holdings-inc-slgn-good-161518587.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
         "v": 2
       }
     }
