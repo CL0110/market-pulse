@@ -1,6 +1,53 @@
 {
-  "last_updated_et": "2026-06-19 18:22 EDT",
+  "last_updated_et": "2026-06-20 09:33 EDT",
   "days": [
+    {
+      "date": "2026-06-20",
+      "count": 637,
+      "by_category": {
+        "Markets": 350,
+        "Economy": 161,
+        "Policy": 126
+      },
+      "mood": {
+        "overall": {
+          "index": -38,
+          "positive": 54,
+          "negative": 120,
+          "neutral": 185,
+          "relevant": 359,
+          "scored": 637,
+          "total": 637
+        },
+        "Markets": {
+          "index": -21,
+          "positive": 38,
+          "negative": 58,
+          "neutral": 53,
+          "relevant": 149,
+          "scored": 350,
+          "total": 350
+        },
+        "Economy": {
+          "index": -61,
+          "positive": 15,
+          "negative": 61,
+          "neutral": 45,
+          "relevant": 121,
+          "scored": 161,
+          "total": 161
+        },
+        "Policy": {
+          "index": 0,
+          "positive": 1,
+          "negative": 1,
+          "neutral": 87,
+          "relevant": 89,
+          "scored": 126,
+          "total": 126
+        }
+      }
+    },
     {
       "date": "2026-06-19",
       "count": 915,
