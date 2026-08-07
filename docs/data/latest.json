@@ -1,51 +1,1416 @@
 {
   "date": "2026-08-07",
-  "generated_et": "2026-08-07 10:06 EDT",
-  "count": 647,
+  "generated_et": "2026-08-07 13:53 EDT",
+  "count": 813,
   "by_category": {
-    "Markets": 354,
-    "Economy": 161,
-    "Policy": 132
+    "Markets": 497,
+    "Economy": 178,
+    "Policy": 138
   },
   "mood": {
     "overall": {
-      "index": -22,
-      "positive": 75,
-      "negative": 117,
-      "neutral": 165,
-      "relevant": 357,
-      "scored": 647,
-      "total": 647
+      "index": -14,
+      "positive": 108,
+      "negative": 142,
+      "neutral": 185,
+      "relevant": 435,
+      "scored": 813,
+      "total": 813
     },
     "Markets": {
-      "index": -12,
-      "positive": 43,
-      "negative": 55,
-      "neutral": 39,
-      "relevant": 137,
-      "scored": 354,
-      "total": 354
+      "index": -3,
+      "positive": 70,
+      "negative": 74,
+      "neutral": 51,
+      "relevant": 195,
+      "scored": 497,
+      "total": 497
     },
     "Economy": {
-      "index": -34,
-      "positive": 30,
-      "negative": 61,
-      "neutral": 32,
-      "relevant": 123,
-      "scored": 161,
-      "total": 161
+      "index": -29,
+      "positive": 36,
+      "negative": 65,
+      "neutral": 37,
+      "relevant": 138,
+      "scored": 178,
+      "total": 178
     },
     "Policy": {
-      "index": 33,
+      "index": -20,
       "positive": 2,
-      "negative": 1,
-      "neutral": 94,
-      "relevant": 97,
-      "scored": 132,
-      "total": 132
+      "negative": 3,
+      "neutral": 97,
+      "relevant": 102,
+      "scored": 138,
+      "total": 138
     }
   },
   "items": [
+    {
+      "title": "Trump revives effort to fire Fed's Lisa Cook",
+      "url": "https://www.cnbc.com/2026/08/07/trump-lisa-cook-federal-reserve.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-08-07T13:52:03-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Trump teased an Iran deal that didn't come, but markets soared. Here’s why it keeps happening",
+      "url": "https://www.cnbc.com/2026/08/07/trump-iran-hormuz-deal-stocks-oil.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-08-07T13:50:12-04:00",
+      "summary": "As oil reserves and munitions stockpiles reportedly dwindle, analysts wonder how much longer markets will pounce when the Trump admin. dangles an Iran deal.",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "If target date funds aren’t risky enough, Americans could miss out on retirement savings — especially as they live longer",
+      "url": "https://www.marketwatch.com/story/are-target-date-funds-hurting-americans-as-they-live-longer-929f4f92?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-08-07T13:49:00-04:00",
+      "summary": "The popular default investments may need to be more aggressive in order to fund decades of retirement.",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.3,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Plains All American Pipeline, L.P. Common Units (PAA) Q2 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4933208-plains-all-american-pipeline-l-p-common-units-paa-q2-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:44:27-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Torex Gold Resources Inc. (TXG:CA) Q2 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4933322-torex-gold-resources-inc-txg-ca-q2-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:44:25-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Redwire Corporation (RDW) Q2 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4933320-redwire-corporation-rdw-q2-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:44:23-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Global Partners LP Common Units (GLP) Q2 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4933175-global-partners-lp-common-units-glp-q2-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:44:22-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Matthews International Corporation (MATW) Q3 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4933313-matthews-international-corporation-matw-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:44:20-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Bridger Aerospace Group Holdings, Inc. (BAER) Q2 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4933143-bridger-aerospace-group-holdings-inc-baer-q2-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:44:19-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "RCI Hospitality Holdings, Inc. (RICK) Q3 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4933318-rci-hospitality-holdings-inc-rick-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:44:17-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Ultralife Corporation (ULBI) Q2 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4933227-ultralife-corporation-ulbi-q2-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:44:16-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "No Signs of Wage Inflation; Labor Market Remains Stable",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQQmhYalU2Q0JyRHZlNk9pcmNzNmZ6ZlpBVm1KbVRKVEdTWGZsdTlrdkNWb0RiWDdsUnhqOGoweWJxYlYxYlNTREM0Y0NqdW1GUTQ0bTFjN1k4bld2cDJ3RHZQdXRMdEVMeG1BeFRvQl81UUx4cGg0dmx0d3Z2azNjRzhUb0ZYR2tUUXNBdkp5SGdlbHFzTjBjVzFlVQ?oc=5",
+      "source": "The Conference Board",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-08-07T13:39:38-04:00",
+      "summary": "No Signs of Wage Inflation; Labor Market Remains Stable The Conference Board",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Russel Metals Inc. (RUS:CA) Q2 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4933173-russel-metals-inc-rus-ca-q2-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:34:17-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "QuidelOrtho Corporation 2026 Q2 - Results - Earnings Call Presentation",
+      "url": "https://seekingalpha.com/article/4933311-quidelortho-corporation-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:33:44-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Cronos Group: This Cannabis Name Isn't Reliant On U.S. Legalization Efforts",
+      "url": "https://seekingalpha.com/article/4933261-cronos-group-this-cannabis-name-isnt-reliant-on-us-legalization-efforts?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:33:36-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Rocket Companies, Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "url": "https://seekingalpha.com/article/4933310-rocket-companies-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:33:07-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "DHT Holdings, Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "url": "https://seekingalpha.com/article/4933309-dht-holdings-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:32:30-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "iRhythm Holdings, Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "url": "https://seekingalpha.com/article/4933308-irhythm-holdings-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:32:18-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "AdvanSix Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "url": "https://seekingalpha.com/article/4933307-advansix-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:31:14-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "LANXESS Aktiengesellschaft 2026 Q2 - Results - Earnings Call Presentation",
+      "url": "https://seekingalpha.com/article/4933306-lanxess-aktiengesellschaft-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:30:52-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Treasury Sanctions Crypto Exchanges Funding Iran’s IRGC and Enabling Illicit Finance",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5Jc05TYUYteDl6MENhdFctYUJaeVIwSU9ieEZrU2JQS21YcWN5TGJDLVlrbUFuYjdmMkNMV3hpRmZqYllGbmZtdTV0WnpDaTZCa3hHNWw1N0RjbFoyblFCejNn?oc=5",
+      "source": "U.S. Department of the Treasury (.gov)",
+      "feed": "US Treasury",
+      "category": "Policy",
+      "published": "2026-08-07T13:30:00-04:00",
+      "summary": "Treasury Sanctions Crypto Exchanges Funding Iran’s IRGC and Enabling Illicit Finance U.S. Department of the Treasury (.gov)",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Treasury Dismantles Iranian Regime’s Global Clandestine Currency Networks",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE1fV0ZsRWo2dlNxVzdTQXFDTzBEWklsNjVWZFNsWXRaX2dwZ2NVaXRWUVJicHFzQVZiTElpYlhCQWY3SmFMSEVGNWFRbEY0MGEwX0ppa2k1X01PTzh1LVoxN3VB?oc=5",
+      "source": "U.S. Department of the Treasury (.gov)",
+      "feed": "US Treasury",
+      "category": "Policy",
+      "published": "2026-08-07T13:30:00-04:00",
+      "summary": "Treasury Dismantles Iranian Regime’s Global Clandestine Currency Networks U.S. Department of the Treasury (.gov)",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Donald Trump revives threat to sack Fed governor Lisa Cook",
+      "url": "https://www.ft.com/content/0012c7c9-fb31-4c90-a2e7-e65bd4629b22?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "feed": "Financial Times",
+      "category": "Markets",
+      "published": "2026-08-07T13:29:37-04:00",
+      "summary": "Attempt comes after Supreme Court ruled in June that policymaker could remain in her position while case is resolved",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "MSC Income Fund, Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "url": "https://seekingalpha.com/article/4933303-msc-income-fund-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:26:08-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Carlyle Secured Lending Inc. 2026 Q2 - Results - Earnings Call Presentation",
+      "url": "https://seekingalpha.com/article/4933301-carlyle-secured-lending-inc-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:25:33-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Rockstar Energy founder builds Celsius stake, wants to take over as CEO",
+      "url": "https://www.cnbc.com/2026/08/07/rockstar-energy-founder-celsius-stake-ceo.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-08-07T13:25:23-04:00",
+      "summary": "Rockstar Energy founder Russ Savage told CNBC he now controls 12 million shares of Celsius Holdings, amounting to roughly 4.7% of the energy drink company.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Aflac Incorporated 2026 Q2 - Results - Earnings Call Presentation",
+      "url": "https://seekingalpha.com/article/4933300-aflac-incorporated-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:24:57-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "KDDI Corporation (KDDIY) Q1 2027 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4932986-kddi-corporation-kddiy-q1-2027-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:24:26-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Allient Inc. (ALNT) Q2 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4932347-allient-inc-alnt-q2-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:24:24-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Interfor Corporation (IFP:CA) Q2 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4933255-interfor-corporation-ifp-ca-q2-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:24:23-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Aflac Incorporated (AFL) Q2 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4933130-aflac-incorporated-afl-q2-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:24:21-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Corsair Gaming, Inc. (CRSR) Q2 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4933184-corsair-gaming-inc-crsr-q2-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:24:19-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Services will be the sticking point for an inflation-sensitive Fed",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxON3FURXRCQ0tqZUNRek5kdzZhM3ZkQUNHYzUzc0VIQUdURTFpYzN0V0RleUtMQy0wVVBlRnRadkR4cGNFWTlLdnlnQnpvV3EtbHFTX0hUZWZGaTdYd1UtaE4tMGZSQjF0TjBrN2c1RjMwOWIxaFZnUUg0bFJObzAzdWtmekd1RzdqRUJSbGZrZFhnWTJiaW9VejZuU1RQU1J0NGowcDVjMWo1ekdhaFVpcmpn?oc=5",
+      "source": "rbc.com",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-08-07T13:20:28-04:00",
+      "summary": "Services will be the sticking point for an inflation-sensitive Fed rbc.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "ACM Research, Inc. (ACMR) Q2 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4933084-acm-research-inc-acmr-q2-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:14:32-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "The E.W. Scripps Company (SSP) Q2 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4933187-the-e-w-scripps-company-ssp-q2-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:14:29-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Mach Natural Resources LP (MNR) Q2 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4933220-mach-natural-resources-lp-mnr-q2-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:14:28-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "State Bank of India (SBKFF) Q1 2027 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4933237-state-bank-of-india-sbkff-q1-2027-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:14:27-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Atmus Filtration Technologies Inc. (ATMU) Q2 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4933249-atmus-filtration-technologies-inc-atmu-q2-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:14:26-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Canaccord Genuity Group Inc. (CF:CA) Shareholder/Analyst Call Transcript",
+      "url": "https://seekingalpha.com/article/4933229-canaccord-genuity-group-inc-cf-ca-shareholder-analyst-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-08-07T13:14:24-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Why SK Hynix’s $38 Billion Memory Splurge Is No Problem for Micron Stock",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNa0FaNGhTOGpyZXZEOVNzY2FvVnkxeDBFUFZPVHJKVWVOVGN4ejEtS1JiY1V6bHlVM2dkWGtQTl9QZDhGUWhSUnRMU1g0bDhNaDVSdDN2ZVp0aGItWHA3bWlIVVJBRXN6R1R1amVwb25MYk96dUE2R3hIbTl5cFM1a3J3?oc=5",
+      "source": "Barron's",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-08-07T13:14:00-04:00",
+      "summary": "Why SK Hynix’s $38 Billion Memory Splurge Is No Problem for Micron Stock Barron's SK Hynix to invest $38 billion building new memory chip plants as demand soars CNBC SK Hynix to Invest $38 Billion on Expansion of Chip Production Capacity WSJ SK hynix Invests 54 Trillion Won in Yo",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.4,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "To identify true sources of employment and income risk, ask workers",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZ1FORmFZSS1VTUttNU9VR0s4MDlSVl81UndNQkxVR2VaTmRWdmJJcHI3aDNUXzhUWHRTVVVTdjl3ZV9QbjJGTlBHSVlHeHhYazN6ckRHN2JtWmpUcHpTeFg4Yng5dE9Sa3ZyX3k0em5jbE5mazJueDJTWE9UVU4ySm10aDlBUEpQU0tpaFVxVHU2YTRmY01DNFNFYWlJVkZGQTZWZFFYTEFqYWUxR3d3?oc=5",
+      "source": "Federal Reserve Bank of Minneapolis",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-08-07T13:13:03-04:00",
+      "summary": "To identify true sources of employment and income risk, ask workers Federal Reserve Bank of Minneapolis",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "US suffers unexpected job losses in July, markets dial back rate hike expectations",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNN1B4WTMtdXVhNDJJNjJ2Sjl5dm14MXI4M3FUc2dYUDN5blRtOTBXQVZqX0ZaUWNQTFpZMDdlU24tY1BLWHVORE03Y0p3ekNQM0RHQjZJWEhpckhfLXl1QWFlVlV2UU9OWFhkWDZZNXA1eHdFVmlkQVlVUWdaQWVKUl9NMC1QcW8zT09NRks4eGViOXpESU82MmpuaWYydkljM1Fv?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-08-07T13:08:09-04:00",
+      "summary": "US suffers unexpected job losses in July, markets dial back rate hike expectations Reuters",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Freedom Fuel, praised by Trump, sells cheap gasoline. But how?",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQYXFQU1lZTUNZRWxITld1UjRpekM2c2dhVWpOWDd0ZmpXdjhhWUtFcTBKUlN4SW03VHB5TDNqdmNUQkR4RUdMdkZGREptTmI1d25lZlpOektUejdrUkVwcndsaVZoYkdvQXR4RXJsNnVSZ2JIdnd2U2JMWi11QXNqVnNrS2xUYlJWZC1YaGxIY0dBNFZLQ2llQkc2N0xSN1hOblA0TG4zQTZ0dw?oc=5",
+      "source": "The Washington Post",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-08-07T13:00:01-04:00",
+      "summary": "Freedom Fuel, praised by Trump, sells cheap gasoline. But how? The Washington Post Retail gas stations touted by Trump racked up penalties in New Jersey Politico Where Analysts See a Mysterious Business Model, Motorists Just See Cheap Gas The New York Sun New ultra-low-cost US pe",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Treasury Continues to Follow the Money in Minnesota to Eliminate Fraud",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFB5dmhZUzFZdDRYcmhTTlY2a3FwWDRwU25PRmNIc1pSVW5INWNtdXF6Rlk5dXA1Yjl6T1lOQlMtQjR0bVFRWXBUUV9PWTR6UUR5WC1HZ3o5SU9kWU1LcjZVMTBn?oc=5",
+      "source": "U.S. Department of the Treasury (.gov)",
+      "feed": "US Treasury",
+      "category": "Policy",
+      "published": "2026-08-07T13:00:00-04:00",
+      "summary": "Treasury Continues to Follow the Money in Minnesota to Eliminate Fraud U.S. Department of the Treasury (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "A huge day and week for Corning as the S&P 500 approaches another record high",
+      "url": "https://www.cnbc.com/2026/08/07/a-huge-day-and-week-for-corning-as-the-sp-500-aims-for-record-close.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-08-07T12:59:17-04:00",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "The Bond Market Is Signaling Rising Risks. Investors Should Listen.",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlhBejhhZWNUdDRiX05LWHFRaGJhX0ltazRRWTFPZWdvazNWX0U1WDg4NmpIb0swb1dsR21KTzg2MUc5Z21ORnJXdWFxX2xybjdsOG1lUnV4aWs3TWw3QmR5TUFfMDZ5Qkc5WVhxSWVXT2dUZDVneUxqRms3V1dBeDJvUzJtT1R4Z01NYlZNbXBBNnVBWWdF?oc=5",
+      "source": "The New York Times",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-08-07T12:58:58-04:00",
+      "summary": "The Bond Market Is Signaling Rising Risks. Investors Should Listen. The New York Times",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Nvidia Stock: AMD Just Ramped Up the AI Chip Battle",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE5LSFA3OUxFTjZXUDZia3Z3ZUxqcW5xbXJDVXRNb1pjdG9SMVdXUnlHdGhiMkQtanl4RC1zZHVCeDBzRVFkNnk0U3BnZzg2SElYSTNMR196bE1YTHU0bmVHTGNXY0Vqbm5CU2xyY2JBREtpdw?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-08-07T12:56:00-04:00",
+      "summary": "Nvidia Stock: AMD Just Ramped Up the AI Chip Battle Barron's",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Cassidy supports Todd Blanche, rescuing Trump's embattled attorney general pick",
+      "url": "https://www.cnbc.com/2026/08/07/blanche-ag-trump-cassidy-senate-confirmation.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-08-07T12:55:42-04:00",
+      "summary": "Attorney General nominee Todd Blanche needs at least 50 votes on the Senate floor to be confirmed after clearing the Senate Judiciary Committee.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "SpaceX’s stock is having one of its best days ever — with the first lockup expiration now behind it",
+      "url": "https://www.marketwatch.com/story/spacexs-stock-is-having-one-of-its-best-days-ever-with-the-first-lockup-expiration-now-behind-it-cd55946c?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-08-07T12:54:00-04:00",
+      "summary": "Sometimes stocks come under pressure once insiders are able to unload shares, but in the case of SpaceX. that risk may have been already priced in.",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.8,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Trump moving forward with attempt to fire Lisa Cook after Supreme Court setback: Sources - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPQUNnT3ZVZGczTTR2ZTRmcmlEd04tUTNIRC1rX2gwRGt5bjhMekp3U2pjQlVyR0lJYjNZT0tMSm9fX1lDX2tmbWQwUklUcXhCS3luWmlzemVvME1KUGF3OUNzTnJQRl9mUVVJeDZWdWFWaVFFNjlJdjJ2TG0wN3JTQWdaMms5Sl8yVkhjTmY3YkVnUXJGcVHSAZsBQVVfeXFMUFpJSENYQkpDV3lpUE9CbmZUSzNyWXVuLUlVWEtOR09SQmh2LWsxUVlkVl9oT1NfaUVpVXk1Z0V3SUJvNENzTHljREM5MzFXbUljNU1VOWRsbGRUSU8xSXg5NTREcGtmX2F1YmhRLXZ1WWhMRlVmSnVfUlFISnV2V1NBTU9aV0laaVlCZi14Yi1QWG1oUm4wNDExNG8?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-08-07T12:49:38-04:00",
+      "summary": "Trump moving forward with attempt to fire Lisa Cook after Supreme Court setback: Sources ABC News - Breaking News, Latest News and Videos",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Crypto’s infrastructure era arrives, with AI agents poised to reshape demand",
+      "url": "https://www.cnbc.com/2026/08/07/cryptos-infrastructure-era-arrives-with-ai-agents-poised-to-reshape-demand.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-08-07T12:47:55-04:00",
+      "summary": "Crypto companies are trying to build a second growth engine by turning agents into the next wave of users.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "AI capex boom reshapes inflation and global markets",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPSHl6Wll6ZF9BXzl4UjhNUERQNng4MW05VTI4bW1zN2pYNWFlS2t3b09zRUtYdlhSaDlscTUzS2RyS1Y1aUF1ZVFVUUVBMEFmSWNzY205TEtPNVRPdnZvUXFmQVQ4bVVKLWVFWHlPVXFTaXl4NjRNeWNUb3NnZ3h3QTU2WTBVMHF6NjY5Y3BxZw?oc=5",
+      "source": "FinTech Global",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-08-07T12:39:04-04:00",
+      "summary": "AI capex boom reshapes inflation and global markets FinTech Global",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Here are three key takeaways from the disappointing July jobs report",
+      "url": "https://www.cnbc.com/2026/08/07/here-are-three-key-takeaways-from-the-disappointing-july-jobs-report.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-08-07T12:34:09-04:00",
+      "summary": "Nonfarm payrolls in the U.S. unexpectedly declined in July, but so did the unemployment rate, leaving investors with mixed signals.",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Consumer Inflation Expectations Remain Above Fed’s 2% Target",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOQVhPU3NhSTVRbFBacDJRdlN3TFdydVVNZldtdm43MjlxcDI0dnpTUjljM2ZKd1lzVUVoQTdCRjhVc2tZU2xPMDJzMFNtRGZqd1NDY3ZKX3JOeGpQRnk5VWxqOVYtRXFBeDJJT21ySjdldGlIdWNCekZ5aWhpeXdOT2pGRTk3V012Tnh0THZZVDE1MGF5Qm5MX2QwVE8?oc=5",
+      "source": "connectmoney.com",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-08-07T12:31:25-04:00",
+      "summary": "Consumer Inflation Expectations Remain Above Fed’s 2% Target connectmoney.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Should wealthier Americans forgo their Social Security benefits as a charitable gesture?",
+      "url": "https://www.marketwatch.com/story/should-wealthier-americans-forgo-their-social-security-benefits-as-a-charitable-gesture-2c7b6801?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-08-07T12:30:00-04:00",
+      "summary": "A reader writes: “I will likely be in a position to decline my benefits.”",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Chesky says Airbnb will spend ‘a lot more’ on AI as earnings beat and stock surges 15%",
+      "url": "https://www.cnbc.com/2026/08/07/chesky-airbnb-ai-earnings.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-08-07T12:28:54-04:00",
+      "summary": "Airbnb CEO Brian Chesky wasn’t sure AI would help the company, but a year later, he says it’s the reason growth is back.",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.8,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Under Armour forecasts steeper annual sales decline on weak North America demand",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPcVFRNExNT053MWlFNkJqekV5SFdFSmc5c0RWVk1iNUM2QkswQU1GYzNKM0dQWTQ1UHZtc1k3UVNXdlVxTi1BdVNZUGNzd0tIWUIyVDlWWWtxakVhMVNneDQzd2J6WnRySnR4aGcxRFZyblNyZDZuUXdRYm5CUTh1MmlRU2NWOGxzUjFhWThTcTFieVIzUEc0S0hpVnM2YTZjNGpmQW5odlk2UTltcEhieGFR?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-08-07T12:27:40-04:00",
+      "summary": "Under Armour forecasts steeper annual sales decline on weak North America demand Reuters",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Gulf uncertainty is creating ‘win, win’ strategy with Chevron and other oil majors",
+      "url": "https://www.cnbc.com/2026/08/07/gulf-uncertainty-is-creating-win-win-strategy-with-chevron-and-other-oil-majors.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-08-07T12:26:24-04:00",
+      "summary": "With options premiums still elevated due to the military conflict in the Gulf, selling puts on an energy major posting record free cash flow offers a rare opportunity.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Buc-ee’s responds as beaver logo battle gains national attention",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1QTWNKWVRKVlh1WnUzU05lV0g3aElJcWNJYk0tYjBReHN2ZG0wX1pKeC10U1RhX2lSNEVTOVpMQ2dFbmxrSHBLQl9GZldhUEh6b3FHOTRaZkozeUw4cmF0R3huRTBHTUpsbHBGdlQ1LXVqbGR1RlB2ejJn0gF_QVVfeXFMT2lOd19Ua2M1YmZBcW1FcUhGOWI3LTVpNUFFMTZla0hNdjFqTmd6ZHhQSmJHejgxMXBwU3FRYWEtYlVsOUI5ZXVBV1Bka3NfdDRUNDVtZ2EyNTBuWnMwTFZZZzdzeFFvc1VyYjl3TGlqdVRGNGdDb0dSLUZQS3dTTQ?oc=5",
+      "source": "The Hill",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-08-07T12:23:00-04:00",
+      "summary": "Buc-ee’s responds as beaver logo battle gains national attention The Hill Mini mart sued by Buc-ee's receives support with merch usatoday.com ‘This is ridiculous’: Ohio governor, lawmakers react to Buc-ee’s lawsuit against Beavercreek shop Dayton Daily News Upper Arlington bakery",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "US Treasuries Rally as Soft Jobs Data Trims Fed Rate-Hike Bets",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMDVId3lWa1F5ZmhrTGwxa1pNX1hCNERSNzJHUi1LYVFqM24zYWpnVnE4TjBnOGFVOWs5YVcxSTFVakl0NzBEM0d5aFJKWmd0RUxNWEpUYVVTX2VEVEV0ZC1aazB0VEF3ZUhFdTZ5NHQwTm9zcUdteHlWdERvOHFUcnE2ekh5VWQxN0RvdzZHTjkyZWtQSEV6LWFleXVhMlZXQm16TnVQLW9Xemp5M2dzMGV6dw?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-08-07T12:19:25-04:00",
+      "summary": "US Treasuries Rally as Soft Jobs Data Trims Fed Rate-Hike Bets Bloomberg.com",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Rigetti Stock Rises as Major Quantum Orders Fuel Growth",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUmNaeENaaXcxcWlZblF0SjQ0c2J5SG9QVDRwY3k4UW5pZ0luRHE4eDVrd2VRSXZTWHpramM5TnFOSEdzdmZYZnNqSzVpcDJ1bnRvMm1ONE42UmpwQkMxd014b3o2MnM5Wm93MXo1YjFwcGhYeEc2NlRUcGQwZ1ZMbS13cGVVOWc?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-08-07T12:17:00-04:00",
+      "summary": "Rigetti Stock Rises as Major Quantum Orders Fuel Growth Barron's",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "‘I don’t wish to be cold-hearted’: My elderly relative can no longer care for himself. Am I wrong to leave his care to the state?",
+      "url": "https://www.marketwatch.com/story/i-dont-wish-to-be-cold-hearted-my-elderly-relative-can-no-longer-care-for-himself-am-i-wrong-to-leave-his-care-to-the-state-8d546b32?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-08-07T12:16:00-04:00",
+      "summary": "“He has never been particularly generous or nurturing.”",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Shares of this digital medical platform jumped more than 100% overnight. Here’s why",
+      "url": "https://www.cnbc.com/2026/08/07/doximity-shares-double-heres-whats-driving-it-.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-08-07T12:06:45-04:00",
+      "summary": "The company is seeing huge profitability potential and a larger addressable market as a result of AI search.",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "S&P 500 rises as it wraps up banner week with traders seeing bright side of dismal jobs report: Live updates",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBrSXJEV1RNNXNyTWg1cnp6d1FnOVdGZGh5WHJfMnd6TDhTU3FhRkZpWGhrY3hiaWhFcFhYSEc4TFRZZnBnZjZic24tX2RiS1MwemZOSW80azYxQ1BVaVZIWFRRT2I3UlN4eUNIRldVWWdxZGpzWUcw0gF8QVVfeXFMTmhIa3ZqTzNWWmlYWktzSUZnNVlMR0FpUG93YUtZUjBpRkRnX2ZBemdzaGNaZlh1cXdsaXNNM2VFUUN4Zm93eUFaZ0ZrbS1ETmxqdnViMFhfd05LeUY4eWNjOXpBTkFOZnFHZDlPZTZsdENQaDFnd2hlUVozVg?oc=5",
+      "source": "CNBC",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-08-07T12:06:00-04:00",
+      "summary": "S&P 500 rises as it wraps up banner week with traders seeing bright side of dismal jobs report: Live updates CNBC Labor Market Shifts Into Reverse as Employers Balk at Hiring The New York Times US job market stalled in July as employers cut 23,000 jobs, delivering political setba",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Wall St set for best week since April as payrolls surprise eases rate-hike jitters",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQQ1d0RTF2VldzYWZCaFg3YzBhd2pEamRMWWU1VWNQOGZBSnFDVXFfZDNlVVowQzFwSmVHUDdObmQ4d1VDQnpZZmlhNS1xLWJabGxUMlNPSHc0NGY2SFptZ2QzOTgxTEZQVkpFblM4ZzI4anFIUkV1amFOZlNrRDRXbTUySWl0c1VMdjdiMWJxVUtNa0RmQXB5V3l6Rnl3aTRJQi1zOW1zTFFaZ1A4YjgxSnp3?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-08-07T12:02:25-04:00",
+      "summary": "Wall St set for best week since April as payrolls surprise eases rate-hike jitters Reuters",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.8,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Top Democrat proposes killing tax breaks for overseas oil production",
+      "url": "https://www.cnbc.com/2026/08/07/martin-heinrich-tax-breaks-overseas-oil-production.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-08-07T12:00:01-04:00",
+      "summary": "Gas prices in the U.S. averaged $4.06 per gallon on Thursday — a major source of voter discontent heading into November's midterm elections.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "‘This has been an emotionally difficult time’: My brother has cancer and my father is 94. How do I shoulder this responsibility?",
+      "url": "https://www.marketwatch.com/story/this-has-been-an-emotionally-difficult-time-my-brother-has-cancer-and-my-father-is-94-how-do-i-shoulder-this-responsibility-9da09dc4?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-08-07T12:00:00-04:00",
+      "summary": "“My father placed his $600,000 Wisconsin home into a revocable trust, naming my brother as beneficiary.”",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Celsius jumps on report Rockstar Energy founder takes stake, wants to be CEO",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQOGc2VzU0dmdmSVBQUjJfUVJsWURCekR6eEhFSExSOXAxaVJrT2hpck1wWkY2U1VrN0VEbDBUVEtGalp3dUl0Y3RpaEQ2eUdXT3h0czc0M3BFMFA5Z3E1Q0FENW81bmJhTk9NeGQzcGs3TndqUFlIWncycFlHWW9mV0RsM2plc09VVDE5dzgwTUYzY0YtQ18yeDdpSTYwR0FyYkx6Yy0tM28yVDNyZXJwSnpxOA?oc=5",
+      "source": "Seeking Alpha",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-08-07T11:45:35-04:00",
+      "summary": "Celsius jumps on report Rockstar Energy founder takes stake, wants to be CEO Seeking Alpha Rockstar Energy founder builds Celsius stake, wants to take over as CEO CNBC Russ Savage calls for Celsius Holdings CEO John Fieldly to be fired qz.com CELH Stock On Track For Best Day In A",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Why SpaceX Stock Can Break Its Brutal 4-Week Slump Today",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9McExteGFGd0tMUW1xS0xoLVo3NmhkSmRSSWFHSVdBSHd1VnFSODA1SFhxUWExUzJ6ZUg5bURCZ1ZWXzlEdUIxdEM4QkhWZVB0ZlpWY0U4bEV6Rm52NXVVdVp4S3B3MHR5UENHck5pQU5rVm1h?oc=5",
+      "source": "Barron's",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-08-07T11:42:00-04:00",
+      "summary": "Why SpaceX Stock Can Break Its Brutal 4-Week Slump Today Barron's SpaceX stock climbs as shares available for trading more than double Reuters How SpaceX’s most-feared trading day turned into a 6% rally Fortune SpaceX stock got cut in half, but retail investors keep piling in: Ch",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Take-Two touts 'unprecedented GTA VI pre-orders', but maintains bookings target",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU3c2bmh5aUpYb1U2LWFUaFdROEZZRmhsZFJGd2ZKeld0bzc3TVFETVg1ejBEQm5rMnVEZy1GTVNOeHBhbVJnVFdiMTFQcXV5RmhIU0lQX3pDY0FXOUJaQUlpd3JxQi1nNE5Xd3piNUhqVmF0UV9oNWo5YTZJUUwzOWkwdDJLV1I1cnQ4NDY3LThSUDJwLWNvQlF0ZV9tSzNkRHIxV1VfTmVyUGxGMWNFaS1lVElaTGJyc1E?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-08-07T11:40:39-04:00",
+      "summary": "Take-Two touts 'unprecedented GTA VI pre-orders', but maintains bookings target Reuters",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQZFU4TzBJT1J6VWhxb3kzVGlxZ0pWaWxBQ1JzUWNfX05aeHd2U0VTVTE5aUtfc2xCVXBnMjhEVnBwem05b3d2bm9DeXUxZGxMSVR1TURVOVdaOFVGcF94ZDdDVkdBTGZNQXktLVdMLVpXdXB6a3ZtUENhVzBqMFhMYmp6bWUzaGdDTldnMHdpQV96QQ?oc=5",
+      "source": "WSJ",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-08-07T11:38:00-04:00",
+      "summary": "Week Ahead for FX, Bonds: U.S. Inflation Data in Focus WSJ",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "This mom spent $2,000 on her kindergartner as viral ‘back-to-school hauls’ on TikTok and YouTube spin out of control",
+      "url": "https://www.marketwatch.com/story/this-mom-spent-2-000-on-her-kindergartner-as-viral-back-to-school-hauls-on-tiktok-and-youtube-spin-out-of-control-0be2949d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-08-07T11:36:00-04:00",
+      "summary": "Students and parents are breaking their back-to-school budgets thanks to inflation and social-media trends.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Doximity’s stock skyrockets 50% on medical AI excitement. Can the rally last?",
+      "url": "https://www.marketwatch.com/story/doximitys-stock-skyrockets-50-on-medical-ai-excitement-can-the-rally-last-1a5cedce?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-08-07T11:36:00-04:00",
+      "summary": "While one analyst thinks Doximity has a compelling AI opportunity, another worries that the company could cannibalize its core business of medical networking.",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Gold hits seven-week high as weak U.S. jobs data dents rate hike bets",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbWpUMWdTeEtHNmJ5VDlJZU9tOGp0d0xFQTBlT2xXUHBTSENUdHowV0JkLTFockFBbUl6T0hHT29nUjN5XzR0RWlCbU9VQjZBY2pJd0o5dmFhel9VeGZqV0E1VFpEZjJ3dWk1T2I5aERGNE41dVlkWlFFeHFsUm80RVVPTkNlX2lKc0tJTEtBRURzbXZZMWI5YnlHS1dlWWJyRkFsSmxXM2NWdU5qV1lj?oc=5",
+      "source": "Reuters",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-08-07T11:20:24-04:00",
+      "summary": "Gold hits seven-week high as weak U.S. jobs data dents rate hike bets Reuters",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "1.0 unemployed person per job opening in June 2026",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPVW1CVjM2Z0pPUDlmengtcFVMSVZUOElJTEEyanNoMXN3M2hVMHNpUWxjYWtLR05fR3J2d1ZCLWV5TnZDRDlLZlEtaEc2RFpMVlBHbUFTWmNNQkFyVnMtN0FiZlFRdnZNcy1xNExUWTl2SWlkUWJma3hOMW1UdDRHdXZHa0ROcS0tQjBGNnl3R1B3dw?oc=5",
+      "source": "Bureau of Labor Statistics (.gov)",
+      "feed": "BLS",
+      "category": "Policy",
+      "published": "2026-08-07T11:09:51-04:00",
+      "summary": "1.0 unemployed person per job opening in June 2026 Bureau of Labor Statistics (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Tax-free weekends start in Texas, Florida and several other states today. Here’s what to know.",
+      "url": "https://www.marketwatch.com/story/these-16-states-are-offering-tax-holidays-as-back-to-school-costs-soar-to-over-800-per-student-0ec92464?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-08-07T11:09:00-04:00",
+      "summary": "16 states are offering tax-free shopping holidays throughout the month as back-to-school costs soar to over $800 per student",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Whatnot valued at $20 billion as live shopping continues to boom",
+      "url": "https://www.cnbc.com/2026/08/07/whatnot-live-shopping-valuation-20-billion.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-08-07T11:02:12-04:00",
+      "summary": "Whatnot, the live commerce platform, has increased its valuation to $20 billion as the popularity of live shopping continues to grow.",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "NY Fed finds little change in inflation expectations in July",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRTV0Slk0N0tGNE9QZlpYMUdENE1yZjlhajFhZmEydmlwTnNjQmprVjl6MVZJbnNDeURSbXlGdU1oRTRHZ21zQkdnM2ZVMkRuLW5RZUYzQm5icUpGQ09zMWhEajdoSGZoVzhxZUZacWNzZkhrb1VqVEN6QlBYVUpLaA?oc=5",
+      "source": "ca.finance.yahoo.com",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-08-07T11:02:05-04:00",
+      "summary": "NY Fed finds little change in inflation expectations in July ca.finance.yahoo.com",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "US Consumers More Optimistic on Jobs, Inflation in NY Fed Survey",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNYU05ZlotZ0R2Y3ZLVDFTRHFzOEx1UTlJVjBYc19pMTN0cTJOQ2RXWVhINHhpMXZRX2RrTERvU25zWENySjBoSnB1Rmt5b3psQkdldlhhTFRDdTNaeVdpVGxuTGJtLXBYSXJtV3hWS3B6NElSRGJOVHhXR001cjF3dzQ0dGkxVzVtVktQMWNOY3JRX0VINkpDbTAyZlZjQzJNNVRPbGV1YXpqQVNYX3VMLXpzLVY?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-08-07T11:00:00-04:00",
+      "summary": "US Consumers More Optimistic on Jobs, Inflation in NY Fed Survey Bloomberg.com",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Mexico’s inflation slows to 3.12% in July, lowest since 2020",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYkFhMGw3UXJieTlhZkIwYUQ4MjBvclB0T3ZqdnJmQlA2bXdVUU0zZHBXM3Jza0FWQ0xPS181R1ozWFZ0aHlpTHA3eEVZVTQ5ZUFrS2ZwcEhIVFA0SE0tZHBZci1WX1YzQXRUQS1LeGYyOVlxbkNQUHZ2cUZQc2pqN2ZLdmdobWpVemViWHJPSFhVTjNTdnhobDRaeDI5dndRcGhpME1HbmV3Vzg3RmlURkM1Q25zQ1llODZxYg?oc=5",
+      "source": "Investing.com",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-08-07T10:53:44-04:00",
+      "summary": "Mexico’s inflation slows to 3.12% in July, lowest since 2020 Investing.com",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Trump says Congress wants to regulate AI industry 'out of business'",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQaVE4dmstNmk3N1JPOUFaN1kyQlJEbUNjUTdadXBXNGRyNzRvaWpNNXd2VDFQdU5JQ3JmejhVZHlKYU1KeXFvQnVFZHhpVGJkTGR2NjZWakJmeUl6TVRlTVNOWEROdF8yd0ZQb3FWTUJhWUxkT2dIYXo1TGJkMEFuYkNSWXZjbk9MNGJmNHdjaDBtOVRqb2F1SVpEYUk2Y0tMR2RqcW5VQlRTSVBlOTZCMC1B?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-08-07T10:41:18-04:00",
+      "summary": "Trump says Congress wants to regulate AI industry 'out of business' Reuters",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Trade Desk Stock Tumbles as Things Go From Bad to Worse. Here Come the Downgrades.",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1paXVncVZ0Sm9xOTljby1Pb3F6NTlSeWZWUHlrdG5VUTE1R0VxbmNjb3VaWllEWHJUUEc5ZkhoQm00RjFqWXlOV1dQZHJOWmw2d2dIY3lPWWVNbFZsSkVFX2gzWlpSdmsydHZZMVFGNWRoWWlFRnhzWWtNYkljdw?oc=5",
+      "source": "Barron's",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-08-07T10:41:00-04:00",
+      "summary": "Trade Desk Stock Tumbles as Things Go From Bad to Worse. Here Come the Downgrades. Barron's Trade Desk Plunges 28% After Earnings Miss Triggers Downgrade Avalanche; Ad-Tech Peers AppLovin and Magnite Hold Firm Yahoo Finance The Trade Desk is betting part of its recovery on measur",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "U.S. stocks jump as employers unexpectedly cut 23,000 jobs, raising hopes for easier rate policy - NBC 5 Dallas-Fort Worth",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQeGVIQWZlc0VGSlYyUVVneG1TNHZjMjBlXzR1Y0pHdTM4bm1MNGNzLWxzMTZyT0NWOHpIcFQ0aUhyQUdBd1RLeFpJc1h5M3ptTzZsZDFpY2RsQmtSbVlKbWY1alpIb3V1QnpxYzdwY213eFFIbGhiNnBWaEFHLVRCN3k4ZG15Y3h5eHlwMVZLckJIQk9lX1BVeWxqMDRIejlQbFVzVXBQUmN3MWtXTlNWekZIOG5VMUZVU3hZaFNtZGktdlXSAcsBQVVfeXFMUEYyb3RKVTRsbi1NV0s0QWpQRVVCYUlnY1BnSEN0R1FIVF9IMFotRkVIWTNVeThid3R1MXV6V1k4cWIyLUhuR3NEbTQ2elRuaV90Z2lVeHBOdHk1QmZYTDRQSkNlVEliYUlUOTB0S2ZRZVJYTzdZY2N3anF4OC1uYlJNN1hXNFF3bzI5RDJEX3RWZ2lCaVRUTzB2WS1yRXd3VTB1NE5DZDBZd1ozZEtkMk81ZnZZeWJ1bXMtRC1CUHdtYmZHVDJQMGFoWjg?oc=5",
+      "source": "NBC 5 Dallas-Fort Worth",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-08-07T10:37:47-04:00",
+      "summary": "U.S. stocks jump as employers unexpectedly cut 23,000 jobs, raising hopes for easier rate policy NBC 5 Dallas-Fort Worth",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Michigan says it’s OK to start eating salads again as cyclospora outbreak wanes",
+      "url": "https://www.marketwatch.com/story/michigan-says-its-ok-to-start-eating-salads-again-as-cyclospora-outbreak-wanes-b6e9a2c2?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-08-07T10:31:00-04:00",
+      "summary": "The state, which has been at the center of the biggest cyclospora outbreak in the U.S., said this week that the number new cases of cyclosporiasis has fallen.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "‘I’m easing into retirement’: I’m getting an $80,000 pension payout. Where can I invest it safely?",
+      "url": "https://www.marketwatch.com/story/im-easing-into-retirement-im-getting-an-80-000-pension-payout-where-can-i-invest-it-safely-6653d810?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-08-07T10:30:00-04:00",
+      "summary": "“I expect to have several years before I take distributions from my 401(k) account.”",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Wendy’s Withdraws Outlook, Slashes Dividend as Turnaround Struggles to Take Hold",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPQXlPZnJ2WHV2T2g5ZXdzNkdkRXN4VnA4SUpLTkdnaFNlWEh3OHVzWVNZUHBMVi1YRjJRRndHMzV2bjYzTDVpTWJidTljaTVJU1BSN0RhcDdGNjUxa2tCb3E0aTd3dEo0Z3VJZVROM0FwQldvci1ZUktYUWlLVTRBVjkyVVQ4TmVPUlU2aDVHMDd0NW04c1o2aF9ZbXYxdE5RRXAwZEl0Wlc5a0pzSmc?oc=5",
+      "source": "WSJ",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-08-07T10:29:00-04:00",
+      "summary": "Wendy’s Withdraws Outlook, Slashes Dividend as Turnaround Struggles to Take Hold WSJ Wendy’s Withdraws 2026 Outlook as New CEO Plots Turnaround Bloomberg.com New CEO says Wendy's needs to improve quality to turn around decline The Columbus Dispatch Wendy's Earnings Fall Amid Traf",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Tesla Stock Rises to End Good Week. Thank the Usual Suspects.",
+      "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE94ZWM1ZmE2cVVPdXNrZ3BRMXJfVXNYbkpYMUU4VDk0ZDlraEdGRzk2VVlsT1hBY0psbm5aaE0yR1dWdG5NTkNRNTltSlM4WUdRS3d1VnJNWUttaHZPYS1lX0o5VUU2RlRKSTNMN0ZBZy1EQQ?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-08-07T10:29:00-04:00",
+      "summary": "Tesla Stock Rises to End Good Week. Thank the Usual Suspects. Barron's",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "MP Earnings Show Chinese Rare-Earth Monopoly Is Fading. The Stock Is Up.",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQd3V5NUVDWkhjYi1nSEFPOU1HZW9PN0JhQ2x6ME53SGNJQVZSU2ZiNDFvdEY3T2RTWURUU2RMX3Fzdi1TQUw0QmN4T1o2SkNFenhnSXpnR2c5MmlWaHBxOFQyTGNqeVk2d1NnM2xCVHhfdWt3TTBiX3lWQ3lRZlJSTA?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-08-07T10:15:00-04:00",
+      "summary": "MP Earnings Show Chinese Rare-Earth Monopoly Is Fading. The Stock Is Up. Barron's",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.4,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Weak Jobs Report Does Not Eliminate Prospects of a September Rate Rise",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPVndxV2JXY2E0SVRCLXdYOVQ3WVR6Ymh3eGlIUU82dFRmbmVoRDVJMW5qZUljcldQdVV6MWZGb2hIYlkxQW11STd3Z2NNemRGNXdNR2I2QkphczAzN2xBcWVZWlRaTWtiaE9qSnB0dGJJZl9BODBRMXkzczEzM2VlUGlROU9aZ3lpeDcxNzA0R0U?oc=5",
+      "source": "The New York Times",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-08-07T10:07:39-04:00",
+      "summary": "Weak Jobs Report Does Not Eliminate Prospects of a September Rate Rise The New York Times",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPa1VaRHd6bDBOeGFQVU1aaGFjMy13bFpXSXBlQnpXNXZRZ19hY3BxRjRwZGxVWDZ3MGQzSVliWS0xUy1VY3NGckFkQUpoWG8yeXR2d0M2YVVZWk10eWRKY3oyVjBWUlY3QTdlMS13NnBPbXNPeWMwZG5qTnFoWTNGM1FiRUE3dHg1aHl6N0lqZ08zUHd2WHpaRVJEbXBsMll5eTZ0S3hFRW1EREhmVG9GRg?oc=5",
+      "source": "TechCrunch",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-08-07T10:07:31-04:00",
+      "summary": "SpaceX’s Terafab will rely on natural gas power plants, not Tesla solar panels TechCrunch SpaceX (SPCX) Unveils Orbital AI Network And $16.8 Billion Chip Factory Plans Yahoo Finance Musk's SpaceX, Tesla to build $16.8B Terafab chip factory in Texas usatoday.com SpaceX to Build Na",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "The Aug. 12 Inflation Report Could Decide Whether Kevin Warsh Raises Rates in September",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTGNzaGNKNjRLbGotMTNLWTY1TUx6TFRnUTFmTDVoUFlBS0FIelhGa0Vvb2h5SjNfN2M2LURkOUl5TVBEUnRheEVZaU9qY0xQTmx6UTVkLVZpMG1sMG9UM0tLMjBsckdCSTBjc3ZwSlpRUW92N3ZMTkp4Y2o5SzhybDdpa19CRGxUOUhHUzRiYk5OTi1wYlYxZ3dCTThLTkJveGpUYTlBWVVqbktjQUVTSFFGMjc2NjBlN0V1NDgtTGNZdVdGN19tR053?oc=5",
+      "source": "24/7 Wall St.",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-08-07T10:05:22-04:00",
+      "summary": "The Aug. 12 Inflation Report Could Decide Whether Kevin Warsh Raises Rates in September 24/7 Wall St.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
     {
       "title": "Eutelsat Communications S.A. (ETCMY) Q4 2026 Earnings Call Transcript",
       "url": "https://seekingalpha.com/article/4933122-eutelsat-communications-s-a-etcmy-q4-2026-earnings-call-transcript?source=feed_all_articles",
@@ -58,6 +1423,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "US Employers Unexpectedly Shed Jobs, Unemployment Rate Falls",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQM1psNjh0V1l2ZjU5MWV6VERwMllablhCb09XSkhCc21xZzNzTnlUVzJwMXdmdjJwRGZPYUdyS3BnYUNGUXFWZHNUVGZIZ0pnZFotd3pmMDJKVmpvbUNYajNYQTVUcDExTllVdVQ2aWdzMFVyVmYxXzhMdnZTaENFbk9renE0VWNPWE1pTzh5Q0pWTUJoeW1STjBwYl9yU3ZWdDZTS25DeG9feDhVMDJZ?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-08-07T10:04:02-04:00",
+      "summary": "US Employers Unexpectedly Shed Jobs, Unemployment Rate Falls Bloomberg.com",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.3,
+        "relevant": true,
         "v": 2
       }
     },
@@ -129,6 +1509,21 @@
       "category": "Markets",
       "published": "2026-08-07T10:01:00-04:00",
       "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Doximity Stock Soars 55% After Earnings Miss. Its AI Can Beat Anthropic.",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB3d0dFdkE5b0tPcnlzZGNHaTNsemdqZjFWVVJFZ2FyWVM0RnhRTTVES2dOQkRUWjM1ZXM0V1ZxMmhkbGY5bXJBOVRONGFpWTBqZnlSTl9YWmVSVi1NSlpFTGpNZ0c1T1F3TnFtNkxUZ2QwWFRrMmpZ?oc=5",
+      "source": "Barron's",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-08-07T10:01:00-04:00",
+      "summary": "Doximity Stock Soars 55% After Earnings Miss. Its AI Can Beat Anthropic. Barron's Shares of this digital medical platform jumped more than 100% overnight. Here’s why CNBC Doximity (DOCS) Q1 Earnings: How Key Metrics Compare to Wall Street Estimates Yahoo Finance Doximity Announce",
       "sentiment": {
         "label": "positive",
         "score": 0.7,
@@ -223,6 +1618,21 @@
         "label": "positive",
         "score": 0.4,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Airbnb hits four-year high as investors cheer revenue forecast raise, AI payoff",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPMUFoX09xbjhoRkMwSkV6RnpjWDJ6V2dSRzBNdzdKWVAtRUpzRjdJUjNkQ2NvVUxEa3A4VFg0WXZKZ0I1cGV6VmdFQTVxU2RNbW82eTkzMWRjX2dwcGdQVlRDd2FsS3lreVJVMkpvVVlkZUZBanI2YlRCeXlFd0oybXVEXzlsNUFfdE94ZC1XZ183UHFvTWJ0LVVwVF9yY1NLZE1TQ0pWU19YRzhGN0wwdXhR?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-08-07T09:55:12-04:00",
+      "summary": "Airbnb hits four-year high as investors cheer revenue forecast raise, AI payoff Reuters",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": true,
         "v": 2
       }
     },
@@ -707,6 +2117,36 @@
       }
     },
     {
+      "title": "Trump administration to pay German firm to halt US wind projects",
+      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ea2JGMWFDRGVjQy1Lc3o5ZW44OWVvODlkc05aWElPSHFCQlRkclI2ZzJnQkdpSE9mckE0TzFQRnlrdWR6VEVORExUek1oM21jREtjbGc0WFNudw?oc=5",
+      "source": "BBC",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-08-07T09:32:41-04:00",
+      "summary": "Trump administration to pay German firm to halt US wind projects BBC Trump Administration to Pay German Firm $1.2 Billion to Cancel Wind Leases The New York Times Trump administration to pay German firm $1.22bn to cut offshore wind leases The Guardian Team Trump uses taxpayer mon",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.3,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "VIEW Soft July jobs report fuels skepticism over possible Fed rate hike",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM1lYeDhMVGR3MWxnLVFXeE8yMmstOGEyZGRNOUJQVThCdnQwQkh0ZExXc0NOWFVlVVdwTG9YWjNWR0llLTIxaGJDbTNrampsWFBNaHVmbjUzV1ZYN1lUbnFXanlaZDJoWkJ1a1lBYURMMVVEbmZjQS1INExZeC11SUNiQmE0YVhWRzZzVkV2ZDBvZ2JyUVRfd1oxbTlrbGZwYzd0ZWdrMVNtUjRWdWJudWdrUjdMZEk?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-08-07T09:31:56-04:00",
+      "summary": "VIEW Soft July jobs report fuels skepticism over possible Fed rate hike Reuters",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.4,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "How S&P 500 options action may help explain the rising volatility in memory stocks",
       "url": "https://www.marketwatch.com/story/how-s-p-500-options-action-may-help-explain-volatility-in-memory-stocks-58d95beb?mod=mw_rss_topstories",
       "source": "MarketWatch Top",
@@ -887,6 +2327,21 @@
       }
     },
     {
+      "title": "Copper Market Crunch Brews as US and China Compete for Metal",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPYlNfUUNVR2lMMzhxZk1nenluMDhNT1NuNm5wN2pJd0ZxWnlaa2UwZGRkb1ZyXzhUMVFSTXM4TnhlWHVZTDNtSmotZ1hHNDVYZjN3cDR3VHhfQVUtX3BETjBsTHhGSEJCOFZEeHhBNUZNZGNzcXdYX3hkeW9EaXI1R3pydmFpaU1ZWUk1MWNFVnNXQUMzNXhxXzVjWE1qWHA4Wm44VXR5TlJWRVRNeEE5VA?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-08-07T09:02:52-04:00",
+      "summary": "Copper Market Crunch Brews as US and China Compete for Metal Bloomberg.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Global PMI shows inflation rates remaining elevated amid rising demand for services",
       "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbzFnbGVQV1ljOWNkZmpxYW02SDNMQ1ZEY3RIenJJSHhVNm4wZ2ZiM1oyZklsS25vM05IRndUSEFORzlZYWtNenA4T3E3Q2dtaHlZQTlRdmphVTZfTTBfZ1RReHFJMG5EQ0ZBN0FaUUJwdm16TTd3d0RWOUdWdnNTbmdaVl96TlFGSThpWUhCSG1mMXYzNmt5MUJIWEJNbEF0VTd6VUwzdWxSSFJKa2FYdlVWMThsWWZ3SERJM3UyT0VhM3BLb0dPZlZncDhSM2JrNEpndzIyMG9HVzRDdnplcGtjT2NpdG41WTlQdTk1LVJLLVFR?oc=5",
       "source": "spglobal.com",
@@ -897,6 +2352,36 @@
       "sentiment": {
         "label": "negative",
         "score": -0.4,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Situational Hubris Catches a Hedge Fund Unawares",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNQ3B2T3F4SVYtS2dfQ09TYWJscU9iV2JNRWI3Ym9UcEV1YnUzRU9zWFJGWTF6dkdpN09XN2poWE5uQV9hWUxQY2dUQ2RrblZRbl9DWlpKdDBUOTFnVXFoNzMwQUYxOTFZNWJENUVjNnJReEcwbWxKc2RManpXWWI3bTl5VFZfblpfWFdheEUybzNwSlJXVGozRGMzanU0aFIwZXRWQQ?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-08-07T09:00:19-04:00",
+      "summary": "Situational Hubris Catches a Hedge Fund Unawares Bloomberg.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "US airfares expected to stay high even if Iran ceasefire drops oil prices, experts say",
+      "url": "https://www.theguardian.com/business/2026/aug/07/flight-travel-costs-iran-war",
+      "source": "Guardian Business",
+      "feed": "Guardian Business",
+      "category": "Economy",
+      "published": "2026-08-07T09:00:18-04:00",
+      "summary": "Domestic flights cost 26.5% more than last year, data shows, amid demand for travel and reduced oil refining capacity Even if a lasting ceasefire between the US and Iran lowers oil prices , travelers hoping to snag cheaper airfare should buckle their seatbelts and expect continue",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
         "relevant": true,
         "v": 2
       }
@@ -962,6 +2447,21 @@
       }
     },
     {
+      "title": "US loses 23,000 jobs in July, unemployment dips slightly",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMmJibU1NR2RJVWRDLXJjdDZKSFVTT3QxX0pHaVp2eGJSZ2Zaa0taVkNiSFVWT3VRR0luT2EtN1pwLThXTVJaLURxWExKWHNJdG9QR1BYVDQxX3RjZk14TWlHdm9fdDFuZzEzN1g2N1BfMGdkZFRuWkotTFlhZ3ZQU2FpLVc2SktBRUd0LUpxM05qZ9IBowFBVV95cUxOSVVKaTN2SElvU3BIWTZEcWt5NERRcTg4aGlXWkNfbWs0T0hzNWFRZlBSUE8weHhhMDloUk1JbGtldHpEX2VUSVItb0xSbVoxaVZvNmMxMzVheWVlRkI3cWwtclAyUWVXd0pUZF9IQXRYZGlCT3NETS1kTURTTW45VFFseDFuTzdXZWRXckNVTUl0aGV3STVxNVY5MjhGQlU0b0hj?oc=5",
+      "source": "ktsm.com",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-08-07T08:50:44-04:00",
+      "summary": "US loses 23,000 jobs in July, unemployment dips slightly ktsm.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Why Rigetti Stock Isn’t Rallying After Its Quantum Sales Surged",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQUmNaeENaaXcxcWlZblF0SjQ0c2J5SG9QVDRwY3k4UW5pZ0luRHE4eDVrd2VRSXZTWHpramM5TnFOSEdzdmZYZnNqSzVpcDJ1bnRvMm1ONE42UmpwQkMxd014b3o2MnM5Wm93MXo1YjFwcGhYeEc2NlRUcGQwZ1ZMbS13cGVVOWc?oc=5",
       "source": "Barron's",
@@ -973,6 +2473,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Yen Jumps 1% Against Dollar After US Jobs Data",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxObGo5a3FvWHk2TERwNF80RmNTZTVXMkZrVThoUzFCSURJZFBJa3owa3JFdUFrd1ptTTdRZV9ZcEstOTBtZ3d0SUFZaGwzcGFObHZJSW1USW5aZDlwWnhBN25BN19GcjgxampIY0dMNWJEVTBOMjVpcG83WW5VcTFvUy1sWXB3UkhsTGl4VVZkM0hKOXhYczVlYVBZNTE?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-08-07T08:48:20-04:00",
+      "summary": "Yen Jumps 1% Against Dollar After US Jobs Data Bloomberg.com",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.4,
+        "relevant": true,
         "v": 2
       }
     },
@@ -1097,6 +2612,36 @@
       }
     },
     {
+      "title": "Debt burden grows for German suppliers in embattled auto sector, study shows",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNMGYtNkp5ZmlyS2FKYWJTXzhkTW1uOEV1ZVZncjdoc2VGWVFncEhuR3B4NzRWeEhnTGtQYnU5RXkzbmo3NGNVRjBjOWpPbjNsc1RNa3R5OXZQc3ZGNy1qMkJaVTVyZXBfclhpUXFZZEJfUmNZaDAtdXM4ZHdyNHV4c012azRheXRBaGVIanRMMmdfZ18yN0R4Uno1a25KcmIxYkdlVHhCa0NXQU01eVpGdm9ONEZQSFJ2LVpvOVJ6T2NvWWR1d3FIWDVCbTU5NzQ?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-08-07T08:19:23-04:00",
+      "summary": "Debt burden grows for German suppliers in embattled auto sector, study shows Reuters",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Garbage-Truck Margin Boost Shows the AI Profit Boom Has Begun",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOXNvQU55N1o3NEpVa2FmUlFhcmZBX2swNWstVXNpM0REc09OS0VDc0tJTkZWSGoxRm1VbTlnVkdnQlBCZG1XQi1YVEhuQTFwMFFiVXBwR25tdWNpenRkWm0ydDBhdmVfRHNYbEE3dkY2eXYycGxtX3ZZZWJSXzVCbVVHU3RMa3NORzlBQlBGTlgxdGRFSlg5VXdXRkFFbm5TbWdOTGMxaDN4c2NQeW5RMmln?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-08-07T08:18:45-04:00",
+      "summary": "Garbage-Truck Margin Boost Shows the AI Profit Boom Has Begun Bloomberg.com",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Companies scoff at airlines' cheapest business class tickets. 'The real value is flexibility'",
       "url": "https://www.cnbc.com/2026/08/07/business-business-premium-fares.html",
       "source": "CNBC Top News",
@@ -1134,6 +2679,36 @@
       "category": "Markets",
       "published": "2026-08-07T08:15:01-04:00",
       "summary": "Even as luxury homes fly off the market, sales of starter homes are down despite growing inventory and more price cuts, research shows.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Take Five: Markets aren't going on a summer holiday",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE95bFE4bk1VbURLVUdtX3lfYVA1SEZnNzVfb3ZHR2ZPQVdxT2ZEVjVmSGNSM0JuX2tzcWxVcGNSaDI1ajk5ZElPcFpzQUhWcHA0T2pCeUJ0enpRTFFpQm14dmtLZmtnaU9RS2swdnlKQ041cEo1dDlMN1hwenRQQQ?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-08-07T08:09:37-04:00",
+      "summary": "Take Five: Markets aren't going on a summer holiday Reuters",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Europe Finalizes Plans For Its 'Sovereign' Starlink Competitor",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOS3hKTjJOZEs4cWg0UGhWMWtpb1pCZHNKTmY5eDVZM0hIYU5yZm9JSWFxUnNUV1pWSjdTVUhqSjNkTk5SRk10cEF4TGwwYkxkZXc1SlJmOW9mYUNWc1VXWENqaDc3c2dNaHVqVlNQQ096TmN2cWxtV3RHWVBvbUhCeHhxandNMGVfem00SQ?oc=5",
+      "source": "engadget.com",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-08-07T08:01:07-04:00",
+      "summary": "Europe Finalizes Plans For Its 'Sovereign' Starlink Competitor engadget.com IRIS² reinforced and accelerated as implementation advances European Space Agency EU lays out $18B satellite constellation plan, with Spanish firm winning key role Breaking Defense Europe increases size a",
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
@@ -1194,6 +2769,21 @@
       "category": "Markets",
       "published": "2026-08-07T07:37:33-04:00",
       "summary": "Three allies seek to deepen regional security co-operation to deal with wars and instability",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Dream Finders to buy Beazer Homes in $2.2-billion deal",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2x2eWs1RThmWlo2QjRKSjZVM2VSQ21xU2hVVS11dzZYWDhYcVc2Y1FXSzRFYXhHb0tzR19wODQ4TU5tdEFjU09HUDM4aFJILUhxNmFKU2pOMHdyTVJ5V3BtWFBTWkFmVjV4dVBzVXBVcGNHLUJmaVd5OExfa2tDOWIzMTJJT3ZuLTROQkY5c3NadU1uMng5SlRSS2Y?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-08-07T07:26:21-04:00",
+      "summary": "Dream Finders to buy Beazer Homes in $2.2-billion deal Reuters",
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
@@ -1277,6 +2867,21 @@
       }
     },
     {
+      "title": "Ford’s new electric pickup will cost $28,350. It’s an extremely expensive bet on a very cheap truck",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaXdTVHJaclFxbjVRNi1lZzh6MjFXR3hSS0l1czNERW1VNWY4N3RtbVJLMlR4N3lGcHdETmNVQXF3ZU9lMEI4TzdoakRpeGp6clUzNHdCZGpLd0VlcmdIRXBxM2xLM3EzVU9ZcEtFVWVaM1dYaGZ2cmdpM0Vra0M4eFBMbm8?oc=5",
+      "source": "CNN",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-08-07T07:00:29-04:00",
+      "summary": "Ford’s new electric pickup will cost $28,350. It’s an extremely expensive bet on a very cheap truck CNN Ford's new 'Fathom' electric pickup truck will start at $28,000 CNBC Ford’s New Small Affordable EV Truck Is Called Fathom, Not Ranchero MotorTrend Ford ‘Fathom’ Truck to Vie W",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Bari Weiss’s overhaul of CBS News has been rocky. But her 60 Minutes revamp will be the ultimate test",
       "url": "https://www.theguardian.com/us-news/2026/aug/07/bari-weiss-cbs-news-60-minutes",
       "source": "Guardian Business",
@@ -1352,6 +2957,21 @@
       }
     },
     {
+      "title": "Software Stocks Are a Hot Mess, So Is the Whole AI Trade. And 4 Other Things to Know Before Markets Open.",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOT2xLaUJXN0tCWUk0Q3lXRW1LWGZwTlM1N3EyYlZYQzQ5d3pvdG03LVlfbWlHTHp1MG1YMFF5dER5dVE4MENZRWd3QVpENjNHSi1yS09Od0hWekZkUG96dFdLYnRjNDJ0STNlZGJueG1yZlVFSWZxbzV0ZVh2enQtdjEwTzQ?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-08-07T06:52:00-04:00",
+      "summary": "Software Stocks Are a Hot Mess, So Is the Whole AI Trade. And 4 Other Things to Know Before Markets Open. Barron's",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "How the Median Net Worth for Americans Ages 55-64 Compares, According to Federal Reserve Data",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQOE9kTkxkckhtTlhpUnhUY1Y1c2Z4dVUxUGR6ZGNkcDVWR04xeFhsTGlWdFA5bWtxUXpoeHZ1R1RXb0RHVkJmYWJ2UEdxYXp0d1pJSW5US3drdllCX0lPSElmUDluTnZtdzIyS1ZfbXdqTTdaYmZNRnQ3N29Cb2hJeEUwMEJuQjJ1RzFocjRycUw4UjVaNWpZNlJWWlhyRlgxZFlWLVY1MndUTENfU3pxdFhiRnRmMmdpTUhuVkEzTFNtVzJDSjM1ZGxn?oc=5",
       "source": "Investopedia",
@@ -1367,6 +2987,36 @@
       }
     },
     {
+      "title": "Big Tech Stocks Storm Back as AI Fears Fade and Euphoria Resumes",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZ1pHQTdOM2ZJelRWNFZHSndDR1RKQW40Ymhham1nSnB1Y1ljLUlZMFNBal9HTFpFbXl4WFhXeV9ZaUtKMzlkSXVIZktOU0ktUE5ycWZiWldNR1Y0QjFkRG1MLUp5NzhIeFRndjFlcE1uWXhjWWxLQnZNdUVZLU1xR2VMTGFrMVpkaWFvT0tFQVNJSWRuX0lYTW9xbC1TS1UzTDJKUS1vbWk3dlJNc3JNSVpIaldPdw?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-08-07T06:30:01-04:00",
+      "summary": "Big Tech Stocks Storm Back as AI Fears Fade and Euphoria Resumes Bloomberg.com See more headlines & perspectives on Google News",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Who is liable when AI goes rogue? Lawyers see new risks",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdm5IRWdwV3E1N1BVWXFDY21mTGJoMTg1TXB3VXFyYXRodDYycGNpZkhxOVp5SGF0NzkwVFlXaHpER2Mwdk1IcU5OaENIMV9MTkZJZFNTU0E5ODV6a1BqS2VacDVZeWhtbWRnaHpIVVpMOGRqR2l4bHNpYW8wZmxvcm90SGxNelNmUmVNS3hSbHhTY1RPem5GTmd0NF91bnNw?oc=5",
+      "source": "Reuters",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-08-07T06:19:08-04:00",
+      "summary": "Who is liable when AI goes rogue? Lawyers see new risks Reuters AI models have learned how to cheat. That might actually be a good thing. vox.com Taming AI’s wild frontier Financial Times OpenAI Models Joined Forces Months Ahead of Hugging Face Hack Bloomberg.com Meta AI Model Ha",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.3,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Trade Desk Stock Tumbles as Things Go From Bad to Worse After Earnings",
       "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1paXVncVZ0Sm9xOTljby1Pb3F6NTlSeWZWUHlrdG5VUTE1R0VxbmNjb3VaWllEWHJUUEc5ZkhoQm00RjFqWXlOV1dQZHJOWmw2d2dIY3lPWWVNbFZsSkVFX2gzWlpSdmsydHZZMVFGNWRoWWlFRnhzWWtNYkljdw?oc=5",
       "source": "Barron's",
@@ -1377,6 +3027,21 @@
       "sentiment": {
         "label": "negative",
         "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "China’s exports slow slightly in July despite robust demand for high-tech products",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNd090OGx6RmduRUlyWTdsdWlITEhlN2pKVU91ODFib3ZwcThVM1U2VjNhUE1TYTdCSnJBZG5MYWlFMmkzaGl5MzNyYTQ4YWVCNWMxX2RMMDJNSzByVFBHM1pKRFJyYnFsQlVjWVlvTUdBcWhvOWY3V2VuQV84MEhzWVVTSU04OGxyanJrX1Brd3NpT055YlYyOENIaUc?oc=5",
+      "source": "apnews.com",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-08-07T06:18:00-04:00",
+      "summary": "China’s exports slow slightly in July despite robust demand for high-tech products apnews.com China’s Export Boom Rolls On Despite Trade Backlash The New York Times China's exports growth beats estimates in July, as AI-driven shipments surge CNBC Three Things to Know About China’",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
         "relevant": true,
         "v": 2
       }
@@ -1422,6 +3087,36 @@
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Retailers tap AI shopping traffic but fight to keep customer data",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNcUkyUEpWNlhDYU5LbTVFTjdNa1dWdU9HbDRhWGZsRjVEU1VOY2VMVGZkOWRnY3QyS09OVzlYUWlUOVJ5QnlxaDd4TEp0em5Ea1RoZDFHVTN4UGhJcVFxTlBPZFZHVmFYUlUtSXRXNFAzQzhSWTZyazRWbXNjWEdDWmNjbWJmTWdSekdNdzRXVjRadFRwaXlGNXktYU1wblBnWW90eFhRZ0dHWjJSWXljWmxIdW9icFIzU0Uw?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-08-07T06:11:41-04:00",
+      "summary": "Retailers tap AI shopping traffic but fight to keep customer data Reuters",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "US Selling Euros for Yen Spurs Geopolitical Risk, BlackRock Says",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPSVM3QVZSN29aZ0xWS0FHN3I5cWRRamRWYW9xSkFGVHJ1NEd0d01jZW1UR2hDbGI4anZ2MHRfRmp5dmF5M2NNbnlLZF9DUElUN1pMYTNHck9vWFd5Z3BZbHpEWURjUGJoSlloUU90YlBZclh2RjRCZ2RqZVVfenJDNk5kLVVoM2lPM1FZMjFCQkMteFdfOFVQZ1U3MDUza2FFWkdRWGxYVWtrb3pINk5EeGNvMXM?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-08-07T06:04:22-04:00",
+      "summary": "US Selling Euros for Yen Spurs Geopolitical Risk, BlackRock Says Bloomberg.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
         "relevant": true,
         "v": 2
       }
@@ -1532,6 +3227,21 @@
       }
     },
     {
+      "title": "Some Chinese Iron Ore Buyers Stop Dealing With Radiant World",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZDI1ZXFieF9CZDlQbEtZeFl0SW9MRGxITUIyRjNQZEpFb1FjTmhLWWJWcEc5Ykg0Q0RfRjRxdDVucVJTN0t4U1hMTGpyMVBMd21uR01Rc2h4RnFlZjQ5Nk1Ob1FHT0VYSlZaM3RjYWVNZmZYcC1aOGNnX3d5WF9BQjdYci0wOF9mTjFtQnJ3RjhLTW5CcFI5d3BLVkxXVzFhaDJzQzBNQTNrXzIyRm1KNQ?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-08-07T05:53:59-04:00",
+      "summary": "Some Chinese Iron Ore Buyers Stop Dealing With Radiant World Bloomberg.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "US strikes $1.2bn deal to pay German firm to halt offshore wind projects",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1Ea2JGMWFDRGVjQy1Lc3o5ZW44OWVvODlkc05aWElPSHFCQlRkclI2ZzJnQkdpSE9mckE0TzFQRnlrdWR6VEVORExUek1oM21jREtjbGc0WFNudw?oc=5",
       "source": "BBC",
@@ -1554,6 +3264,21 @@
       "category": "Policy",
       "published": "2026-08-07T05:37:16-04:00",
       "summary": "System maintenance scheduled for the weekend of August 8–9, 2026 Bureau of Labor Statistics (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Google’s AI shake-up puts Demis Hassabis where the company needs him most, insiders say",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQaFZzYnRpN2lLZnZHcDN4WlhQazZScHd1OHA3a1RiUVNlZzhoMDZnY1BHbVpfSkZRb0NkTklCVXB3UFZjU2ktUDZYRlhSY3Z2eW03YXg0cVdMbXQ5WmJ3WnZQellzVjJPd3JTa3Y5R2VGamZMbFJWcGJPY21XRHFab2JKMzlwdlNCUEFXel95NEhpNDN5SVhkbVJHLWhRWXp4eVRJ?oc=5",
+      "source": "Business Insider",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-08-07T05:33:00-04:00",
+      "summary": "Google’s AI shake-up puts Demis Hassabis where the company needs him most, insiders say Business Insider The next chapter of our AI momentum blog.google Gemini is Cooked but GCP is Cooking SemiAnalysis Four Top Google A.I. Researchers Form New Start-Up The New York Times Google’s",
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
@@ -1599,6 +3324,21 @@
       "category": "Markets",
       "published": "2026-08-07T05:10:42-04:00",
       "summary": "Airbus reports stable July deliveries, confirms China orders Reuters",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "India Seeks China River Data as Tibet Mega-Dam Raises Concerns",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTXFjcndOczZBNFRnYjM0NlFlQWFaQ3ctcWh4Z3FKRmJSbWJNcWFGaWRXZWptOTRXYzFoRTQ4SDRsVVpLckNPa3VoUTllOUFRdC0yYjVnNE5SN01FNWVqamxVYXVSYkZCR1NfdHZMSFA2UUN0b0Z2U2dlUzBMREtfcTFPTGF3TV8zT1JKUG94cWE4VXdkZEQ5N242VzQ2QXh3MS0xdXd5cWljbEdjN3VxWDlwVQ?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-08-07T05:03:13-04:00",
+      "summary": "India Seeks China River Data as Tibet Mega-Dam Raises Concerns Bloomberg.com",
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
@@ -1922,6 +3662,21 @@
       }
     },
     {
+      "title": "Key China Steel Price Hits Near-Decade Low on Construction Slump",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZFRtZ0VoR1U4VVhYT09DbFhKVTUyWVlBWWJaTW11VnVhNjFqWnpDczl1ejB1eXdEVGZiZnhnUmVucm4xV2VFa0dFTDR6bHZpX0dXZmxkekphdUNnSnpRU3Q2dmcxM0pqOEJmSXNUX2x6c1Mza3hwNmRVb0Q1MDhXd3Q2ekZCRWFoUGcxUzZHcThocDR6MmFYZlY4ZWN1dk1oTDhfN2RUdExwbzdsV1BRT0NMYlRpUQ?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-08-07T02:05:00-04:00",
+      "summary": "Key China Steel Price Hits Near-Decade Low on Construction Slump Bloomberg.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Copper Heads for Record High Close on Tighter Global Market",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUXUyeTNaSWFJRlZ4NmVLQ2tYT2dXb0VaMEs3TTFsazVFX09HbjE5Q05oNFBJRnlnQ0xqTkpvVjM1M0o4MHFrOGZqOTdjSm0wMUxvVnFpYzZNcmhXVGJEdW80VmdTR0J0ZjVXdVQxc1JSbDBBdmI5aHI4cndMMkR6ZkczM2JvU3FZN0p6OEZOT1g2R1RwS2NsaWNOR1pvMFQ0RVlFVHRLRXlRVDF3LXNacDh5U2JuQQ?oc=5",
       "source": "Bloomberg.com",
@@ -1948,6 +3703,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "India Bullion Exchange CEO Resigns in Blow to Fledgling Platform",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdUM0Z0NDc19xWjZXaXRLQ19nall5Tm9nYlBrTEhDSXNlcm5wV3ZyN3NDeks1SlZrY2twV0Q3RGZDNF9vMWNFVGtCcG43OXlZc3dwZTRvNTZ0ZlBPYXYyWDVwWEtRYmszZS0tNk9lVlYzMzJ0bndnQ1JUMkxfSXI2MlBNM0JSRWRiOHh1SGE2MEdTVnNUSXBpcmtSNndtT01YMmJ0bnEyQmxES0hSOV9nTmxBang5Zw?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-08-07T01:03:00-04:00",
+      "summary": "India Bullion Exchange CEO Resigns in Blow to Fledgling Platform Bloomberg.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": true,
         "v": 2
       }
     },
@@ -1993,6 +3763,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is It Safe to Eat Lettuce Again? Here’s What Food Safety Experts Say",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ3dLZ3VFOE9ScC1Bd0VTc19PemE4eWpXTExfaXpCSE56SDBNQUlXMzMtOEhaQmJXREpBbzRHUHZtZTNZbUhra3RienJsUEF1dFpNaS1SY1JXMkctWHlMamsycFBDZzFRQzVKeEN4eFRLRy1FLWc5ZUtMa1hKTkhGWmFiOHZYOHh1VWc?oc=5",
+      "source": "Food & Wine",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-08-07T00:31:00-04:00",
+      "summary": "Is It Safe to Eat Lettuce Again? Here’s What Food Safety Experts Say Food & Wine Taylor Farms linked to 5 other Cyclospora or E.Coli outbreaks in last decade-plus CNN More fruits, vegetables linked to Cyclospora, Ex-CDC director warns FOX 8 News Where to find local produce in San",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
         "v": 2
       }
     },
@@ -2337,6 +4122,21 @@
       "sentiment": {
         "label": "positive",
         "score": 0.4,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Colorado salmonella outbreak caused by jalapeños at Qdoba and Chipotle",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdXljbmhVOERLV0I1d1EzeUZxVGxsbU85RnZtZ1REcE5udUplR2RQQnp5ZEM1UU9MODlEd1RFREl3OWEyM2hhMXc1Sk5hSEZfcmQtaDJLNEJiaVZKTGg3N3FveGhVUUtONDNOMkhhb0pjRHoxRlZWLWdmSDRsNW9rMTF3?oc=5",
+      "source": "Colorado Public Radio",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-08-06T19:27:53-04:00",
+      "summary": "Colorado salmonella outbreak caused by jalapeños at Qdoba and Chipotle Colorado Public Radio Fresh jalapeños recalled due to salmonella outbreak in 27 states, including Texas tpr.org Jalapeños linked to a U.S. salmonella outbreak are tracked to a Mexican farm and a distributor PB",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
         "relevant": false,
         "v": 2
       }
@@ -2687,6 +4487,21 @@
       }
     },
     {
+      "title": "F.C.C. Removes Limit on Broadcast TV Ownership",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORkRiU2Fra3J3SGo3MTIteGNhT1p1a2RLb1NFZllRblJOXzJudHFaSDhYS0tHMUJfWlBfVVVDbklJQkVwRjJzMi10UlVYUWlzTFQwdHV2X1ltcHh3UkxIN1BUdlV1STFLRHdXNWNBWmdhLUo1REQzOEFpSDhKSWcwZWxlUQ?oc=5",
+      "source": "The New York Times",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-08-06T16:56:19-04:00",
+      "summary": "F.C.C. Removes Limit on Broadcast TV Ownership The New York Times Federal Communications Commission scraps limit on broadcast TV ownership NBC News FCC repeals national TV ownership cap, a win for Trump-aligned broadcasters CNN Free Press Plans to Take Carr to Court in Response t",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "3 Surprising IPO Winners That Aren’t SpaceX or SK Hynix Stock",
       "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBCUGo4RGFmVk95ZEc4cjFnLTRmWHQwOUUxQ3dUM1Zkd0lLNHdaT2YzSXdJY2RBRTcwNWxFZzUwVTRuc2IzTHowMmt6REF1QjBINEJ2RERobXRvbjJ1cG9MSFVHX1U2MlpuMWhUcDVGSE8wdF9EeUhLb0FTaks?oc=5",
       "source": "Barron's",
@@ -2923,6 +4738,21 @@
         "label": "positive",
         "score": 0.3,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Alphabet looks to raise up to $25 billion from latest bond sale, source says",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPWUk1NnFMWVUwZEJJTmpvWExsa0hoNWhpbUJXMlpFWUpoY2xtNDk4VGFBTEZORlRQSWVCd3ZsYXBtSTh1ZlJDX2E0OWtFMk5nWW5WV0VNUkJ5REpad2VMMTNrZVBqbERDYWg2QUs2N1hFcHRKRkloQ090VG9lQ3lrLTYyb3otQ243ZzhrQ1pRckZqUmpTMTJoMjVGc1IzQUJpd3BZemd2RHVZRF9WcVg1c2lDdWdia1dU?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-08-06T16:30:58-04:00",
+      "summary": "Alphabet looks to raise up to $25 billion from latest bond sale, source says Reuters",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
         "v": 2
       }
     },
@@ -3407,6 +5237,21 @@
       }
     },
     {
+      "title": "Why Coke Is Clobbering Pepsi",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pUVVpc0RjaFJSa2hoSzhDNmJyS3hyNVlYMzFZYUVwLWo1VGpPNkRGbDJoMnNwNTVZbDJtMkxzTkFWOERaVmFsMjA0ZFVtbDdTVmVLYWRIOGJpenk4anFoVENPb2FGQmFiU3Z3?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-08-06T13:17:00-04:00",
+      "summary": "Why Coke Is Clobbering Pepsi Barron's",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "South African clothing factories struggle after migrant workers flee",
       "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOX3BLR002bk9UTHRJcUQyTGNiOXpQUXJ6c296a2kyVDNMWGRoMlVDUF9XcU1KelJPbm1BcDhON2ZFR2NfRFpCWGl0UF9CS3lCZUFxalNyZHdwaVI2YUYzeEs0LVBPeVZLc3U2MFMtUzZjeWRZVk82QmR3M3JpRHgzVHZ0dXN6X3A1Mm04RjB5ZEpBQUFnU05faHhxNnlCMFNTcmRjc1ZCRVJUQkkyRE1EMnpnX05mNkhQU1FHX0c3RTRpaWJSNXc?oc=5",
       "source": "Reuters",
@@ -3692,6 +5537,21 @@
       }
     },
     {
+      "title": "CMBS Investors Push Back Against AI as ‘Luddite Trade’ Spreads",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaEpFVDlwSEZ2dXdVR00yd3VpaE1wcF9SS0Q3QmRZemdHSlZsT08xVG5lQ1Uzb1NoM1NUWXFqOWwwOERCcWUwRUl4QnB4cG5XZWw4VU5lNGI2TGdmQm5ZdnJtTG55ek45aFlLZXFtWTdpZEQzZ3FzR2ZuMDU2Wk0wYl9aUHlXUzVfRHI4dUl4T21wSUQ5dTJQcDBRWVk4TWZhN0hIQTVxYW83VXZBYnlfbQ?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-08-06T09:52:07-04:00",
+      "summary": "CMBS Investors Push Back Against AI as ‘Luddite Trade’ Spreads Bloomberg.com",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Bank of America spends $250 million a year on GLP-1 drugs for its employees, CEO says",
       "url": "https://www.cnbc.com/2026/08/05/bank-of-america-ceo-glp-1-drugs-cost.html",
       "source": "CNBC Finance",
@@ -3872,6 +5732,21 @@
       }
     },
     {
+      "title": "Emerging Currencies Hold Near Record High as Carry Trades Revive",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQVl9TTGp3VnNuX3NJTU13RFhCbUx1dVF5dXVtXzd3TkxOT1Z1WWxPU01KS2ZqZ1FJX0JHMGduQ2dvZzhRdkdpSFdBSmEtRUxzcmNjNUtBSGdya2k0QlBHclk2WktBWm53bDItdS1jU0ktUFd5eFJzWmg5SzNBTnNTNHI3S2dPNm5mN0dpTnZVdjVYSEdWOGgyc3F2cnBFOVFLWC1Bd19KYS1iOERRZzlEVVVlWkI2QQ?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-08-06T07:55:15-04:00",
+      "summary": "Emerging Currencies Hold Near Record High as Carry Trades Revive Bloomberg.com",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Musk's Attention Economy Is Slipping Into Recession",
       "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMktrdXdYS2tjUmZ6RGMxTjBOa1p3VWtqb0N1OTVSVktuOTBTNG82OExkNFlDcnRkRlJpNTRCSF9DaklJOE5XaVBqaXBfZlFQbGhMVU9FLTY5ZVVaSzRaSmxZMUlfT0JhMVltNXlicDIzODBLc2ZwbFRLV3NJOTdGci1hS0EwaXNsVkhNZHFaeUZHUEdrVXZTcktJdkE5SFNqc1NENWlMdHQ?oc=5",
       "source": "Bloomberg.com",
@@ -4047,6 +5922,21 @@
       "sentiment": {
         "label": "negative",
         "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Turkey Says Carbon Markets to Take ‘Rightful Place’ at COP31",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQYUE1MFBZS3czX3JwTy1IZzdvZjhIZGVCUWp3ODcyLTNaQzVpRjdONTFabjZ6OWxtZXNOeVYxZFM4STRYRW5QbUFlbWo4Z1JOWkpHZm1PMEkxa28xR3NUMEVwbFJPV09aMkowVDBqM1pRMFNpWHNrdDVCd21TUGl6MEYwY2ZLRlN2bXNmZ2hTVkEtV2Z4dzN0NXNhWTdxeldRRUtaN2JTVGRwcGdsemc?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-08-06T03:00:00-04:00",
+      "summary": "Turkey Says Carbon Markets to Take ‘Rightful Place’ at COP31 Bloomberg.com",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
         "relevant": true,
         "v": 2
       }
@@ -8687,6 +10577,21 @@
       }
     },
     {
+      "title": "Rochester, NY Economy at a Glance",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9OLVJLR2d1X2FRWHNCMkNfMjlneS16WVRKRllmZjkzXzFfNDdTdm9TS2llVk5teEItZ3lZX0Y1UlJqaGNNdkhLcU8zQ29ZV1JTZndrV3VwQjBLT2xF?oc=5",
+      "source": "Bureau of Labor Statistics (.gov)",
+      "feed": "BLS",
+      "category": "Policy",
+      "published": "2016-12-16T01:08:30-05:00",
+      "summary": "Rochester, NY Economy at a Glance Bureau of Labor Statistics (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Table 1. Job openings levels and rates by industry and region, seasonally adjusted",
       "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1VdmRDNmMtcXY0RE1jYTVpcVdwVXhVekZNXzFQUU8wNDVlbk11RTEwWHZmQ2VIZ1p0M3dTcHZFdTlVSHZHNWFqc1c0S1VHd0p3UlRtLURDa0I0Zw?oc=5",
       "source": "Bureau of Labor Statistics (.gov)",
@@ -8694,6 +10599,21 @@
       "category": "Policy",
       "published": "2016-12-14T04:47:40-05:00",
       "summary": "Table 1. Job openings levels and rates by industry and region, seasonally adjusted Bureau of Labor Statistics (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Table A. Job openings, hires, and total separations by industry, seasonally adjusted",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1RQzRLT1huaVpLZDZXWDVwbzM0c1BRUmVKMXF5bnRJX1hLZmo1V2sxdTQ3S0RKVjdGU3lrcS1qT2RmRnVXWDhGVHppalFiakk1WVZ5UmFoOA?oc=5",
+      "source": "Bureau of Labor Statistics (.gov)",
+      "feed": "BLS",
+      "category": "Policy",
+      "published": "2016-12-13T22:29:15-05:00",
+      "summary": "Table A. Job openings, hires, and total separations by industry, seasonally adjusted Bureau of Labor Statistics (.gov)",
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
@@ -8754,6 +10674,21 @@
       "category": "Policy",
       "published": "2016-06-13T17:16:29-04:00",
       "summary": "Employment Situation Summary Bureau of Labor Statistics (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Stocks",
+      "url": "https://news.google.com/rss/articles/CBMiUkFVX3lxTFBPR3hSZU5ONDI2QTh2SGNDU3Z1dWVmckhEVVRmS1BfSk9XWU5KQ2JsR3lKdEJJamFmdEIwc1pvNGpDc2R6VjdrZi1zVnZ3b1BlN2c?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2015-01-27T23:58:42-05:00",
+      "summary": "Stocks Bloomberg.com",
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
@@ -9748,6 +11683,561 @@
         "label": "negative",
         "score": -0.7,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Veteran manager buys 2 ETFs as market shifts",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/veteran-manager-buys-2-etfs-020300490.html",
+      "source": "TheStreet",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "This AI Stock Offers Diversified Way To Play The Space, Eyes Entry As Profits Jump 80%",
+      "url": "https://www.investors.com/stock-lists/stock-spotlight/ai-stock-cognex-cgnx-profits-jump/?src=A00220&yptr=yahoo",
+      "source": "Investor's Business Daily",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "What is universal life insurance?",
+      "url": "https://finance.yahoo.com/personal-finance/insurance/article/what-is-universal-life-insurance-185454508.html",
+      "source": "Yahoo Personal Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Retail Stockouts are a Costly Affair",
+      "url": "https://finance.yahoo.com/small-business/articles/retail-stockouts-costly-affair-173900367.html",
+      "source": "Sourcing Journal",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Jim Cramer Says US Markets Will Regret Letting SK hynix Inc. (NASDAQ:SKHY) In",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-says-us-markets-171440703.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Jim Cramer Continues To Believe In Banco Santander, S.A. (NYSE:SAN) & European Banks",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-continues-believe-banco-171212147.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.4,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "AdvanSix Inc. Q2 2026 Earnings Call Summary",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/advansix-inc-q2-2026-earnings-171112363.html",
+      "source": "Moby",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Stock Market Today: Nasdaq Pops As July Jobs Miss Dampens Rates View; Gold Stocks Shine (Live Coverage)",
+      "url": "https://www.investors.com/market-trend/stock-market-today/dow-jones-sp500-nasdaq-july-jobs-report-cloudflare-stock/?src=A00220&yptr=yahoo",
+      "source": "Investor's Business Daily",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Russ Savage calls for Celsius Holdings CEO John Fieldly to be fired",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/russ-savage-calls-celsius-holdings-173400926.html",
+      "source": "Quartz",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Early surge in US container imports coming to an end, shippers say",
+      "url": "https://finance.yahoo.com/economy/policy/articles/early-surge-us-container-imports-170035204.html",
+      "source": "Reuters",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Call options explained: From opening trade to expiration",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/call-options-165604768.html",
+      "source": "Yahoo Personal Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Global Partners LP Q2 2026 Earnings Call Summary",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/global-partners-lp-q2-2026-165542342.html",
+      "source": "Moby",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "The best CD rates for August 2026: Earn up to 4.25% APY",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/best-cd-rates-201308688.html",
+      "source": "Yahoo Personal Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Spotify and Pinterest Delivered the Growth. Investors Wanted More",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/spotify-pinterest-delivered-growth-investors-173058540.html",
+      "source": "24/7 Wall St.",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Gold's rally 'has support', with prices set to rise toward $5,000 next year, UBS says",
+      "url": "https://finance.yahoo.com/markets/article/golds-rally-has-support-with-prices-set-to-rise-toward-5000-next-year-ubs-says-100000563.html",
+      "source": "Yahoo Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.8,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Microchip Technology Stock Jumps, Leads SOX Index Higher",
+      "url": "https://www.investors.com/news/technology/mchp-stock-jumps-sox-philadelphia-semiconductor-index/?src=A00220&yptr=yahoo",
+      "source": "Investor's Business Daily",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Stock Market Rally Powers Ahead; SpaceX, Palantir, Sandisk Are Key Earnings Movers: Weekly Review",
+      "url": "https://www.investors.com/news/stock-market-rally-powers-ahead-spacex-palantir-sandisk-are-key-earnings-movers-weekly-review/?src=A00220&yptr=yahoo",
+      "source": "Investor's Business Daily",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Amazon's $220 billion AI bet hits a snag: Trainium 2 chips are only 20 months old and already being replaced",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amazons-220-billion-ai-bet-163500285.html",
+      "source": "Moneywise",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.3,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Oklo Is Still Down 33% This Year. What Will It Take to Get OKLO Stock Back to $100?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oklo-still-down-33-oklo-172734008.html",
+      "source": "24/7 Wall St.",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Miinor change in truck job numbers, bigger shift in warehouses",
+      "url": "https://finance.yahoo.com/economy/articles/miinor-change-truck-job-numbers-163230456.html",
+      "source": "FreightWaves",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "ETF influx amid peace bid drives $2.76B inflow to high-yield bond retail funds",
+      "url": "https://finance.yahoo.com/markets/options/articles/etf-influx-amid-peace-bid-162027427.html",
+      "source": "Pitchbook",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Earnings live updates: The Trade Desk stock plummets on earnings miss, Oklo jumps on 'criticality' milestone",
+      "url": "https://finance.yahoo.com/markets/live/earnings-live-updates-130425228.html",
+      "source": "Yahoo Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Twilio Stock Surges 31% On Earnings Beat As AI Tools Gain Traction",
+      "url": "https://www.investors.com/news/technology/twilio-earnings-twilio-stock-news-q22026/?src=A00220&yptr=yahoo",
+      "source": "Investor's Business Daily",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.8,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Citi raises Q3 2026 Brent crude oil forecast to $80 a barrel",
+      "url": "https://finance.yahoo.com/energy/articles/citi-raises-q3-2026-brent-172542166.html",
+      "source": "Quartz",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.4,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "US stocks, bonds rally after soft jobs report; yen bounces back",
+      "url": "https://finance.yahoo.com/news/asian-shares-pause-us-jobs-021601155.html",
+      "source": "Reuters",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is Iran Preparing to Permanently Block the Strait of Hormuz?",
+      "url": "https://finance.yahoo.com/energy/articles/iran-preparing-permanently-block-strait-160446082.html",
+      "source": "Oilprice.com",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.8,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "How a CD can help you prepare for — and survive — a layoff",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/how-to-prepare-for-a-layoff-cd-133034274.html",
+      "source": "Yahoo Personal Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "This Power Stock Could Be a Big Winner From the Data Center Boom",
+      "url": "https://finance.yahoo.com/energy/articles/power-stock-could-big-winner-172500956.html",
+      "source": "Motley Fool",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Worried about job security? Take these 5 steps now to protect your finances.",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/job-security-steps-to-protect-finances-203111633.html",
+      "source": "Yahoo Personal Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Bitcoin and ethereum prices today, Friday, August 7, 2026: Crypto prices moving higher following July jobs report",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/bitcoin-and-ethereum-prices-today-friday-august-7-2026-crypto-prices-moving-higher-following-july-jobs-report-131451960.html",
+      "source": "Yahoo Personal Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Gold prices today, Friday, August 7, 2026: Gold prices continue to rise even after July jobs report misses",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/gold-prices-today-friday-august-7-2026-gold-prices-continue-to-rise-even-after-july-jobs-report-misses-122102132.html",
+      "source": "Yahoo Personal Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Silver prices today, Friday, August 7, 2026: Silver surge continues as jobs report disappoints",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/silver-prices-today-friday-august-7-2026-silver-surge-continues-as-jobs-report-disappoints-124342659.html",
+      "source": "Yahoo Personal Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Daily Spotlight: Payrolls Fall, Hikes Less Likely",
+      "url": "https://finance.yahoo.com/research/reports/ARGUS_47855_MarketOutlook_1786110181000?yptr=yahoo&ncid=yahooproperties_plusresear_nm5q6ze1cei",
+      "source": "Argus Research",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "How to read and analyze an options chain",
+      "url": "https://finance.yahoo.com/personal-finance/investing/article/how-to-read-an-options-chain-142208065.html",
+      "source": "Yahoo Personal Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Flagstar Bank data breach settlement: Find out if you qualify for up to $25,000",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/flagstar-bank-data-breach-settlement-find-out-if-you-qualify-for-up-to-25000-180712440.html",
+      "source": "Yahoo Personal Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "CD rates are going up. Here's why — and how to find the best rates.",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/are-cd-rates-going-up-225830260.html",
+      "source": "Yahoo Personal Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.3,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "What's more important: Saving money or paying off debt?",
+      "url": "https://finance.yahoo.com/personal-finance/banking/article/save-money-or-pay-off-debt-225315776.html",
+      "source": "Yahoo Personal Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
         "v": 2
       }
     }
