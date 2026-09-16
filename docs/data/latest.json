@@ -1,51 +1,1491 @@
 {
   "date": "2026-09-16",
-  "generated_et": "2026-09-16 13:23 EDT",
-  "count": 637,
+  "generated_et": "2026-09-16 15:57 EDT",
+  "count": 809,
   "by_category": {
-    "Markets": 353,
-    "Economy": 153,
-    "Policy": 131
+    "Markets": 484,
+    "Economy": 188,
+    "Policy": 137
   },
   "mood": {
     "overall": {
-      "index": -56,
-      "positive": 44,
-      "negative": 155,
-      "neutral": 173,
-      "relevant": 372,
-      "scored": 637,
-      "total": 637
+      "index": -63,
+      "positive": 47,
+      "negative": 210,
+      "neutral": 201,
+      "relevant": 458,
+      "scored": 809,
+      "total": 809
     },
     "Markets": {
-      "index": -56,
-      "positive": 24,
-      "negative": 84,
-      "neutral": 58,
-      "relevant": 166,
-      "scored": 353,
-      "total": 353
+      "index": -61,
+      "positive": 27,
+      "negative": 111,
+      "neutral": 76,
+      "relevant": 214,
+      "scored": 484,
+      "total": 484
     },
     "Economy": {
-      "index": -62,
+      "index": -71,
       "positive": 16,
-      "negative": 68,
-      "neutral": 38,
-      "relevant": 122,
-      "scored": 153,
-      "total": 153
+      "negative": 96,
+      "neutral": 44,
+      "relevant": 156,
+      "scored": 188,
+      "total": 188
     },
     "Policy": {
       "index": 14,
       "positive": 4,
       "negative": 3,
-      "neutral": 77,
-      "relevant": 84,
-      "scored": 131,
-      "total": 131
+      "neutral": 81,
+      "relevant": 88,
+      "scored": 137,
+      "total": 137
     }
   },
   "items": [
+    {
+      "title": "Anthropic policy chief says AI companies can't be expected to operate on 'honor code'",
+      "url": "https://www.cnbc.com/2026/09/16/anthropic-policy-chief-says-ai-companies-cant-operate-on-honor-code.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-09-16T15:56:09-04:00",
+      "summary": "Sarah Heck, Anthropic's head of public policy, offered her perspectives on AI safety as the debate about how to regulate model development intensifies.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Trump donor Harold Hamm's Continental Resources to develop oil region in Venezuela",
+      "url": "https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-09-16T15:55:16-04:00",
+      "summary": "Continental said it undertook an \"independent evaluation of opportunities\" in Venezuela after President Donald Trump called for the industry to invest.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Salesforce, Inc. (CRM) Presents at Dreamforce 2026 Main Keynote Transcript",
+      "url": "https://seekingalpha.com/article/4946744-salesforce-inc-crm-presents-at-dreamforce-2026-main-keynote-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:51:42-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Absci Corporation (ABSI) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+      "url": "https://seekingalpha.com/article/4946992-absci-corporation-absi-presents-at-morgan-stanley-24th-annual-global-healthcare-conference?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:51:40-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Dow Inc. (DOW) Presents at Morgan Stanley's 14th Annual Laguna Conference Transcript",
+      "url": "https://seekingalpha.com/article/4947216-dow-inc-dow-presents-at-morgan-stanleys-14th-annual-laguna-conference-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:51:38-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Freshworks: GAAP Profitability Is The Next Catalyst For This Undervalued SaaS Stock",
+      "url": "https://seekingalpha.com/article/4947196-freshworks-gaap-profitability-is-the-next-catalyst-for-this-undervalued-saas-stock?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:49:38-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.4,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed Changes Course, Hikes Interest Rates for First Time in Three Years | National News | U.S. News",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeDd5bXItVXhjY0xheVRWNHAwODZEbTQ4aTA5SjROcEhubEJUdzRxWTNRdVhfdTFTM1dUckVwVGx3YXRoQ3o1c09RZURDaWJ3ZTRhYUo0dTlidVJPRFlfOG9tZHZyYS1xZFBxdWdGMjZfMnl6LTY2Vk9vOVJEWG9NOUtaVVc4Wld4d0pfT3FwSGxJZXNmbmhFQXU5dVM4aGQ2aDJSeXJMUHFhai1UZjNpdzJtMU9odmpWdG9EM2ozZXNYWlh6M2otcVV0Zw?oc=5",
+      "source": "U.S. News & World Report",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T15:48:00-04:00",
+      "summary": "Fed Changes Course, Hikes Interest Rates for First Time in Three Years | National News | U.S. News U.S. News & World Report",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Micron Offers A Massive Margin Of Safety (Earnings Preview)",
+      "url": "https://seekingalpha.com/article/4947195-micron-offers-a-massive-margin-of-safety-earnings-preview?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:46:43-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "CI&T: Uncertain If AI Productivity Can Turn Into Higher Revenue And Profits",
+      "url": "https://seekingalpha.com/article/4947194-ci-and-t-uncertain-ai-productivity-can-turn-into-higher-revenue-and-profits?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:46:41-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Zealand Pharma A/S (ZLDPY) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+      "url": "https://seekingalpha.com/article/4947154-zealand-pharma-a-s-zldpy-presents-at-morgan-stanley-24th-annual-global-healthcare-conference?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:41:37-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed raises interest rates by quarter point to tackle inflation",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxORFVoeUNBMTNYV2tDbGpKekd3Y3l6RGJLM0JrekZhRElkQjI0OFFsNmFCUzNUTk5ndUFWQkstdGZfeFVDdDZPUVQ0NEpkTjBQQk54VDh0dTNrQmE3MF9Rb2xBV2NLTUF5LUlsb19rMmU3MHNEOFdzbVhVQzFDQkJobmY0REljQ2R2cFR0LTFiZ2hYcDI4NkpKZkNuOGxlWEtZNVNB?oc=5",
+      "source": "The Washington Post",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T15:38:53-04:00",
+      "summary": "Fed raises interest rates by quarter point to tackle inflation The Washington Post",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Jeff Gundlach says the Fed should have hiked rates by more to fight rising inflation",
+      "url": "https://www.cnbc.com/2026/09/16/gundlach-bonds-fed-rate-hike.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-09-16T15:38:41-04:00",
+      "summary": "The Fed should have hiked rates by half percentage point rather than a quarter, the investor told CNBC.",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Expert offers debt advice after Federal Reserve raises interest rates",
+      "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxOdzhMdEJEbUwzeC1Xb0xabmdhcDZBU0h5S0xHRWkzXzJkN25vbk0wNllXRDFNajFVRnRGZmR3Y0VidGppLV9MNWNzOG0xYjRscExZM2RXRDBkWnNTQ0lSa3RXVkE2UnFoSXBWbkRQcF9KNmdHWXdMcF8xRjNZQnlMaG1RWktuV0JuSWdkcjJXanBnODFRYjR5SV9hZ0t3X0g3Q2NBRllpNnZsVUFVcWZnb005cy05UEgtZFhoY3FES1dldGNybE9vOTN1QW1pcmI3MG9pSW80dE5uWlY0X3RBNFRpZWxsZUREWVB0amtPdkpweW1xS1E4dTZpb0MtbUt3QnNoVHczaFdjUGQzRy1qT0lQbDhza1NuT1hHRk1iS3NPcjlDakdRdFRhZkpRU29KTGpNWDEtUVljeXZzbE1qLTc1ZEtpNVNENXp3MDNHc2tjVFp6ZDhDSm5VSlRWNnZ4QXF0eGtibFVldm5XeC1Xd0ZQSjlTVUVCY0psdVJHMkF3QWZBQ0JzSDlsNmtwSnFvVWdN?oc=5",
+      "source": "WJLA",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T15:36:36-04:00",
+      "summary": "Expert offers debt advice after Federal Reserve raises interest rates WJLA",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Boeing CEO: 737 Max production taking 'a little bit longer' to stabilize than expected",
+      "url": "https://www.cnbc.com/2026/09/16/boeing-ceo-737-max-production.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-09-16T15:36:24-04:00",
+      "summary": "Boeing CEO Kelly Ortberg said wing production at its Renton, Washington, factory is a hold up, adding the company has plans to address it.",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.3,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Yen Carry Unwind Could Blow Up The Long End",
+      "url": "https://seekingalpha.com/article/4947190-yen-carry-unwind-could-blow-up-long-end?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:33:18-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Novo Nordisk: Why This Corporate Rebrand Is More Than Simply PR Posturing",
+      "url": "https://seekingalpha.com/article/4947189-novo-nordisk-why-this-corporate-rebrand-is-more-than-simply-pr-posturing?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:33:07-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "House votes to hold Leon Black in contempt of Congress over Epstein subpoenas defiance",
+      "url": "https://www.cnbc.com/2026/09/16/leon-black-contempt-house-epstein-subpoenas-refusal.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-09-16T15:32:55-04:00",
+      "summary": "Billionaire Leon Black is suing the House Oversight and Government Reform Committee seeking to block subpoenas it issued him in its probe of Jeffrey Epstein.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Karman Holdings Inc. (KRMN) Presents at Morgan Stanley's 14th Annual Laguna Conference Transcript",
+      "url": "https://seekingalpha.com/article/4947146-karman-holdings-inc-krmn-presents-at-morgan-stanleys-14th-annual-laguna-conference-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:31:38-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "White House chief of staff Susie Wiles says she's cancer free",
+      "url": "https://www.cnbc.com/2026/09/16/susie-wiles-trump-cancer.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-09-16T15:31:11-04:00",
+      "summary": "Susie Wiles oversaw Trump’s winning 2024 presidential campaign and has wielded major influence in his second administration.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Federal Reserve hikes key rate for 1st time in 3 years, defying Trump demands for a cut",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPVlB2TmNqY1dILUtfRTFBQ0JPSk53elRnU1QzdmhIQ3VvTWlkelRTd3haWHJ4bmxiY2ZOcGhvd09wMTllVkVLQzk5NkdKZzNPeHpaZTRHQ242Ynd2Q1ZIUU50cUp1N2JYd1lCQndZQlhMUTZFekFZWWNueUxNbmRiUHdBZ2dWbDgzNlhmejZneHptaFhGbDI1M0JPbk8zZw?oc=5",
+      "source": "AP News",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T15:31:00-04:00",
+      "summary": "Federal Reserve hikes key rate for 1st time in 3 years, defying Trump demands for a cut AP News",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "GameStop: The Video Game Retailer Is Already Gone",
+      "url": "https://seekingalpha.com/article/4947185-gamestop-the-video-game-retailer-is-already-gone?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:29:49-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Takeaways From the Fed’s Decision to Raise Interest Rates",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPWXpvWE9XS0dzSnN0RU9kTFVBR2k3OXRaQ2E4MmVTWDg1ZWN2ZUFuLUhxdWsyQkU0NmNEejU2RmNZeEpPNGR6aklOOFJCZkMxY2JmTERHT1RFRHR3VWtJWWotelhFOTBlaFFteXkzSmloMjFSaUhwVjhPa3RHX1hNdGstOHJFb0NIX3V2NUk5bFY3MGZkQVhLOGEweE5ES2hv?oc=5",
+      "source": "nytimes.com",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T15:29:00-04:00",
+      "summary": "Takeaways From the Fed’s Decision to Raise Interest Rates nytimes.com",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Trinity Capital Deserves To Be A BDC Favorite",
+      "url": "https://seekingalpha.com/article/4947184-trinity-capital-deserves-to-be-a-bdc-favorite?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:28:43-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.4,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Baron Real Estate Fund Q2 2026 Portfolio Activity",
+      "url": "https://seekingalpha.com/article/4947183-baron-real-estate-fund-q2-2026-portfolio-activity?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:28:00-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "CTEF: GARP Strategy With Solid Returns Worth Shortlisting",
+      "url": "https://seekingalpha.com/article/4947182-ctef-garp-strategy-with-solid-returns-worth-shortlisting?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:26:20-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.3,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "MBX Biosciences, Inc. (MBX) Presents at Morgan Stanley 24th Annual Global Healthcare Conference Transcript",
+      "url": "https://seekingalpha.com/article/4947020-mbx-biosciences-inc-mbx-presents-at-morgan-stanley-24th-annual-global-healthcare-conference?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:21:42-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Cognex Corporation (CGNX) Presents at Morgan Stanley's 14th Annual Laguna Conference Transcript",
+      "url": "https://seekingalpha.com/article/4947105-cognex-corporation-cgnx-presents-at-morgan-stanleys-14th-annual-laguna-conference-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:21:37-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Dow Falls 500 Points as the Federal Reserve Raises Key Interest Rate",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPczAxbFRYYU1qN0lvd0FyaWUyX3BKTVc0OThtOXk2MS0wU1Vwb1hjTEE4WFNyVkpnS216RENLTHh3bXFXeWRTSEd0SWpXbEpmUjBFV09YdHNRZDFiZER6a3J5VW5oaVhqMUF5cFpKZENNZFZ2TUtvSU5ZN0F1WS12NXNTNUV1ejJUOGhxMjNUTExnLXlXaEp5VjNPbmVhWWFUenBYSWxOYmpoWmVfNXNMMDVqaXdFdTJm?oc=5",
+      "source": "WSJ",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T15:18:45-04:00",
+      "summary": "Dow Falls 500 Points as the Federal Reserve Raises Key Interest Rate WSJ",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Smucker Statement on Federal Reserve's Decision to Raise Interest Rates",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQa1h3dG1uT3J0QldjY2xUWkZ3eDBNRDhicTlEYm1yOEtHRFlReTFuMS02cHdxQ2g1TlBaaFBtekxONGZYNXJYc2RpNlBtVUkzMnVxQ2NBbzA4SGEzNEZ4Y0hHM1lRb2h1Y2VEZVl3Mkx2SVRJdHRyc09WbmF0aFFFUlY5amdDMkJYYVBPTjIxcXpwdHRuSmtKamNyU2hVQXR0ekUxbGNEd0s0V1pLYVFOMQ?oc=5",
+      "source": "Congressman Lloyd Smucker (.gov)",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T15:17:55-04:00",
+      "summary": "Smucker Statement on Federal Reserve's Decision to Raise Interest Rates Congressman Lloyd Smucker (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed raises rates: What it means for your credit cards, mortgages, savings accounts and auto loans",
+      "url": "https://www.cnbc.com/2026/09/16/fed-rate-hike-consumer-borrowing-and-savings-rates.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-09-16T15:17:38-04:00",
+      "summary": "The Fed's quarter-point rate hike will impact a range of consumer borrowing and savings costs, including mortgages, credit cards, car loans and deposit rates.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed rate hike likely means more expensive credit cards and mortgages, but savers may rejoice",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOMTZkVWpBSDVBVFppRW1QTXNMNFk3cmNvLVpFcmE5aHNCOUhXX0NmNk5fb1dtRmo5YWpQR1pnakFZbW9mTko4UXlQaWhUQXBrQjBRZElPX1A2WVM5Y28wcFp3RVpCNUN1YWRPa3pSOV9aM0pYLTJzNG5JWklRVkg0SGlJTDVsc0x0ZDBsOVdjc21JMEg4LVJFeVBwOUJvc2RpLVB0RXZUWTVvUQ?oc=5",
+      "source": "AP News",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T15:17:00-04:00",
+      "summary": "Fed rate hike likely means more expensive credit cards and mortgages, but savers may rejoice AP News",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Baron Real Estate Fund Q2 2026 Shareholder Letter",
+      "url": "https://seekingalpha.com/article/4947181-baron-real-estate-fund-q2-2026-shareholder-letter?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:16:00-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Outlook For Oil As Prices Climb Above $100 A Barrel",
+      "url": "https://seekingalpha.com/article/4947180-outlook-oil-prices-climb-above-100-barrel?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:15:00-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Hegseth avoids impeachment vote with early House election recess",
+      "url": "https://www.cnbc.com/2026/09/16/hegseth-impeachment-house-election-recess.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-09-16T15:12:33-04:00",
+      "summary": "The House won't take a vote on impeaching Defense Secretary Pete Hegseth after House leaders decided to leave Washington a day earlier than planned.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Capital One Financial Corporation (COF) Presents at Barclays 24th Annual Global Financial Services Conference Transcript",
+      "url": "https://seekingalpha.com/article/4947152-capital-one-financial-corporation-cof-presents-at-barclays-24th-annual-global-financial?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:11:40-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Co-Diagnostics, Inc. (CODX) Shareholder/Analyst Call Transcript",
+      "url": "https://seekingalpha.com/article/4947101-co-diagnostics-inc-codx-shareholder-analyst-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:11:37-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Goldman Sachs BDC Is Getting Closer To A Buy",
+      "url": "https://seekingalpha.com/article/4947174-goldman-sachs-bdc-is-getting-closer-to-buy?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:11:04-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "As Fed rolls out its first interest-rate hike in 3 years, officials are divided on what to do next",
+      "url": "https://www.marketwatch.com/story/warshs-fed-rolls-out-first-interest-rate-hike-in-3-years-with-one-more-increase-expected-cde3060d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-09-16T15:10:00-04:00",
+      "summary": "The Fed’s policy-making committee was unanimous in its decision to hike, but forward guidance was split.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "VIEW Stocks pull back after Fed raises rates, points to another hike this year",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPcHE5d2RsZk5YWi1pLWw0M0tWX0pGZl81OEcwZVJtUlJsbTVoUnpQWUxJYjZGSjhvMmlDd0JrcVVFQjJ0aFRJRkh1cTFteld2Y0lSeXhyMFllMU5vSGthbExhbzc5MVNSRTFHOS1JWVcwZ09jSllmTDJoeHBEUEFJanI2aEZqQm1PbXZJZHpwRHpRU2FoMG9EMmVoVmxiZ0h1YV8xTk12QjRMVm1LQ1Zfcm1qUGhUWkFH?oc=5",
+      "source": "Reuters",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-09-16T15:05:51-04:00",
+      "summary": "VIEW Stocks pull back after Fed raises rates, points to another hike this year Reuters 10-year Treasury yield falls as traders bet Fed rate increase can tamp down inflation CNBC Stocks pull back after Fed raises rates, points to another hike this year Yahoo Finance Treasuries Hol",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "10-year Treasury yield climbs back to 5% after Fed hikes rates, Warsh highlights inflation risks",
+      "url": "https://www.cnbc.com/2026/09/16/treasury-yield-bond-market-fed-decision.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-09-16T15:04:52-04:00",
+      "summary": "The 10-year Treasury note yield traded near the key 5% mark after a Federal Reserve rate increase and comments from Chairman Kevin Warsh highlighting persistent inflation risks.",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Federal Reserve raises interest rates for the first time since 2023",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9aQTI5TnA0bk5pNlk0b0E3NkpjR1Jfd1BFa1FwZ1ZhY01FS1NfMFBHVnBySWdFY1FBN1RibF9hZk1tU180bU1EdTFQS3JuNHotRE5TNjk1REFsdG5iY2hqeXpmeEJNMVNFWnQ5aF9fSQ?oc=5",
+      "source": "CBS News",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T15:03:40-04:00",
+      "summary": "Federal Reserve raises interest rates for the first time since 2023 CBS News",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Birkenstock: A Growth Stock With Carefully Curated Growth Strategy",
+      "url": "https://seekingalpha.com/article/4947173-birkenstock-a-growth-stock-with-carefully-curated-growth-strategy?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:03:30-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Ascendis Pharma: Back To Full Independence",
+      "url": "https://seekingalpha.com/article/4947172-ascendis-pharma-back-to-full-independence?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:02:26-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Federal Reserve Chairman Warsh: Inflation is the problem",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPLTZ0eDI5em0zQWRZTFBfNEtyaXBvMU1NRTlFYXM0eWxyYWp1WTRnWlRib0Y3YnNEXzFOQ2JUZDlkUmJUN3UzSnptTkFQcWU2VExXZ1A3cVg1ZktBT0hlY3czOXQ0ZGY4UFpWUW40ZnYtMnhQVURSRmZNejFTd2hvU0w3NGNZTjNCQnpxdnBMeTJTWC1HNGc4ZWpLc3dXbGs?oc=5",
+      "source": "CNBC",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T15:02:21-04:00",
+      "summary": "Federal Reserve Chairman Warsh: Inflation is the problem CNBC",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed approves interest rate hike, signals one more to come this year",
+      "url": "https://www.cnbc.com/2026/09/16/fed-rate-decision-september-2026.html",
+      "source": "CNBC Finance",
+      "feed": "CNBC Finance",
+      "category": "Markets",
+      "published": "2026-09-16T15:02:17-04:00",
+      "summary": "The Federal Reserve on Wednesday approved its first interest rate hike since 2023 and indicated another to come.",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Energy Transfer - Keep Adding To Your Position At ATHs",
+      "url": "https://seekingalpha.com/article/4947171-energy-transfer-keep-adding-to-your-position-at-aths?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:02:06-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "The Boeing Company (BA) Presents at Morgan Stanley's 14th Annual Laguna Conference - Slideshow",
+      "url": "https://seekingalpha.com/article/4947198-the-boeing-company-ba-presents-at-morgan-stanleys-14th-annual-laguna-conference-slideshow?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:01:46-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Evolution Petroleum Corporation (EPM) Q4 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4947115-evolution-petroleum-corporation-epm-q4-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:01:39-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Cboe Global Markets, Inc. (CBOE) Presents at Barclays 24th Annual Global Financial Services Conference Transcript",
+      "url": "https://seekingalpha.com/article/4947155-cboe-global-markets-inc-cboe-presents-at-barclays-24th-annual-global-financial-services?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:01:37-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed raises interest rates for first time since 2023, defying Trump as inflation mounts",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaHFvTUxpaHU4XzFTTkx6bkQxb19mNkF3WjVwQ1FMZjVkaXRPMzZmdDFCZVNKU0RJSDNpUWR1TmxFWWkyUWxfUnl1aUs5SGRKYzU1eDgtUzR5cUZsX044M0E0T2VBenRKZUJOTk5Dc2FDbFhtRlpyenBmRk8wVjRERUFCbGpoM214OUE?oc=5",
+      "source": "nbcnews.com",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-09-16T15:00:52-04:00",
+      "summary": "Fed raises interest rates for first time since 2023, defying Trump as inflation mounts nbcnews.com Fed raises interest rates for the first time since 2023 CNN Expert offers debt advice after Federal Reserve raises interest rates WJLA Fed approves interest rate hike, signals one m",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Nuveen Churchill Direct Lending: The Discount Is Real, The Credit Trend Is Too; Hold",
+      "url": "https://seekingalpha.com/article/4947169-nuveen-churchill-direct-lending-the-discount-is-real-the-credit-trend-is-too-hold?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T15:00:51-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed delivers its first hike in 3 years. Plus, what's moving Starbucks and GE Vernova",
+      "url": "https://www.cnbc.com/2026/09/16/fed-delivers-its-first-hike-in-3-years-plus-whats-moving-starbucks-and-ge-vernova.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-09-16T15:00:14-04:00",
+      "summary": "Every weekday, the Investing Club releases the Homestretch; an actionable afternoon update just in time for the last hour of trading.",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "My rental property is paid off, but I need cash. Is this a bad time to take out a $50,000 HELOC?",
+      "url": "https://www.marketwatch.com/story/my-rental-property-is-paid-off-but-i-need-cash-is-this-a-bad-time-to-take-out-a-50-000-heloc-d094bbc5?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-09-16T15:00:00-04:00",
+      "summary": "The Federal Reserve announced a quarter-percentage-point interest-rate hike Wednesday, to a range of 3.75%-4.0%.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Welcome To The Hotel California: Private Credit's Woes Mount",
+      "url": "https://seekingalpha.com/article/4947168-welcome-to-the-hotel-california-private-credits-woes-mount?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T14:59:57-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Wall Street gyrates after Fed hikes interest rate to battle inflation",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOSUtqeWNnZEJZT0IyaHpTajZTM3hWV0gwZUV1VkhQV21PUzJBQ0kzLWhxTk5iWUtNbTI1eUVWQnN1b2Y4T2RQSnhmc1pDcVVWYldOc19HSzRId2pZMHZFWHZrNHhnMVh3VGd4RkRSdDJGZ2ZJSzd6TWhiWWtUd1lWRkxzcklsRmJhOS1TcEZYMkRTQjhmakMyVDFtQQ?oc=5",
+      "source": "Reuters",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-09-16T14:57:44-04:00",
+      "summary": "Wall Street gyrates after Fed hikes interest rate to battle inflation Reuters The Dow falls 400 points after the Fed raises interest rates Yahoo Finance Dow Drops 700 Points After Warsh Signals Inflation Is Still Too Hot WSJ Wall Street holds steady ahead of the Fed’s decision as",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Google is playing a different AI game than everyone else, and Wall Street may be missing the point",
+      "url": "https://www.marketwatch.com/story/google-is-playing-a-different-ai-game-than-everyone-else-and-wall-street-may-be-missing-the-point-e91077a3?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-09-16T14:57:00-04:00",
+      "summary": "Investors have been fixated on the relative performance of Alphabet’s AI models when they should instead be cheering the company’s cloud potential, an analyst says.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Warsh says Fed focus to stay on inflation, underlying trends have not meaningfully improved",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQnZqZmg5bzlfNGdUblU1QV9OQVRrTjF5REhGWmJTZk10QVhKdjlBcXNOZGhmYnhfV3BhN1RJeHd3dGNHY3JhLXR1NFA1aUo3dzlHejJBbkFjSjlKOVFWSXAycUs4M3F6dUpZc0ZJYnFfazhyOHo4dVpncVdhZ3Q3SU4zMWp2dmVCN3k1S2pHNWJseVJrWk83OG1BTnZDa3F4ZWUxeWFYWUpLX2RoWHV3cDkxR2RvaTNZWEE2MA?oc=5",
+      "source": "Reuters",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T14:55:50-04:00",
+      "summary": "Warsh says Fed focus to stay on inflation, underlying trends have not meaningfully improved Reuters",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Madison Air Solutions Corporation (MAIR) Presents at Morgan Stanley's 14th Annual Laguna Conference Transcript",
+      "url": "https://seekingalpha.com/article/4947191-madison-air-solutions-corporation-mair-presents-at-morgan-stanleys-14th-annual-laguna?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-09-16T14:51:37-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed hikes rates in search of 'timelier' drop in inflation, sees more tightening ahead",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPd0VZMTZPMGRVWVVTY0lVRERxMHhQdlNnb2NBOHROMDJETXBLVmJFTW12SmFybUloWGRfYm1ueDhEZHJuOWNPQXh3RHpDVllhRVpSUVFVeDJmMGFNNTM2RTRqMkVFaXdwTmM1eG1UeVhqLXNuYW5LMjZGYUFCYUV0djFqUTUxRkF2Vk9NeTh5VU44bENZYi1kaTBnS1NuVngtX1dIeEVtaw?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-09-16T14:49:52-04:00",
+      "summary": "Fed hikes rates in search of 'timelier' drop in inflation, sees more tightening ahead Reuters",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "With Inflation ‘Elevated,’ Federal Reserve Hikes Interest Rates",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYVlKMVN0MWZPcTEzMHZpSjQ2TmtjOENtWkZqRjIzdlMxN2Nqc3AtQTNQdnpjRkIxSVlFTjNZaXJNXzBKMFBneVVDWHVXNFpyYlAxX0Rlb1NhSE1QbTVtbDFUM3Y1YzRlX3RZMTVXVEtoUnNwMXJSbkdJb2J6ay00OHk4UHFmbzBrX0szekFZZlZpQlQyMU52amt0dlg?oc=5",
+      "source": "Morningstar",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T14:45:00-04:00",
+      "summary": "With Inflation ‘Elevated,’ Federal Reserve Hikes Interest Rates Morningstar",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "US firm Heeney Capital to operate Venezuela gold mine, Continental seeks to enter oil project",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQX0Q2S2JRT3llcENjREtGM2t4eDlYa0VxdUEwT0Z0TTlSUjdadWdSZnNEUlRYWGI3M3hOZ0xXYU9xZEZqVjV1VFo1amtXVVZnejhnazk0TXpyUlY3QTlaeGFSRmd1Z0dXOVBsc2I2SV85aW9oejlMWjA1OFF5Vk1sbGRLRV92TlVLV3NuaGhWanVlbVBMQTdQUXNGd0RBWU5zRG9tV2RUMlpzb2ZZSG1idWl2ZHlCclVyVTdtYQ?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-09-16T14:42:24-04:00",
+      "summary": "US firm Heeney Capital to operate Venezuela gold mine, Continental seeks to enter oil project Reuters",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "The smartest money moves to make now that interest rates are going higher",
+      "url": "https://www.marketwatch.com/story/the-smartest-money-moves-to-make-with-interest-rates-expected-to-go-higher-aefe375b?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-09-16T14:38:00-04:00",
+      "summary": "The Fed’s quarter-point interest-rate hike will ‘bite’ consumers. Here’s how to prep your money.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed hikes rates and signals more to come this year, defying Trump",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQy1xRGlNem1wNEdrOGJlaUxjNGcwUUVlZWxvd0wwMjFYdl9peDBEZ1dLT01fanpyOGpiTGZJYTVXMjRYbmoweW9qNEhPTWZWMXV3SGFIUVJjLXptZnhoR0ljRkNONVVybUtwRVJENGI1MTIzTnh0S1dNUlVKVGNvZjFvZWhZTzc4?oc=5",
+      "source": "Politico",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T14:36:00-04:00",
+      "summary": "Fed hikes rates and signals more to come this year, defying Trump Politico",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "US Fed raises interest rates as inflation weighs on economy",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMkVyU1l1M3VEcEg2TUZuemNacHp6X2hGbjdwYXlGV1FZdzhEbGtjdzlkd3BUS1RzUkVjNkZ1d3lMRl9TTUlMdFhuQlg5cnZKT1FCT2FyMXNzSzRsRzFtMVZIU1o1YURKTzRKUHdlOUxJdWdrRDYwS0JFTFd4WEhMRlpWRl9oWXRKUEJCVVdJM2xJemZCbEJ3eEw0WWExelctR2NLTXJR0gGrAUFVX3lxTE9pUXRTYm84MEp3U2xNby01Zm54cTNhSVNoaDRCRUdPNlNuN1B4NDFDV3FGcDU4M185c01LdnczeG43UFFHRUdSNndFS0k1NHlISW84MUJmSUV3R05mWnJDWC1iV2piUjB1dFZnNURjMi1nNUtLU1p1VjNsWkVFNHZsaktNd3pZMUdhWERQRlVmQjBHUVFDREluUkdPM2ZuTmlzWlh4M3NoTG51Yw?oc=5",
+      "source": "Al Jazeera",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T14:35:02-04:00",
+      "summary": "US Fed raises interest rates as inflation weighs on economy Al Jazeera",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "What the Fed's first rate hike in three years means for consumers",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPbWI3ZTRWM2dlZjJucm5GaGZaWjV2dVZhTjY4Yy1wbWJyb3k1RjNWNjZlbURuaEdKbThyakdOLVpCaDlEaFNnNFB2TnNxcmo0ZS1UTElMNi1NWXgzS0VDWTZPSkZnZV9xMUkxVXA1bnR2WmVYRkRvYnlQc0JIdkluV2dRdkZDS0c2M1hyUTVtODRQUmZnbzctOW4yTzFMMDNhWE9WRHJZQU9CMzhtUlFsa09FeEEyY2NKQ2ZWVml3?oc=5",
+      "source": "Detroit Free Press",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T14:33:00-04:00",
+      "summary": "What the Fed's first rate hike in three years means for consumers Detroit Free Press",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Ways and Means approves crypto tax bill on bipartisan vote",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPQ2p5NzU0MG5DdUhsaFNyUXNCZ2lmeWlBbjdNalpGWkNrU0o1clJxMUdpNUhZamt0TWhTSWJRb2pBRk9mZGxZb3A3M1R4NXptWVFSTXdDNEloczJCQ21JcElISTFWVUhaS0R6cjAtNml3WmxhTV9CUGk2NGZ4azBvMjJjTHBQUUZvLW1Hb1ZPT1RjME9XN19fS2lQQThjS1lNUHkyS1hlMlkwUQ?oc=5",
+      "source": "Politico",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-09-16T14:31:54-04:00",
+      "summary": "Ways and Means approves crypto tax bill on bipartisan vote Politico U.S. House's tax committee advances crypto tax bill in wake of Clarity Act loss CoinDesk Retirement, crypto bills face a tight timeline. Will they reach the finish line? Pensions & Investments What’s new in the H",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Trump oil ally Harold Hamm to invest in Venezuela",
+      "url": "https://www.ft.com/content/7be92efe-13d6-4d02-9f77-0e8229b3b8fa?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "feed": "Financial Times",
+      "category": "Markets",
+      "published": "2026-09-16T14:31:15-04:00",
+      "summary": "Move by Continental Resources marks latest foray by a western oil producer into the country after US military seized president Nicolás Maduro",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "US Federal Reserve raises interest rates for the first time since 2023",
+      "url": "https://www.theguardian.com/business/2026/sep/16/us-federal-reserve-votes-hike-rates",
+      "source": "Guardian Business",
+      "feed": "Guardian Business",
+      "category": "Economy",
+      "published": "2026-09-16T14:28:29-04:00",
+      "summary": "Fed committee votes unanimously to raise interest rate by a quarter-percentage point to a range of 3.75% to 4% Federal Reserve raises interest rates – live The US Federal Reserve voted to raise interest rates on Wednesday for the first time since 2023 as the central bank continue",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Federal Reserve raises interest rates for the 1st time since 2023 - ABC News",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOYktxZlJxRVNrdUZFRWViQjVMLUh3OGJwNGhrVFpJY2E5QTAyajNfcnFSb09rZUVkSnVMUHd4WkpsYktvZGczX05nRzVhSTdKNWtfU2hWb09IYnNQQ01tTlMwMV95YzJkbWVDMklwZ19XMC1RNmVsckpGS3FpNUpiRlUxZkVtNXk5NE5YRnpBSTI4eEhVOWxaUlBzZDlxb3p1ZVBFeHFR0gGrAUFVX3lxTFBrZzU3UXhjRlBBblFYNzJZZ3dINVFwMnpIOFQwRlJ1NmRTa3JNUGlkamJyS08wRjM5UlFuMkRJcHAtUEQxYjF3b2Yyc2E2V1hOOEhQRHRPckpidllEOHpLRG9VUTFxSUwyaE95SzNNZ0pkemQwQkNBYkZPbTBpN0ZMYTBWU25nT3FrUVNNal9Eb0lCNnJwZTVFUVVhM0dDRlMzQ1pQTF8xRTV6bw?oc=5",
+      "source": "ABC News - Breaking News, Latest News and Videos",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T14:28:22-04:00",
+      "summary": "Federal Reserve raises interest rates for the 1st time since 2023 ABC News - Breaking News, Latest News and Videos",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Micron’s stock could climb 70% higher thanks to a factor that’s been largely absent so far",
+      "url": "https://www.marketwatch.com/story/microns-stock-could-climb-70-higher-thanks-to-a-factor-thats-been-largely-absent-so-far-2489f2cc?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-09-16T14:26:00-04:00",
+      "summary": "Shares of Micron trade at a stubbornly low valuation but a TD Cowen analyst thinks that could change.",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "The Federal Reserve defies Trump with a unanimous rate hike six weeks before the midterms",
+      "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYW9UREx0VnF4c3NCWXVmdnNkR1BvUXBIb3YxeE50LTd5SzhuUW1zMHBmN3hNS1oxOU40dG1CSUFhTDl6M3gzLUx6dGpWZEtfQlVHeEI0WGliSXBjeGxRb0dSYnlZYjNNV3lFOExicVlKMS12eHh0SDFKeVhNSHV5SGZ1M21pd0VSWG9PS0VFZE10dkNjNjkzZDVDNmg1dWp5U2VfT2JJY0RWSV8yZEM4Tm8tbUNTRnhWZXNpUFdGZ1RxQmE3dGYw0gHbAUFVX3lxTE93dTMtQkRRSU9YTmtYWlFiNTZTZlRVR09TblR1a3ZSU29BY2M1cFh6emFGZlFxSWRPbEd3UXBJZHE4V1p4RjFwUDVLZTZ3ZEdLT29RUjA5eElZVjR3VEJ0WW1YOGs4UzJwdXJQTi1qR0dVT294Yml2VUZReC1WWjdYdW5OalZxejdKYTlFVENkelRCaElkdzNhNlZyd2xRVmVSRWJEVTA4TWwwRVdOZ0FKMGJnVDlvVUwwbXI0WFFLeHktM3d5bDIzVXJQWVBnbDFSSVBIWFJPcGxJZw?oc=5",
+      "source": "EL PAÍS English",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T14:23:41-04:00",
+      "summary": "The Federal Reserve defies Trump with a unanimous rate hike six weeks before the midterms EL PAÍS English",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Soaring bond yields, gaping deficits and towering debts: what could go wrong?",
+      "url": "https://www.economist.com/finance-and-economics/2026/09/16/soaring-bond-yields-gaping-deficits-and-towering-debts-what-could-go-wrong",
+      "source": "The Economist",
+      "feed": "The Economist",
+      "category": "Economy",
+      "published": "2026-09-16T14:22:11-04:00",
+      "summary": "The rich world is flirting with fiscal disaster",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.8,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed raises interest rates by a quarter point in unanimous decision, marking first hike in 3 years",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOQ3FVMXEyMVlGaGRSWXd6T3Q0OUVIU05RNWtRYlNzcFl3WnBfOXpQMEhoa25qejlGYWVjNkZTZlhCejFGR1JwWUVzUUgtcnZtYmNhd05ZZG9sTkRBMjkwTUdXZnlidGFKU3ZaWnVBZHlfTzF1bFVPX0VtNDFvOXl4UmNDa0lBbzUwLVVHeElJelhuSHJoaTlsbFNFZkZxZDg0dGFCblFJdk54Uk9xM3hFV3ZkbzhKR0lOMUNJZnZYWXlfYU1vUHV2ejlpajNEcUowNVh1eTlLUmxOamVVZGY3cHFzNjBEeWFHbDNobV9MS1V2UQ?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T14:21:11-04:00",
+      "summary": "Fed raises interest rates by a quarter point in unanimous decision, marking first hike in 3 years Yahoo Finance",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Intel’s stock rises as investors hope memory chips can mark the next step in its turnaround",
+      "url": "https://www.marketwatch.com/story/intels-stock-rises-as-investors-hope-memory-chips-can-mark-the-next-step-in-its-turnaround-a276608f?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-09-16T14:20:00-04:00",
+      "summary": "A report says Intel is in early talks with SK Hynix, which is considering some sort of partnership that would enable it to make memory chips in the U.S.",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Watch live: Warsh speaks after Fed hikes interest rates",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQendNTXc4X0d6ODhRLThDUjhKMEd3VjAwY1d4dGFDNVVIdndwaEpjM3ljMl8zT1FNUXlZM2lOSWtpQmN5UzNaZkFoSm0xbXVOZjJxU3kwRnpDb1ljREVPMzktb1B5OWhVM0czNzI2OUhvRS1RU3h4WEtmSnZiVXZtMXk2ejBjRThfc2hxVU4tTDByRVA0TV9rTGNn?oc=5",
+      "source": "The Hill",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T14:20:00-04:00",
+      "summary": "Watch live: Warsh speaks after Fed hikes interest rates The Hill",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Here is what changed in the new Fed statement under Warsh",
+      "url": "https://www.cnbc.com/2026/09/16/september-fed-statement-redline.html",
+      "source": "CNBC Finance",
+      "feed": "CNBC Finance",
+      "category": "Markets",
+      "published": "2026-09-16T14:18:54-04:00",
+      "summary": "This is a comparison of Wednesday's Federal Open Market Committee statement with the one issued after the Fed's previous policymaking meeting in July.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Sen. Blumenthal urges AI oversight: 'We're on the verge of losing control'",
+      "url": "https://www.cnbc.com/2026/09/16/blumenthal-ai-regulation-safety-oversight.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-09-16T14:18:09-04:00",
+      "summary": "The Trump administration argues that beating China in the race to AI dominance is an all-important goal.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "US Fed raises interest rates for first time in 3 years, risking Trump’s ire",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQdzl2Y08xNlhTM1RINzh2UXJWejJ2c3ZUajZGQ2JFdGliSWlMbE1VSF9FemRkS0FVRjRFbUF0c3FrWmZYV3lwM2xUM3dlS09IUEE1N1BGMHkwaE1FejQtb18xOTExMHJOX3VjZllsRGpiVGZnSklLcUg4MnN2amVCdk9RNVktbi03LVpINVVucW1RNEtnb2VMUkpCalhfckJTUmFFa2NGRlRpMWwxZzd6TDdxVEtmWHgwVmpMZ2JTaDNyUUdlMGVzRURQMUFnM1NNRjJQUENpS0xfZlcwZEwwY9IB4AFBVV95cUxNUHFjbkFuZjJuQjR0R1BhRnNlZEtzdVRRWWhpN3k0ZlRxVk9mRE91VzVha1R1QndMWjZkbnF5UEVZLS01VGk2LWZiaGdEeDB1TnAwWHJYUjM1SXN4VG5uTHFqU0dVOHRURkQtX3FiWEpXWXRwM1ZpbWZvT2wzeDFsREUxX002STNGTDdFbVNPd05fM010SU9NUWpEWHBnb1hhb3pfMWRZZVpuOFB6SzJ5eXJjU08wb2I0bk1DVlJ5T094d1JMMjlUSVJzc2M1azk5eDhXZktJM0dOVFRDNGJvMw?oc=5",
+      "source": "South China Morning Post",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T14:15:10-04:00",
+      "summary": "US Fed raises interest rates for first time in 3 years, risking Trump’s ire South China Morning Post",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "The Fed is raising interest rates for the first time since 2023 as inflation persists",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1va0hrVS1NLUVFZG9TN0hDX0FOdWhMT01vWkJkc1M2NURCM1NaZWdiYVVvX2FiaHA0SEw2endRV0M1aTNzN1FTckpWTkdNVTJsbmZhcng3RE4waHFDYk1uWlAwVTNHMlhwMFhza25FNk9Fdmxv?oc=5",
+      "source": "qz.com",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T14:11:43-04:00",
+      "summary": "The Fed is raising interest rates for the first time since 2023 as inflation persists qz.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed Raises Interest Rates For First Time In Three Years As Inflation Stays High—Clashing With Trump",
+      "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQS0pqZXhJVnhBM1RtUy1malVmaVl4T2xnQ3NGNk9kemtrNTVQc1pjTTVXRE82QTBlMUlzSGdVQVh0QXQ1S2JQNTNkS0tZS0pzMGJqTExYRWxEZE5lalFzMnhZM0V5Q1Buam9HZGVjSkc0TWgtVlRfNkFBdTRZVXNsYkZ4MjdGYm9mcHdBNEdGVy1MLUxPVTA5SzJ3Yk9qeXliWG5ETFJBV2pTcjA5TU1nMmFhbkp0SmxJdl8xUWNzNE91aHJiLUpBeEF6ZE5SdHRNU1MxWldsSkpVcXFZTm5zOTJYWDVKUQ?oc=5",
+      "source": "Forbes",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T14:09:58-04:00",
+      "summary": "Fed Raises Interest Rates For First Time In Three Years As Inflation Stays High—Clashing With Trump Forbes",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed raises interest rates for first time in 3 years amid persistent inflation",
+      "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOQlNKVmxKVlF4eVlBSmpBYVpMN0REVWg0LWJzYTRYdnhIdkV0NzRqcnJfNG4tT1pNZ0hlUk1maVBsaDZqei1HZWFOT1JyS0JFTGU1Tm1oSmNVZzNYbTVkNUJpNGI2YXFjZ2R1WXNwNTVwNEJHMGN2Zmdsak92OTNrQkJFZ3kxeTFpclNBUHZjRzJ4Vmd6elhLeUVxOXM5emxxZlVXSE5ZaTZEMmNzTU5vWkF1ZTVWcEZGVndTb3o0VEk1ZkR1ZlFOQ1hFY2hVNWRwLUw0RUtGdHRlR2410gHkAUFVX3lxTE1EMHdhTjUxeWUxdHZaRVhxa0lXcjNjaW1MbTM1TGdERlZLeW1NZVAyaU0wZE5MT0VzQ21Rb1MzRmQxdFhOdU9UV3FhWS1MSmhkSHNvZFBpY0V1LWMxLW0tdWd0R0NxS3paejdLMEdhZ1ZYbFZWRW9adGxjTnViNFNaN1F6MGE4dG5xak9UMFJMbzhzNWtfbGNUNEpyVUplMmo5aHp4alN2YTZuVUIxTHFjbmh0aUtHTkUxS0hDNk9Tdnh5ZS1LZV9WNjZ2MHdPOXZzeUVVaGtiRS1ETHM2RlVVZGNSXw?oc=5",
+      "source": "NBC Los Angeles",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T14:06:32-04:00",
+      "summary": "Fed raises interest rates for first time in 3 years amid persistent inflation NBC Los Angeles",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Federal Reserve raises interest rates to curb inflation despite pressure from Trump",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPUlR1TGpXZ3BBaWcwcFhwRDVfVEk3cmRUNGF2akZ2RVlaQm1wd2NlTjFQZjNrTnNyZ1IzTWpvdjQ3cno3Y3lWUUJ2LXJJR29YSTRUNmJhcWFWcUpNS0RSNGJPdm9wT1FpOVJBeFFvSDMyS01neFJJaDUtMnZFMVpKcGVuaVNYQ3h4bTNlRzJBc3M4NV8yNGdhSDA5Z3YxOTN1enRTaEliWkJJR0IzMHRzWkIwUDc2QUtIVDFWSVFXVVVHRG1iZFJ3dFlFSQ?oc=5",
+      "source": "ms.now",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T14:05:59-04:00",
+      "summary": "Federal Reserve raises interest rates to curb inflation despite pressure from Trump ms.now",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed hikes interest rates for first time in three years in unanimous decision",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNZ3BQeHVKV2NMcVROVE90NU9qS3pDMDcwdW9nRVhHS25hN2dLdGUwZ2tDN2wyS045SWxDZmlmNVV3ZXpSQWJXSXVQems5QjBRcGNCVVlvZ1JrUHJ2LXZNcDkxallsX3c0VGY3QjNRRTRzd0l1RmFXYWJ2cVBnM3VkM3l2NXk2aldybGJyeXZVNlZ1clE4dXdicnN3RDBsZmNvdzJjMTFzWldVdS16SGtnWHFtVWFNOHJmb0tvbVd6NEZBRU1kN18yMURUM3l3Y0FCR1lLUTR5Zw?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T14:04:08-04:00",
+      "summary": "Fed hikes interest rates for first time in three years in unanimous decision Yahoo Finance",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed raises rates for first time since 2023 in unanimous decision",
+      "url": "https://www.ft.com/content/61b5fbae-9dd6-4980-bd1f-effe54b72d84",
+      "source": "Financial Times",
+      "feed": "Financial Times",
+      "category": "Markets",
+      "published": "2026-09-16T14:01:54-04:00",
+      "summary": "Central bank chair Kevin Warsh defies calls from Donald Trump to lower borrowing costs",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed hikes interest rates by quarter point",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE10WjRJZFk4cWQyZWF6YjdVVlZ3SEZXdUExTGczbHFBcTUwR1Ffa1B3TjJ3c0NNTlVsOWlaRXlkb25VMHpOeVVaU0lvRWhvVmdvT3F3cDRFNTIwcnNvV3JVN3hycmFhT1BKVmtDbmhmZ3bSAXZBVV95cUxPZk04U2xfdlBMdnl6b1h3a1otVVc4aVJIUEZ3bDZ0NnZ4TnlEcEphdE1vU05tZVhLc1QtNFFDMVBRMjdDSGNOTlVqdDUzc3ZxazRIcU9RUDZ6M0p5cWplZUNoWGxUWTFSMGpKd3dGWDlpd3J2aTNR?oc=5",
+      "source": "The Hill",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T14:01:00-04:00",
+      "summary": "Fed hikes interest rates by quarter point The Hill",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed Raises Rates as Warsh Bucks Trump to Contain Inflation",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUHRZYmthcDR5cVV4Y05OSmpLM3dvWHNmdm0xQm9feWhlV2pRc1hLYjhvZGJVcnoxc01SNksxUl9uVWMyZHBxV05wM3NoM3oxaTVCZG4zWUZOM3k5bEJoYWVyTGpMNmZQQ25SRzdQZXZob3VOSGRVUDJWcGotZmllNW5SRkg5d1hKN0ZHWGtuOTEwR3RZNktEU1I0S3J5XzZMaGxKZklXWkMzTjFWMUE?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T14:00:01-04:00",
+      "summary": "Fed Raises Rates as Warsh Bucks Trump to Contain Inflation Bloomberg.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+      "url": "https://www.federalreserve.gov/newsevents/pressreleases/monetary20260916b.htm",
+      "source": "Federal Reserve",
+      "feed": "Federal Reserve",
+      "category": "Policy",
+      "published": "2026-09-16T14:00:00-04:00",
+      "summary": "Federal Reserve Board and Federal Open Market Committee release economic projections from the September 15-16 FOMC meeting",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Trump Ally Harold Hamm Strikes Venezuela Oil Deal",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZWw2VjVZbm0zOFJHWmx2Q1ZpRFdVczFCbGItX2N3anlEVVlyWW9FSzZhLWxBejQ2dUxsREhwUkZFU09hc3d6bWd1dWlWZTlFYWptMHFFRkRQVGlqeVppRnpjT1AzcE5FQXBMWThGaFZLVG1pcEd2SkdySWh3WUN5T2lpaG03bDJvd1BWdEZSTGMtTFhLYTBLRUdTeWdEdWhQ?oc=5",
+      "source": "nytimes.com",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-09-16T13:53:30-04:00",
+      "summary": "Trump Ally Harold Hamm Strikes Venezuela Oil Deal nytimes.com Continental Resources to develop massive oil patch in Venezuela CNBC US firm Heeney Capital to operate Venezuela gold mine, Continental seeks to enter oil project Reuters Continental Resources Signs Memorandum of Under",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.1,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Federal Reserve hikes interest rates for first time since 2023 amid stubborn inflation",
+      "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTkNGQWZwRUllRWhwM29vZGhCd0Z1TjVzSGtnUXZibzlBNnNNX0hobXRaempWb1k1bndFR0xaTk5yTllrRWFWQk00b3NDYVhQTDI2bUZWQW0xV3lCeUNuOFhEaVVQdnJGc3ZCQUY3MzN3ZWpqb3A1ZG1HT2dMNGdieEw0R0ZsZ2pYTlJMOVdMeVhkVFFWQ2o40gGcAUFVX3lxTE5zT2pObGszWGx6dXo3VjdyQnlDN0U2N1ROcFp1NW81amlLVGJ2b3Nmb19Ca2RxcVpISHdhdTdfdXppX1JJV2RUTEwyYm9MdDRucDdMNEY5Y1M5d1IweWZSbUVseGYydldTNm91OWVVdDFvT1BJQUVXa0lpLTY4OUwtVTUwUHZBWlNQaDN2VW9kSzFmSGQ1bWtzT001bA?oc=5",
+      "source": "foxbusiness.com",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T13:45:59-04:00",
+      "summary": "Federal Reserve hikes interest rates for first time since 2023 amid stubborn inflation foxbusiness.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Bank of Canada saw inflation staying high in the near term, say minutes",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeVR0WVVMQlVfNE4zYnUxUXI3VVZlQ3lDeWVlTmphU0ZfMVpFam9EVy1pQ0R2akdFUEFfSi1wdFFOODhGa1JjeWh6TktlUVY1dWd6VWVtcU50aFRaQWkzY1hkUnBNMDlQSGEyYVVqUjVQaHR0NWpQSlhwM1NkTHc1Nm95WVF1c1pqSnlzNmdBdTE3V0ZFVGlLWllQZ1BjN3JXMzZBbGhkdHU?oc=5",
+      "source": "Reuters",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T13:44:02-04:00",
+      "summary": "Bank of Canada saw inflation staying high in the near term, say minutes Reuters",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Amazon raises starting pay to $20 an hour and adds Whole Foods discount",
+      "url": "https://www.theguardian.com/technology/2026/sep/16/amazon-minimum-wage-whole-foods-benefit",
+      "source": "Guardian Business",
+      "feed": "Guardian Business",
+      "category": "Economy",
+      "published": "2026-09-16T13:43:05-04:00",
+      "summary": "Wage increase brings Amazon’s US minimum pay in line with Costco and includes new grocery discount benefit Amazon has raised its minimum wage in the US to $20 an hour, with average pay at the company reaching $24 an hour, according to the company. The pay increase represents a $1",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.4,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Scoop: U.S. open to discuss AI \"shared risks\" with China, Bessent says",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1xQkVJVkt5SGpqeEhFZVBXSThYWXotdm1VaFFaVDRSU3pUdXBERENEMF9DOGl1Umc4SjNscW40SEFmTEZ1WGlsdWM1X3VORFB4SnU4TmtRdXk0Rm0tQWxRVC1PeTc0a1BLN0F5YjVRMjRJQjVCR3VreWNB?oc=5",
+      "source": "Axios",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-09-16T13:42:26-04:00",
+      "summary": "Scoop: U.S. open to discuss AI \"shared risks\" with China, Bessent says Axios Don’t Give AI Companies What They Want, U.S. Treasury Secretary Tells Lawmakers Gizmodo Bessent says US needs more open-source AI models to compete with China foxbusiness.com Treasury’s Scott Bessent say",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "‘Inflation is too high and has been for too long,’ says Kevin Warsh as Fed announces rate hikes – live",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMkxteTZfMGZVdVJFeng1LUU2Zno2Q1A1a1RmMWMyamE2ekZRM3ZqRlBNSnVqZG9MMjVoSllTOGhvUGkxLWttVTB4NzVDS0RKY0hNY3o4LVhaOU9CTXZwX3ZabEV5NEE5V3gtbWtqaHdxQVNWU0FYSHExNjNSRDdENVV0MzY5ZTRpbC1penBOcTJhbTQxZVp2eWY5cFJIVXNfWGd3S0xCaGg?oc=5",
+      "source": "theguardian.com",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-09-16T13:37:00-04:00",
+      "summary": "‘Inflation is too high and has been for too long,’ says Kevin Warsh as Fed announces rate hikes – live theguardian.com Dow falls 700 points as losses accelerate after the Fed hikes rates, Warsh highlights inflation risk: Live updates CNBC WATCH: Warsh says 'inflation is too high'",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Federal Reserve Chair Warsh Holds News Conference on Interest Rates - C-SPAN",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNYklTYm91SU1CREwzYUtqSFN5MG15M0lvUnpVY3NfcmF3R3gzb25zVHVQSU1LbF9tdFlHWllhN2FqV0dNdW02aVJGUG9yV2FGTnk3dVZkRTVIRjVxMnNiV19OaVJwSkw3eU1Qb2hzV3djZ0xOa1NBeU13X0hoQjJvMjRLQ3ZrZzBDeHNQYl9wc1BtS18zeG90T0hPYlFGbkNTYmlmcGNuczQ3dFA3R2pNSV9uajdBbXZ1RUk0?oc=5",
+      "source": "C-SPAN",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T13:30:51-04:00",
+      "summary": "Federal Reserve Chair Warsh Holds News Conference on Interest Rates C-SPAN",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "The data-center backlash is so fierce that Republican candidates are willing to cross Trump",
+      "url": "https://www.marketwatch.com/story/the-data-center-backlash-is-so-fierce-that-republican-candidates-are-willing-to-cross-trump-9a6eaa03?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-09-16T13:30:00-04:00",
+      "summary": "President Trump has been a vocal supporter of data centers, but GOP candidates in tight midterm races are increasingly taking a different tack.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Lagging sector looks poised for a rebound. Here's how Mike Khouw is trading it",
+      "url": "https://www.cnbc.com/2026/09/16/lagging-sector-looks-poised-for-a-rebound-heres-how-mike-khouw-is-trading-it.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-09-16T13:21:49-04:00",
+      "summary": "Quietly, the communications sector has started to claw back some of the year's underperformance.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.1,
+        "relevant": false,
+        "v": 2
+      }
+    },
     {
       "title": "Continental Resources to develop massive oil patch in Venezuela",
       "url": "https://www.cnbc.com/2026/09/16/continental-resources-to-develop-massive-oil-patch-in-venezuela-.html",
@@ -122,6 +1562,21 @@
       }
     },
     {
+      "title": "EXCLUSIVE: National Fuel Gas explores options for $5 billion natural gas production business, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTjMyaVNZRHNmaGhXYV92cHBwZGFMX2g2bXNUMHFPbTdSUTZNVGl5VHVIV2lUWU12UDRDYnVIc0lYN3RSeGV0Vlh2ZEJEMmt5dHkxSEtROGZjRW11RnNYZ1BFaDN3OTdUMEZGcUs3ZlFXV0hwZFlZN1FXWmd2NDBfZnk3czU2NURfdGVGVk55bExndjYyeS10dUpPWXlGaFppeVVwbkFDcHBQT2RiLVJfcWhtaldFZ2FRS1hUNkZPUHd2b0VCZGxGYQ?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-09-16T13:08:15-04:00",
+      "summary": "EXCLUSIVE: National Fuel Gas explores options for $5 billion natural gas production business, sources say Reuters",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "After Talking the Talk on Inflation, Fed’s Warsh May Be Made to Walk",
       "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWmVpaXFKdm1mdkQySmR3OFFOQlg1NjkxZnBKQm9nWnpKck5EM1BaQUpfWjJLUm1oN3UtQmQwNnZGelpJMWNTNjZUaXRMbTBSSGJfRHA0MnV1c3RjUERGRDNSYzkzV1UzQ1AxSWZCN1JTUzJZT2ZlVnV4ZzJjSV9MMnhEdkJwNlVjZ1BDY2lqdEdsaWNHdEtxV2RDSElFYl9Wdnl2ZFBLb044T0tOVFVXbEN6dnpTX1pYT3d4a3pR?oc=5",
       "source": "Bloomberg.com",
@@ -189,6 +1644,21 @@
       "category": "Markets",
       "published": "2026-09-16T13:04:44-04:00",
       "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Novo Nordisk Will Use Anthropic’s Claude for Drug Research",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNNDByMU5QYk8zV1dFZ183Rmlocm9QS0dURE9HdXhiRjFwYXJuOXlZTnhXNjh1aWMwQzJoX3BFNk9GcllUZ01pUy1FYzJTMzNPVGRIdGZzV0RRa0FKakxXV3lBdnRVUEhnOE11YUpxdHJJcFByUEcxZ25EYVB3MlZkcnB0X1Q1b1JGWEJGNkloa3NnMHFtN05JZmJIUlhQSDh5YkRIVjRaM24?oc=5",
+      "source": "WSJ",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-09-16T13:03:31-04:00",
+      "summary": "Novo Nordisk Will Use Anthropic’s Claude for Drug Research WSJ Ozempic-maker turns to Anthropic to turbocharge medical research politico.eu Novo teams up with Anthropic for R&D (NVO:NYSE) Seeking Alpha Novo Will Work With Anthropic AI to Speed Drug Development Bloomberg.com Criti",
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
@@ -422,6 +1892,21 @@
       }
     },
     {
+      "title": "Anthropic to fold Claude AI features into one interface, launches document tools",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQZy04cUpKZ1lLWHB3Zmp5N19XeEEwdi13bjBZYllISzltVk5HaDdlUnJqOEJFZUlYVjBxNzhZbUc5NDhDeWdISkUzLWw3b25ZZTYxZG4tZUFjLXU5T3F2YlZ2M1QtNDdZcDZ1anZlTVFGZzlmY2dYNGRLelY5TjRTMDU4d1QxaDRYY0JvNXBIZ0FQUWxiMVJzQlc3V0plQTd2M19oWWRVUjV3aXdvOHhXREJ0STBfdW9LZkw1QnV0Mk5MQkhRaldlQ1NsSDJHcTkt?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-09-16T12:43:43-04:00",
+      "summary": "Anthropic to fold Claude AI features into one interface, launches document tools Reuters",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Kier Group plc (KIERF) Q4 2026 Earnings Call Transcript",
       "url": "https://seekingalpha.com/article/4947019-kier-group-plc-kierf-q4-2026-earnings-call-transcript?source=feed_all_articles",
       "source": "Seeking Alpha",
@@ -557,6 +2042,21 @@
       }
     },
     {
+      "title": "The FOMC is Expected to Hike Interest Rates This Week. Here’s Why It May Not Help Bring Down Inflation",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWjNWLVJ2MHFOX2xoZGo4TFdETnE1TWIwY1FqbWE5UjNkRWVUeVBZNUpSemJNTng5VlFfSktqUk5yR19YbDJMVG81eE5HWWpnbFZQbmVqWnowOXFoV1IyRXNqaTJ2anhveEw5VUVtVVM3V0c5TXZnamw3NTJuMmxpSmpJT3BoYV9aWG5aNGl5MGRUa2k3cFBmSHlPNEFSSEk?oc=5",
+      "source": "Investopedia",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-09-16T12:28:52-04:00",
+      "summary": "The FOMC is Expected to Hike Interest Rates This Week. Here’s Why It May Not Help Bring Down Inflation Investopedia",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Doordash: Better Margins, Further Growth, But Timeline Matters",
       "url": "https://seekingalpha.com/article/4947086-doordash-better-margins-further-growth-but-timeline-matters?source=feed_all_articles",
       "source": "Seeking Alpha",
@@ -687,6 +2187,21 @@
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Google agrees biggest carbon-removal deal yet, aims to scale new model",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeF81T2ZrdkRFdzRqQmRfWEs2YlhIellqQ0VPMDAxT0NBSWppb0VyNDJBRkYzNFQ5bDVycFJJQU1EYkh0c29IalRVTmtYTE5ncUp6N1lLSWYwNHFzdmhVZ3ZSS09CUVRna1BPRW40R2dadHZkWVh4TG5GU21zdlI3U3kzeWtOWVk2UXc5anF2S3dibXFYWVIxX3BTWW5zMUNaVmt2NVhpaDVOWTdHbFlOUHljTjU5c0lDNnc?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-09-16T12:20:49-04:00",
+      "summary": "Google agrees biggest carbon-removal deal yet, aims to scale new model Reuters",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.3,
         "relevant": false,
         "v": 2
       }
@@ -887,6 +2402,21 @@
       }
     },
     {
+      "title": "Bach choir is a rare symbol of unity in a swing state",
+      "url": "https://www.ft.com/content/fc08dba8-3e16-4262-9e2c-0d59d049efdc?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "feed": "Financial Times",
+      "category": "Markets",
+      "published": "2026-09-16T12:03:27-04:00",
+      "summary": "In small-city Pennsylvania, music brings people together from across the political divide",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "EXCLUSIVE: OpenAI's rogue agents probed Hugging Face for weaknesses two months before major hack",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQS2RNOFJnNVFtSUxoYTBUczVlemRjdHUtYndvcEc0MEF5QTRiRWxSOTFXU1ZqLUFKSjU1QXN2Tnh1TEhWQ195M0dUSTM3WEN3eTVxUlRja2liZmNyYXlrZGpOY2FTMUVzMmxZWkxISHZ1RFVTNUhGdUl6R3o3Y284b0l1VXZyVU9CMlIwLXVRTzVwUG8zSG1lOG4yTFJTQm9mLUFKQWREU08zVFI0VDY3NGNJNEtfQTcwdUtSa0Y5aS1OdUZQZ2czWi1nWFVhdw?oc=5",
       "source": "Reuters",
@@ -1017,6 +2547,21 @@
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Hand soap distributed to 15 states recalled over potential bacterial contamination",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPbFVPTllfeGZnY0FXUzJvdFlYM1R3UThEclowQ09zUFBZU25QWHh1THhNQ2kwZDhkOUE4ZTJFbkpUMGR0YkVWOE9vdmpMdkhRX1UwMzJmWGszTWJtT0ZOOERWUDhXdmI3Wkw3SjF1OXBpMl9kZE1HMjc5WGdPX21yMXdiQk5kZWVoNTE2NG85SHlsM3RLN2Rld3k2S1DSAaIBQVVfeXFMT2lJXzI1V29VSmlYQ3k5RnpIdTNfVHJtUG4zbzU3ZEZ3T0Vkb2pzUTNrYmFNWVFVd1BNLXlucmJUb3VSTUFFYzlvdU1CWnRpVVppWVdUUVU4alNDZmZJRFA0bExSWU4wbUF6dlZTSWNyMWtZNFNzTnRzdWFVbXk2Y1drMko0Y196cXZnUXZQVVhKemtfbjhiUXFOZXBrZHYtOFZR?oc=5",
+      "source": "FOX 2",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-09-16T11:37:01-04:00",
+      "summary": "Hand soap distributed to 15 states recalled over potential bacterial contamination FOX 2 FDA Announces Hand Soap Recall in 15 States—Thousands of Bottles May Contain Bacteria health.com Check these recalled hand soaps in California homes, schools The Desert Sun Recall alert: Soap",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.3,
         "relevant": false,
         "v": 2
       }
@@ -1322,6 +2867,21 @@
       }
     },
     {
+      "title": "Amazon gives its workers a raise of $1 per hour",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPZV9jMDRDR1EzRENWWmxtRVRzQUlNVUZjVnNBX0lHRUNRVDJFa2NuWXFoUDVvOVU5R3VWbWRvTk40THBrNFNyNkwtSmJScUwzSWVKOUdmeUdBLUI1eTBFaFRnMHpJTW1ESGdmLWtMZTdmdkV5Q2FIb1NNeGlIUVhoeGFqQ1NjYy1n?oc=5",
+      "source": "TechCrunch",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-09-16T10:32:08-04:00",
+      "summary": "Amazon gives its workers a raise of $1 per hour TechCrunch See more headlines & perspectives on Google News",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.2,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "World's top-performing sovereign wealth fund warns of looming pullback in U.S. stock market",
       "url": "https://www.cnbc.com/2026/09/16/new-zealand-sovereign-wealth-fund-stock-market.html",
       "source": "CNBC Top News",
@@ -1437,6 +2997,21 @@
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Tech giants launch flexible-power coalition for data centers",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ2RTdjdSZzdPNG9PZEo3cjBkdGxSN0NTcGJDblltNzlSTy1PR1hwOTVBbFZ2Yk5vTXQyZmlabjRtWWU0RlhZeGFIVmJENzUtZzlBRTF6RV9KdmJGSzdRMTVKeXk4ZW5wVHBZM1VxbERkLUxINVZRdGZkOERyNHBWdlFBOEFzOXN6WGViVGZyM01obXM?oc=5",
+      "source": "Axios",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-09-16T10:12:56-04:00",
+      "summary": "Tech giants launch flexible-power coalition for data centers Axios Emerald AI, Google and NVIDIA Launch Alliance to Advance Flexible AI Data Centers NVIDIA Blog AI Heavyweights Team Up to Promote Demand Flexibility heatmap.news Global Technology Pioneers Emerald AI, Google, and N",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.1,
         "relevant": false,
         "v": 2
       }
@@ -1622,6 +3197,21 @@
       }
     },
     {
+      "title": "Unloved Consumer Names Like Walmart and Nike Face Pressure as Rate Hike Draws Near",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNWHhTb05HM2dKbmk1RF9OVUozbFpXTXk2LVFGRm1iWUNDSXhPX0MxTkFIV1ZESnROdnhJQXlWYld5VnBCTnZDRThxd1BxZHZsQkd3M0pubE82a0FGQ01aclRJR0lpSWdKeWhkQjVtMnYtYThVWFZQRVBRVmQ3cFNRMkQ5UkhNbWFob2NUcVJ1VXlLMWoydk5QUzNod0h6cmVsQkQ4NG5nQmVGMmp5Wk1GZ25uV21iQXFJU0dwemtZRzU3Zw?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-09-16T09:46:00-04:00",
+      "summary": "Unloved Consumer Names Like Walmart and Nike Face Pressure as Rate Hike Draws Near Bloomberg.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Intel, SK Hynix shares jump on report they're discussing U.S. memory chip manufacturing",
       "url": "https://www.cnbc.com/2026/09/16/intel-sk-hynix-us-memory-chips.html",
       "source": "CNBC Top News",
@@ -1757,6 +3347,21 @@
       }
     },
     {
+      "title": "Hedge funds step up bets against consumer stocks in August, Hazeltree says",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNNlNncWxsVGdiLUNLX21YV0FLdEUyVmVFTDJ6TTBmeTRuclprZEtnM3FVbnlwRTZza1U3T19tNGUtV0dsc2RjV1RzZm1oSVZoc3hLN0ltRlRnVS1idFBtZUxaTElhOFFlYlpCaUVBeG9Kdkx6MnRGa0V0SnRjeVVlSFQ1T2ZiVlBqX3dCTW5yR3BMRU5Gc0FCZ3JUVk9pUjNrLVk5aWdvY0ZQcGd6YlJKMmxpZzNRVzc5eEUxenRiTi1TNEtjcldPUXdkOXpZSFBiZHc?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-09-16T09:18:22-04:00",
+      "summary": "Hedge funds step up bets against consumer stocks in August, Hazeltree says Reuters",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Amazon Prime Big Deal Days 2026: Shop early October Prime Day deals from Shark, DeWalt, Apple and more",
       "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNSUFtSk5NdzVMWDctUlQ1RXIwN3pLZ2hhWUwtM2ZtQ2VEc215Q3JrQi1faEZMNU9KOERremp0WVgyWWZLNUsyUkVSNW02bTI5dnhMRHduOHdZUW5JQk5OcUwxc2NYcXZKdTB6YmNPMFV0WWY0dkhZTDVNLVBvM0Nwb1loRDdYZkhWb0NzU0hGRVhobGw3ZFFPTTBsUjQ1ZjRieWs4bVdJVFlJTEl1VW1OVjdzWXRnRmNpeGgxZXpPdnctNHhiRDFxM05nREhRR0FfMm8zVWt0NEltS2oweUpoS3ktSXdMSnoyWFZLdjBTeFJPekVhTWhQcU9wbFViUQ?oc=5",
       "source": "shopping.yahoo.com",
@@ -1783,6 +3388,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "US import prices jump in August on strength in capital, consumer goods",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPaHZFSU51azhHUTVZUkg3U0VyMWtmMXNROWJtZlBqajJiSGJWT25QZG1jcVNqbDZqdDlfUnJXbUtoSWNILXJYWjdVYzlEQ3N5VjI3bnAwcDh4dVRaMjN3d01SWmJmU0tQanJ2RjRGZnhXNTg2UTQ4UE4zN2hyUHRnczlyS1I0Z2o4RGlqNVlxQnpLZnpJNTFwUVI2czgydmJzTjVhSExITEw?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-09-16T09:14:34-04:00",
+      "summary": "US import prices jump in August on strength in capital, consumer goods Reuters",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
         "v": 2
       }
     },
@@ -1828,6 +3448,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Google’s New Plans For Thompson Center Include New Sculpture, 17-Story Atrium Revamp",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPRy1WenU0LUkzRnlURFhiWnIydmo0NWtsUWJtNEV6bFRXRjZKTm1ZNnRFVlF0LWJXejBUYU92QjFxR0dkTVQxSC01X0hkSVFSQVdmaktDQk1PUWlBMnJfYTBTZlhtakJvYXc3YkhHaTA4TTdFSGQ0WE5oeC1DNEJzaThYYnlkNUozc3l6Z1dXMmhxc05RX0N5TTNpOVN5NjZjQklvZ3RHYXQweDNyUXNpZm9xTjJTSkN4MUx2UGJBWmE?oc=5",
+      "source": "blockclubchicago.org",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-09-16T08:30:00-04:00",
+      "summary": "Google’s New Plans For Thompson Center Include New Sculpture, 17-Story Atrium Revamp blockclubchicago.org Google provides a glimpse inside the renovated Thompson Center Chicago Tribune Google shares update on Chicago Thompson Center renovation plans, shares renderings ABC7 Chicag",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
         "v": 2
       }
     },
@@ -2087,6 +3722,21 @@
       }
     },
     {
+      "title": "The 20 biggest US airports ranked from worst to best for passenger satisfaction",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOeGtvNFoyOFZxWHRnREtYWlE2UFRVSm4xWFg2X2s0TGFVRFpSUm5IYlNmaFdVR3QycTlPaTdiZkpRN0w4aHRxdHBGYVFOM2dKX1BsNXNMTWNxOW02a3RpTWw0OFFtT3ZxT0xoSUlsdTVoOHV2TTBqZVVFYUVha2NiUGk5bTJxMU0?oc=5",
+      "source": "Business Insider",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-09-16T07:01:21-04:00",
+      "summary": "The 20 biggest US airports ranked from worst to best for passenger satisfaction Business Insider Tampa International ranks No. 1 among large airports in survey Tampa Bay Times Portland International Airport ranks No. 2 in JD Power’s 2026 large airport survey KATU 2026 North Ameri",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "This Midwest airport was named America's best, according to flyers",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMnRrSmlYNWotcXNzLXdjNE1uTTJuMElkaU05Mk8yMks2MU9adnlYMWRwNGQ0UG1wekpRSlhWTDFpZzctS0RUS08wTmpUOHdhNDdEZm5mQ3ZPb0NqLUI5SmdYRE5kVUVzazNZTDBmY05DUFFVaHBibjktS3I2bnhTcFJ1OEs0ZTlaWW5KV1QybXRuSU1PQ1dVMmZOV3JBcUstenZkc0tYTXpGZ3JBd0w0?oc=5",
       "source": "USA Today",
@@ -2177,6 +3827,21 @@
       }
     },
     {
+      "title": "Gas Prices To See ‘Staggering Increases.’ Map Shows Price Per State",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOTFlxLWFpYTZhNjFGazFmYy1EdlhHREU3RnhpVWpkZjZQSllrVGs2cG1nMDZKeTN5c01YaHFYa2xvUkx5YWp3TWh0dWlHRGJ0eG9DVXVMc29LTjU0cmtnZE9GNFVqREE5b2NuWG9mb2ttcGkwX3ZEeGJmZ2pXQUdrUk9WbzRKRmNWbGt6X21reHF5WUR5dUR1ZU5B?oc=5",
+      "source": "newsweek.com",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-09-16T06:40:00-04:00",
+      "summary": "Gas Prices To See ‘Staggering Increases.’ Map Shows Price Per State newsweek.com Analysts predict gas price jump, long disruption from damaged pipeline The Washington Post Gas prices rise across Greater Cincinnati, diesel hits record high WLWT Drivers look for ways to save at the",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Fed expected to raise interest rates for first time in three years",
       "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPODdVWVVUZ1J4OU1FSl80bF9hQU1DTF9TT1NyZHZtS1d3dmNxZHp5NUhmUU9BaUdETW1lSkpLanZqWldjb3p4X3pmbGVGb3p5MmU5Ymg3V0l2OU0wRzZtWG5US2pzanhZS1NhUlF6T1gzWnY1R3FRYU1BYlpSVnFnNmVYRVZmUDNjeU92akx1ZVpxR1nSAacBQVVfeXFMUE1oOEswVFZxdDZRcTk2LUx2TkVvUVhPV2Z0Q01ZdXV2Vlo4c0dkSDU5S09DNUJ2RHg1QlpFaGR2aWtPcXF5UExKUlFiT2dpLWJyLWxiZlI3MmJjQ0hFZHlrRS1NYlhLNEVZdFNmODhiWWEtZTFfTXNJOFVwY2VDWlF5dFRVYlUybEdkLU9fdkZJVVMyZXZJZW9TUVd2UWJUX242dGRsck0?oc=5",
       "source": "WFSB",
@@ -2202,6 +3867,21 @@
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Record Diesel Prices Hit at Worst Time in Key Battleground States",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQYXhzUWdFZ0FrN2NxMEpvcGpRTFpXZW84a2N6dW9FU3FveVlIMnNOUFI5M0s1VjBXbkpJRFpJZEpZUVlXYVJmMDYwTE9KQUxubmRLWWpCOThtMmZVOUxDUnVaVDhiVUwzU3RJeVBVaG5SVGgtZldBVC04V0JzaU5MZF9NTUctRGE1VjkwZkd3LVNJVnkyejlhekJ4RVZmdHk5bktYSlF2MXoxYXNGUVFTUkNZbnVTOGF2dEpYU2F4MlBpZnRxbTdzaQ?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-09-16T06:00:09-04:00",
+      "summary": "Record Diesel Prices Hit at Worst Time in Key Battleground States Bloomberg.com 'Science fiction': Transport companies — the backbone of economy — are sounding alarm on fuel prices CNBC Gas prices rising across the board in NC as national prices hit milestones WRAL ‘Can’t leave c",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
         "relevant": true,
         "v": 2
       }
@@ -2402,6 +4082,21 @@
       }
     },
     {
+      "title": "The Fed raises interest rates for the first time in over three years",
+      "url": "https://www.npr.org/2026/09/16/nx-s1-5968724/federal-reserve-interest-rates-inflation-economy",
+      "source": "NPR Economy",
+      "feed": "NPR Economy",
+      "category": "Economy",
+      "published": "2026-09-16T05:00:00-04:00",
+      "summary": "The Federal Reserve raised its benchmark interest rate Wednesday to combat stubborn inflation. That will make it more expensive to borrow money to buy a car or carry a balance on a credit card.",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Von der Leyen backs Canada’s ‘associate membership’ bid",
       "url": "https://www.ft.com/content/8fed428e-7bcc-435c-9487-cb4e6a795328?syn-25a6b1a6=1",
       "source": "Financial Times",
@@ -2492,6 +4187,21 @@
       }
     },
     {
+      "title": "Muni Bonds Are Yielding 5%. They Rival Stocks Now.",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNUTlkV3N0U0JDYnFQYmgzV01hX25qWkpxQmlnb1lhSWY1Mmx5NWJKMmsxR0gxdmR2ME9EVzJEV2hBS1p3MWRuTlY2Y3BRZHd0YkNKSTFEYXM1MGFiMVJPWk0tOVotcmoyNTk4dm44UU96aUxvbjhVYnhvTnBQUThBNU9MSEdSNmFkbEdFQQ?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-09-16T02:30:00-04:00",
+      "summary": "Muni Bonds Are Yielding 5%. They Rival Stocks Now. Barron's",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "US, Vietnam firms to sign agreements as To Lam travels to New York, documents show",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQai1iRmYyOHYyREhQWjhvNjRqYUdEWWJwSUVSRndtWWN4bDdOenlvZjlTRnhqbDJYT28tbnUxSzV3U0VCM1Y2c0dzdUFnQk9jdjF0emo5RHo1ZzdMbllqcEE2dHdrOU5WY1FlTWx1YmVQWnIxT01ma0ZRNU9WOUR2LVdyOWNNckVZM1ZmVXNuaXlMMFVib0hHYkxVUFRaWGYxak90YmZibE5QR296M1JVRUhqTU43bGttYk00MA?oc=5",
       "source": "Reuters",
@@ -2503,6 +4213,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Ukraine war drives European demand for bigger, cheaper missile arsenals",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPelZPWTd0UlVkWjZ3cWlqaWdQRHZ2dzhJUEx0TE1TWTNieTFrN19tZUt0OHFUY3Aya29PU2FaWjZsbWFCc29nRjdHOEUtYXMycGtnZUFaeUJMMDA3NXVMSDZMaUVZTGN2LUl2bjMzQlFvcW93UEJOWl9WTFdrM2huQUxLVEYyUkpwTV9BUU82YjBLZTRtVldoMUI5UlhXZ3lDMWFXSG1zaUFYODVOX0hRYy1BbzZWdGd5bjF3dHZ2aTNFLVlBX2hyUA?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-09-16T02:08:00-04:00",
+      "summary": "Ukraine war drives European demand for bigger, cheaper missile arsenals Reuters",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": true,
         "v": 2
       }
     },
@@ -2552,6 +4277,21 @@
       }
     },
     {
+      "title": "Brazilian Voters The Latest To Eye Bukele Security Model With Envy",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVVVuQ1pJOUhmZWhqWDhVQ1NYcVltN05kcFFWTzR2eldVZlU4cjR6QkZ4cS1xS1NwQ3ZXcXQ0b3M1QmkwNzNSUUJscWk1cXJfNEZBUk1naTBOUGpaYWRhalFXMFlQd0FRdXh6MUNRSFNmdkU1ZEVNakQ0Rk9HOFFMcTFPSjVFd2pyLWtVc2p0RFd4ZnN5Q3h5MDRITlFfNUZLSVNWRW8yRQ?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-09-16T01:24:00-04:00",
+      "summary": "Brazilian Voters The Latest To Eye Bukele Security Model With Envy Barron's",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Anthropic lands deal in $31bn datacentre in western Queensland, David Crisafulli says",
       "url": "https://www.theguardian.com/technology/2026/sep/16/anthropic-lands-31bn-datacentre-deal-in-western-queensland",
       "source": "Guardian Business",
@@ -2562,6 +4302,21 @@
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Billionaires Mark Zuckerberg And Jensen Huang Push Back On AI Slowdown Calls",
+      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPblVWTjFtbV95YmlkOTAwWHBKZjNwNzdYZy1oMFJHVktEWVl6YkJLT3FsMnhtQ0VVbHRnTWY5MElFYjl2aWJfamdYbWZ0eElHZk4xRmhtMWNpQkVGOWlhVGloak5scXV5ZXp3R2Rmb0ZGM0JkNk5HNzlDTHY4clI3ZnhNZDdzVmhZaFZCUzdXS0lkTWU0eWV1VjBCLWtwR1VZUUJhTXJRMGRNZ09yMlNxeWFVR3psNjJFbFBMdXpJamw0a2VXOGc?oc=5",
+      "source": "Forbes",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-09-16T01:06:31-04:00",
+      "summary": "Billionaires Mark Zuckerberg And Jensen Huang Push Back On AI Slowdown Calls Forbes Mark Zuckerberg Takes Aim at Anthropic in Debate Over A.I. Slowdown nytimes.com ‘Now We Can Know Everything and Do Anything,’ Jensen Huang Says at Dreamforce NVIDIA Blog Nvidia's Huang diverges wi",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.1,
         "relevant": false,
         "v": 2
       }
@@ -2717,6 +4472,21 @@
       }
     },
     {
+      "title": "Iran’s hidden leader stirs unease at home",
+      "url": "https://www.ft.com/content/ffe402ca-564a-457f-a861-18083a361e50?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "feed": "Financial Times",
+      "category": "Markets",
+      "published": "2026-09-16T00:00:04-04:00",
+      "summary": "Mojtaba Khamenei’s absence from public view has been a source of bafflement and suspicion",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.3,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Who’s Afraid of Big Bad Bond Yields?",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZTJ2MEVtWnlNUkVoMzA2cmpzSG9IeFd5dksxaTUtWThxZ0hpRlduS1g1dm9zRXVxbTdFYkQ5enpXVVpsVDVPVE51TGVJd2tiZHRwRlczanRZV2JfWTVEX0FIcHZRVzZpMzNQTW01QzZTeUQ5c1pyc2x0Y3Z3czVrREpQSk9nV1IxUDRfVWN6ajNRNUpQMHpKelhxWmFMbUpPSHBR?oc=5",
       "source": "Bloomberg.com",
@@ -2867,6 +4637,21 @@
       }
     },
     {
+      "title": "Apollo Gives $585 Million of Financing to The Executive Centre",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNNlhSVEFwTno0MWlvSk93YjZiekRIT1lKV3BHNE53V0cya2c5Y2pSWmw0b1poYVpxRXJ5aXFYZ1IyNkNkN0dBLTJTTzEzQXpuWUNUVzhkMkMyOFFKeEwtaVU5SkZJNUNFTnluYXA3Q2E3QUNIbW9FTmpXOFZJclk2UWk2Z01kb2RYbW5pVDVjY1pwei1pRW5oMWQzOWRrVnZDWXk5RE9pQ1l4c1NRTWt0cW1B?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-09-15T20:00:00-04:00",
+      "summary": "Apollo Gives $585 Million of Financing to The Executive Centre Bloomberg.com",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Why de-dollarization discussions are more talk, less action",
       "url": "https://www.cnbc.com/2026/09/16/de-dollarization-brics-china-russia-trump.html",
       "source": "CNBC Economy",
@@ -2907,6 +4692,21 @@
       "sentiment": {
         "label": "positive",
         "score": 0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Stocks Fall as Fed Hikes and Signals More to Come: Markets Wrap",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxONjA5RVNxMm9UNDRfQTFwTzhNTWNHdV9FTXBVRUhrTjE4c0luSHJ1ODRZcWt1NnFIUUd1RnlwNlVqejZ0SVdCaklNMEh0Zkx6OEo4amxiaGxPLVlvSnhIaGJhbVN5RnJDT213YmV1YS1vOHVTbGhSa2FIVzd6SjdGb0xCeUU0djdjRXNQanVGR1dFeUotMG9rUEZkM1NQZVBkdDhjbjNnWFYwMTE3cktyTGZR?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-09-15T18:11:24-04:00",
+      "summary": "Stocks Fall as Fed Hikes and Signals More to Come: Markets Wrap Bloomberg.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
         "relevant": true,
         "v": 2
       }
@@ -3017,6 +4817,21 @@
       }
     },
     {
+      "title": "US Space Force Confirms Space Weapons. What It Means for Defense Stocks.",
+      "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQNXRKRHRnQUhXRURlNG84QkVBZUZMMkV1Uy1MRl9SM2xQNWYxS3lESHNCMkt1M3NQWlljNm1ZS1NoY25wbFdrMi1mZGRvRk1aSkc2Ym5ZMjRqVm54T084MUprNXFSM3dUVFhyT1psdmxUam1BcFl4dmhndWk4aGU1MEVES3dLUQ?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-09-15T16:59:00-04:00",
+      "summary": "US Space Force Confirms Space Weapons. What It Means for Defense Stocks. Barron's",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "What Africa’s biggest IPO can do for its stock markets",
       "url": "https://www.economist.com/finance-and-economics/2026/09/15/what-africas-biggest-ipo-can-do-for-its-stock-markets",
       "source": "The Economist",
@@ -3107,6 +4922,21 @@
       }
     },
     {
+      "title": "Private-sector estimates of unemployment in the 1930s and the development of official labor force statistics",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxPdEV2WF9nVjA2YldUbFNLRU84OVl4M3lSX05iLWhMeXp2eE5JM1BWYXFKNjc5c3B3dXp1TURjajNneEotTk1jNjQ3aFhnVTI0UlppejVsQXhFLUVjTDQxOUpBNXBoRXhhc1pUeW1LMG9YZi1HdnV3SFhRNFpEc1dhemllcFI2TV9pdUtRcy02RW5EN0pBY1E1ZTBxYU1ONHFkbnBrWkc1TFAzc0E5ZDAyd19OY0VjamduTWNlYlRWdmU5eTB5cEhDMVhrcVJvdVhfdGRHdDhva0RVRlEtUnlDYU1weGxCRlFmdGc?oc=5",
+      "source": "Bureau of Labor Statistics (.gov)",
+      "feed": "BLS",
+      "category": "Policy",
+      "published": "2026-09-15T16:11:54-04:00",
+      "summary": "Private-sector estimates of unemployment in the 1930s and the development of official labor force statistics Bureau of Labor Statistics (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Bitcoin Falls as Senate Blocks Clarity Act. Why Cathie Wood’s Dumping Crypto Stocks.",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPcVQ0SVUyMkxrN3R6RXh3MEFDN3dWQlQ2YmN6aE9RdWRmalhjMExjRGNKM1pfbzhKT1JJOVYyQ1R2RnlxMEdseGlsUGxfLXdGUFlBSkJkS0U1WVpaMlhLcTZ1ZnZTUngwS0xnY3dZY2QzeUJxYlQxNHZoM3ZjUFMzbTNzcDVrekRYRWlvcU5UVQ?oc=5",
       "source": "barrons.com",
@@ -3133,6 +4963,21 @@
         "label": "negative",
         "score": -0.7,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Why This Taser Maker’s Stock Is Second-Worst in the S&P 500",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZEZQOVR1ZWhzUlZqMXhaYVBaYVloV0FWclQ2aXhIdnA2cEE5ZjJGOE1GN1pPM0xBcmprdGoxNjJ3NTZqaWRFN1lqeHlwTFNiUUxfV2FNUnJtR0hCS2duRE9OX05kS2wyMEtqU1JOU2dBN2VYNXFTZFY5cF91VWdueHQ5ck5yRGFmMVB3?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-09-15T16:07:00-04:00",
+      "summary": "Why This Taser Maker’s Stock Is Second-Worst in the S&P 500 Barron's",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": false,
         "v": 2
       }
     },
@@ -3193,6 +5038,21 @@
         "label": "negative",
         "score": -0.6,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Our Biotech ETF Pick Is on a Roll. There’s Plenty of Reasons to Stay Bullish.",
+      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9YcEdxV3U4RkhUQllENTdBLVFiM2RqUGFpWGtSRHQ3VVIyemp0ZThPMlRUZFFEYlFaNVVjWE14aFYxMXN5cjJSb0Q4ODhCTkwxemFNS0JUQm9XTHlKcTdjZnhHMUZXTkpCVVFtdWZ0ZHEyZG5zUGVKNQ?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-09-15T15:29:00-04:00",
+      "summary": "Our Biotech ETF Pick Is on a Roll. There’s Plenty of Reasons to Stay Bullish. Barron's",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": false,
         "v": 2
       }
     },
@@ -3298,6 +5158,36 @@
         "label": "negative",
         "score": -0.5,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "GE Vernova Is ‘Wired to Win,’ Analyst Says. What It Means for the Stock.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPY2dDNTJxUGswVE1kNzU2RlZNNjdqbm9FZi1zM2RhOWFxVE4wZ0JWMW9naHUzR3JsbjhBR1VwS2k5Y0tnZEhDZlRpU3EzT1phTU54dmd4OUNzVXlvaEgzOURhdmRDVVNRN3JfbWdXLWMyemtDS180X09TMlprM1lGdkFRWEE3XzlzakE?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-09-15T13:51:00-04:00",
+      "summary": "GE Vernova Is ‘Wired to Win,’ Analyst Says. What It Means for the Stock. Barron's",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Why 5% Treasury Yields Won’t Kill the Stock Market—and 3 Sectors to Buy Right Now",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSkhwaGtOZmtyODNIVy1NaTZZVTh4V19maVZNcXA5QWZnakV1aTV1a1FsVDBBS0tpT3dJN09Vb0pvMUpuY0VPMGYxMmNyVmplSEJSUFEwandaVFBpNUd6ZTE4OHhIRWY5eWp1UDhGNzlXd2Qxa2g1bW9UUjhEcE0tMnhLblI?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-09-15T13:23:00-04:00",
+      "summary": "Why 5% Treasury Yields Won’t Kill the Stock Market—and 3 Sectors to Buy Right Now Barron's",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": true,
         "v": 2
       }
     },
@@ -3422,6 +5312,21 @@
       }
     },
     {
+      "title": "The Stock Market Could Be in for an Autumn Fall. Why Wall Street is Getting Nervous.",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQbXlEU1dVSlU0eUpKd1dtQU53SHNsclVhcTZMcDVLN3ZncDFvWUZLZVcwd0ZJa084Y21YcGFYVkZyRFp5X0p6RzF5czdtMVJvUDM1c0NkdUFUXzlndUpHSWp2QVpodU45TzFhUERzclFpZDExa0RUMzFybFNRcWNlZHQtd2d4dkJqTXpPLURLWlU1TjhTcDg1SVlPeDBlRmN4Y19XTE5IeGQtMFJNUjY3b3BocnZ6aXlrUjhTdTJjQWVUZw?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-09-15T11:19:00-04:00",
+      "summary": "The Stock Market Could Be in for an Autumn Fall. Why Wall Street is Getting Nervous. Barron's",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Oracle Stock Is on Pace for a 5-Day Losing Streak. This Is the Next Major Catalyst.",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQcVZaNjF3RDJzT1dDLTFGR3FCdmJVLV9qNU5Sa0FlbUk1OUZuY2V6eFl4ZVFrNnA5Q3MwRnVXdU96cThPZVRWNzMzanJmVWhkVTNHUkNCRkljQWpnZzBIejROc2NkYkZPVFlyUFFkNFdEUXo0NG16aEVUemJxb0dZWmRwXzluSGhZZHg4?oc=5",
       "source": "barrons.com",
@@ -3463,6 +5368,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "The Rich Are Worried About An AI Apocalypse—But Experts Say It’s Already Hurting The Poor",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPWXl5ODdRVVdPaXVtSUlZaVlnQnhVU0F0R0dPbzRrN0o0OWI0TXlSNXNzajZTU05iSFBMbHJhYlhySldiaGU3aHMtUFhENFByMWZtemY5dkVkdFBJMTJ5TlEyc2d6Qy1XOEczdFJsVTRDM20tY2FTY1RkN1ZWeVJDRzJ3dlF4QjI3WV9YNDEwdzVxMUt3b29hTEY5ck5BX2JKZ0xib2ZRcl9mQkZhdWFvT0x0ZHlUUi1HUlV6YVg0dV8yNzBYLWNkSUpwakhDV19NeFo5UXU2RlBydw?oc=5",
+      "source": "Forbes",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-09-15T10:39:06-04:00",
+      "summary": "The Rich Are Worried About An AI Apocalypse—But Experts Say It’s Already Hurting The Poor Forbes Destroying Humanity Is Against the Law The Atlantic The Long Doomsday of A.I. The New Yorker Why the AI Apocalypse Won’t Play Out Like The Terminator New York Magazine ‘A deep unease ",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": true,
         "v": 2
       }
     },
@@ -3542,6 +5462,21 @@
       }
     },
     {
+      "title": "EXCLUSIVE: ADNOC Trading buys millions of barrels of Iraqi crude, sources say",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPcVctVzBuTWtQU01oYjJyMGRQNDlnYktuTlItaFRidlFFX3VZRHVUamZMc2tyd1l4YkhTQndtZlNyeGlwN0xsT1c3QmhnaWhqeE1kZUJGZTBwMkFrQ2RtU0tOdldHQWRCUlpjcDFrYXhlclU4Y05SRldPb21uSExkUTJYR1I5OXJHdWhWSzZwVFVMZGdwTDJzUHliazNMSFh3ZUZ0Vk8xUV9TWE5y?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-09-15T09:46:07-04:00",
+      "summary": "EXCLUSIVE: ADNOC Trading buys millions of barrels of Iraqi crude, sources say Reuters",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Traders Game Plan What 10-Year Yield at 5% Spells for US Stocks",
       "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZUpERGJsY2NQREpQVmlVbUtnWjhnYmE1YVpJTW9pLWhVdHhoa2FuYktjOEhubWZmbXJMOUJDcGgyV3U2OUptYmFEeXN4em40M19EeDd6Smx6SVBQNlJkSzJycTNRUmctcHN4Ul9yNkY1UXR0RGpwLUdMdjJnSFhEM0tPdmdGbVFkRkE3UWoxaDR5SXJQZ0ZSdDd6RENBQW52NW1JdHcwdy1VZjZaZkowTWo5cw?oc=5",
       "source": "Bloomberg.com",
@@ -3564,6 +5499,21 @@
       "category": "Markets",
       "published": "2026-09-15T09:00:00-04:00",
       "summary": "AMC-Robinhood Feud Tests Who Gets to Put Stocks on Blockchains Bloomberg.com",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Anthropic and OpenAI look to Uncle Sam to make them too big to fail",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVk85OEZWTWRmdy0yQ2VuTFlRZFp2RXJNMndDSnZwbUF4cGNwWjFLY1BmZDFVTVFTNnp6bFNueGUwOUtzZElVX2pOYkNaUUFua2VMNWp4VWVvanFvMFQ1OG9ncTM4V3l6ZHg5cnRJUFlqSWhfN01Tb21yRGtNN1VPUjFKZzhIamVpOXlqVS1TQ2d6U2otNnFqUWhKc2dwd0FtUkt2alJCNDFnVmtZaGhsQnFya3FINnk2SUV5OGkyOXRHZw?oc=5",
+      "source": "The Register",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-09-15T09:00:00-04:00",
+      "summary": "Anthropic and OpenAI look to Uncle Sam to make them too big to fail The Register Agreeing to make AI safer may be impossible The Economist On Risk From Superintelligence, Top AI Expert's Chimpanzee-Nukes Analogy ndtv.com AI: Should We Slow AI Innovation Down? : 1A NPR There’s a R",
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
@@ -3792,6 +5742,21 @@
       "sentiment": {
         "label": "negative",
         "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "S&P Warns of Credit, Earnings Risks at Indonesian State Lenders",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNZXR5V0hKbEN5RGRLS2tpWlRJS2NPQ3pqMjNGTEl0NUN0S1B0Y2k1NXNTRHNkempjdWllVGZhRUFUY2x4SDg2bVQzdUpCQ1B4SXJLSVMwRk5PMUVBTl8zQk8wZUlXMjNfVzNZalgzM0lfWEt3NTN0R2d5Z0RQQXg1bktRbWJTeHNIRUNrMDV3bWExZFowYzVlRk0zY3M1YnBHcFVLdHUzdGRXdXQ5eDFBeGthOA?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-09-15T02:49:00-04:00",
+      "summary": "S&P Warns of Credit, Earnings Risks at Indonesian State Lenders Bloomberg.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
         "relevant": true,
         "v": 2
       }
@@ -4037,6 +6002,21 @@
       }
     },
     {
+      "title": "Review & Preview: AI Is At It Again",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOYjVSQi1hWEpWZGROU2t2LXNRT3pRemNCeENYbmxwLUNfYVVaNGdLY2JpSGtPZWg4dTl4VjhLbTFDUS1YM0YtN3NEXzFvanJCWXowU3p5V3VDcTY5TU9BdW1EaWJ2bnllWTh5VENQQmVoV2IyNFlKWXRIZXlsYWdpekVLY1pWUjFLNUVRbjg4YU95S1p0ek9XWmJFYnhkdlJzQXA5T0ttellsQQ?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-09-14T19:55:00-04:00",
+      "summary": "Review & Preview: AI Is At It Again Barron's",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Gold Trades Near $4,300 as Higher Oil Stokes Rate-Hike Bets",
       "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOQTdDTXo4TnMyNl9WV1g0TjFOY21nQXhLSkExY1k2TlE1QnNpSXQzNEEyX3RzOGQ3cWwwN2NyZ2t1QnBodWZnbWZEdjk3dUVPZ3EtbmItZGFGYV83ZDBEdHppeEdVZEE2ajlkX0NZcV9kbEJkelVWRzNuYjhIaW5iSGp4SW45ekw3dDRDZ1ZxQ282blJSWU5jNkZEY3BocHNKZVdXSm96Ni1rM200MmFwSUxmZTk?oc=5",
       "source": "Bloomberg.com",
@@ -4243,6 +6223,21 @@
         "label": "negative",
         "score": -0.6,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "This Strategic Metals Stock Surges on $450 Million Pentagon Deal",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNTHVhaHg0emRQalNSa2c2THpSVV9NRHE5UEJUN3BSUG9uSHRLUDZpdkpQSW1MZ1pqVW9rcTZhWWRGSS1Db0hXNnRXYmdzWjlWQWExTHhQZV9Vam1lM1lyX2Qzb2RiV0VWRW9ZNGdLNmhMUjgyZURaeUJSRXZzUkM0aTNR?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-09-14T16:31:00-04:00",
+      "summary": "This Strategic Metals Stock Surges on $450 Million Pentagon Deal Barron's",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": false,
         "v": 2
       }
     },
@@ -6902,6 +8897,21 @@
       }
     },
     {
+      "title": "Local Assistance and Tribal Consistency Fund",
+      "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOWlJ4UDdacG1qZ2ZvREozYWQ3REhOWlRpdjV6eC1PZEdpSVgxUE9nRnZDc3otXy1fd1ZNWTI2WS04OVBHcVpoN0c0d0ZYTzhmdmhSaUc2dDFtMERuTFlzZ1NHLTA4aGRKalVPempiNDNCa201LUEyM04yY3Zzd2luN3Y4MFB3TkpXVEpubVRfODVRa1ZMbUEzemhJaW81amtuQkc3RWpQQ2dtTUdBZjZhU1VFVWZ0S2I5cDF0Q1Z1UkxXTl94Uzc1VlNlaUtJUzQ5bE5kOU5ZZXBjZlAwdnhfWFdwTVZZMDJuMFprVWp6VWtsTE5Iel9wY0RnZjk?oc=5",
+      "source": "U.S. Department of the Treasury (.gov)",
+      "feed": "US Treasury",
+      "category": "Policy",
+      "published": "2026-05-18T13:12:11-04:00",
+      "summary": "Local Assistance and Tribal Consistency Fund U.S. Department of the Treasury (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "When her ‘soul cat’ died, she was bereft. Now she designs memorial jewelry to help others with pet loss",
       "url": "https://www.theguardian.com/business/2026/apr/24/pet-memorial-jewelry-small-business",
       "source": "Guardian Business",
@@ -8147,6 +10157,21 @@
       }
     },
     {
+      "title": "E-Mini Nasdaq 100 Index Continuous Contract Overview (NQ00)",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9DNDRjRHd2eUZockEtZmJwdWppMGR2cUlnLWtibHJtSU5tbW1XUDY3ZUpzSVlTOUhiNFhlSFEwQjVCWmQxM2ZmNHd3Ymk2SElQZndOcU1jcWgtX3ZN?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2022-09-13T05:51:15-04:00",
+      "summary": "E-Mini Nasdaq 100 Index Continuous Contract Overview (NQ00) Barron's",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "PRESIDENT’S ADVISORY PANEL ON FEDERAL TAX REFORM: Tax Panel Announces First Meeting",
       "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBYazAwVXd3U1F3YXNlWjloTkhEaWRqTzRWODdXMHZ1X1JwbDd6Zl9JUnNnSlNSdXdCU0FwV2hfb3dod3Q0RXNFSFgyZU5ZQmlfU0RPZ25JMDEwOHp5TVBVSWlKMjUzcEZYSjVWaWVYWmRmZw?oc=5",
       "source": "U.S. Department of the Treasury (.gov)",
@@ -8282,6 +10307,36 @@
       }
     },
     {
+      "title": "UNITED STATES AND ITALY SIGN NEW INCOME TAX TREATY",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FSzJ2WXRma0VLUEtEUHpyWG10cmxVUnlpdzVIU0FzR2pTcVcyZUZxNVZhMHE3d282aEcxSVkyMDZzY3RaMkdzbDFLRG95UGIwa282Z2RnaGJOWGdoYXVV?oc=5",
+      "source": "U.S. Department of the Treasury (.gov)",
+      "feed": "US Treasury",
+      "category": "Policy",
+      "published": "2021-08-29T06:16:22-04:00",
+      "summary": "UNITED STATES AND ITALY SIGN NEW INCOME TAX TREATY U.S. Department of the Treasury (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Allocations and Payments",
+      "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQd3RvWktldE5OWDFpVGxQdVlOVEJvZDZaY3JLdXlzZ2hYU0J5LWJURlFqcTFhM1N2WnJnV1c0QzZZWVFQTDZfMU1odlNNNmFMeVNyUno4WDAyUWJiOU1zWG5ZVHlVVVM4eloxX2owcTBFS1hxUVNaWXJ2VC1LdGdncmtOUEhPenZWQVNUbTdFWHJfYnFBUUQzNDV4T3V0c2RKVXFtdGM0cGMzM2NXamVSdWlxWTdsRm1mVzVrWVNoT0tpbWFEdHNkQTRwTXFxZ2hwZDI3aG01eDhWY2hLYTVJVkZxRVE1N3J3a0xMaWYtOFItbVhl?oc=5",
+      "source": "U.S. Department of the Treasury (.gov)",
+      "feed": "US Treasury",
+      "category": "Policy",
+      "published": "2021-08-04T09:14:24-04:00",
+      "summary": "Allocations and Payments U.S. Department of the Treasury (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Gross Domestic Product for the CNMI, 2019",
       "url": "https://www.bea.gov/news/2021/gross-domestic-product-cnmi-2019",
       "source": "BEA",
@@ -8394,6 +10449,21 @@
       "category": "Policy",
       "published": "2018-06-18T14:58:33-04:00",
       "summary": "Bonds and Securities U.S. Department of the Treasury (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Steven T. Mnuchin Sworn in as Secretary of the Treasury",
+      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPREptZVJpSVBQQW5XT3RydGNMVUJnMDZLb3ZHMDRPRVl1dnk1bWtQWllSSnlRN3BTY0gzVk9QTmxGOGZ4ajRBcFlYV1B2RnNuNFJCbXZ2aFdtaE1aRmhual9JN1czbGZJMFZkSHFxa08yX1p4bFZCRExLYWkybzJHY1Y5SmswQzBCM3NDOW8wZFRFbFFTV3FMMmZ3Qy1EeFhWWlE?oc=5",
+      "source": "U.S. Department of the Treasury (.gov)",
+      "feed": "US Treasury",
+      "category": "Policy",
+      "published": "2017-12-29T08:16:11-05:00",
+      "summary": "Steven T. Mnuchin Sworn in as Secretary of the Treasury U.S. Department of the Treasury (.gov)",
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
@@ -8604,6 +10674,21 @@
       "category": "Policy",
       "published": "2016-12-11T15:36:47-05:00",
       "summary": "pub/time.series/cu Bureau of Labor Statistics (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Bloomberg Radio",
+      "url": "https://news.google.com/rss/articles/CBMiRkFVX3lxTE5lcFJ4TW9mUjB6elZSWEdjRE94dDU3YllJbkp4U29neGtTRUVjMWhfZVEwX2w1TjYyT0dtZG9YZDJBTVFjSHc?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2016-01-13T20:23:40-05:00",
+      "summary": "Bloomberg Radio Bloomberg.com",
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
@@ -9598,6 +11683,501 @@
         "label": "negative",
         "score": -0.6,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "AI scammers are scouring obituaries to target widows — one lost $7,000 after being told her late husband evaded taxes",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-scammers-scouring-obituaries-target-104500023.html",
+      "source": "Moneywise",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "45% of GameStop’s Sales Now Come From This 1 Business Line",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/45-gamestop-sales-now-come-103949367.html",
+      "source": "Barchart",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Suze Orman says Medicare leaves retirees on the hook for $185,500 in health costs — so now's the time to 'push yourself'",
+      "url": "https://finance.yahoo.com/healthcare/articles/suze-orman-says-medicare-leaves-110000316.html",
+      "source": "Moneywise",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.3,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Surging US Treasury yields are starting to spook investors",
+      "url": "https://finance.yahoo.com/markets/article/surging-us-treasury-yields-are-starting-to-spook-investors-105608069.html",
+      "source": "Yahoo Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Mysterious trader moves $122 million ahead of Fed's 2 p.m. decision",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/mysterious-trader-moves-122-million-164740089.html",
+      "source": "TheStreet",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Zscaler’s AI Story Is Accelerating, Its Growth Guide Isn’t",
+      "url": "https://finance.yahoo.com/technology/ai/articles/zscaler-ai-story-accelerating-growth-105942349.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Target Stock Option Trade Targets a Price of $170 by Nov 20th",
+      "url": "https://finance.yahoo.com/markets/options/articles/target-stock-option-trade-targets-110002304.html",
+      "source": "Barchart",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is Raymond James Financial Stock Underperforming the S&P 500?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/raymond-james-financial-stock-underperforming-110215072.html",
+      "source": "Barchart",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Oracle’s Q1 Results Prove the AI Trade Is Going Nowhere",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/oracle-q1-results-prove-ai-110324799.html",
+      "source": "Barchart",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Wonder deploys first automated makeline",
+      "url": "https://finance.yahoo.com/small-business/articles/wonder-deploys-first-automated-makeline-104700640.html",
+      "source": "Restaurant Dive",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Jim Cramer Said This AI Stock Has A Clever Technology Chief",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/jim-cramer-said-ai-stock-110744425.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "GameStop (GME) Hits Operating Milestone Despite Weakness in Core Sales",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/gamestop-gme-hits-operating-milestone-111314959.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Charlie Munger once revealed ‘the iron rule of life’ to survive anything — and it could make you rich. Do you use it?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/charlie-munger-once-revealed-iron-111500705.html",
+      "source": "Moneywise",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Is WEC Energy Stock Underperforming the Dow?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/wec-energy-stock-underperforming-dow-103657054.html",
+      "source": "Barchart",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Sysco Shares Fall 1.3% After Pricing $1 Billion Stock Offering",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/sysco-shares-fall-1-3-104223633.html",
+      "source": "InvestorsHub",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "SpaceX Bags AI Hosting Deal Worth More Than $1 Billion a Month. What This Means for SPCX Stock.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/spacex-bags-ai-hosting-deal-112047371.html",
+      "source": "Barchart",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.6,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "AI Extinction Fears Could Crush Nvidia’s $1.3 Trillion Growth Engine, but Don’t Panic Sell Just Yet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-extinction-fears-could-crush-113002488.html",
+      "source": "Barchart",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "The man who created the 4% rule for retirement savings now wants you to spend more — says 5.5% is 'more realistic'",
+      "url": "https://finance.yahoo.com/markets/options/articles/man-created-4-rule-retirement-113000867.html",
+      "source": "Moneywise",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.4,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Meta’s (META) Muse Math: 10 Million Paying Users Could Mean $2.4 Billion a Year",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/meta-meta-muse-math-10-112958828.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Top Analyst Says AI Could Make America’s Highest-Earning Workers Even Richer—Here’s Why the Most Exposed May Get the Biggest Payoff",
+      "url": "https://finance.yahoo.com/technology/ai/articles/top-analyst-says-ai-could-104512019.html",
+      "source": "Benzinga",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.7,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "An AI Slowdown Could Hurt Semiconductors, But Here’s Why You Should Load Up on Broadcom Stock",
+      "url": "https://finance.yahoo.com/technology/ai/articles/ai-slowdown-could-hurt-semiconductors-113034566.html",
+      "source": "Barchart",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "What is debt settlement? How it works and what it costs you.",
+      "url": "https://finance.yahoo.com/personal-finance/personal-loans/article/what-is-debt-settlement-185327526.html",
+      "source": "Yahoo Personal Finance",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Indonesia Eyes Guyana and Suriname Oil Investments for Energy Security",
+      "url": "https://finance.yahoo.com/energy/articles/indonesia-eyes-guyana-suriname-oil-103000657.html",
+      "source": "Oilprice.com",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Moody's Mark Zandi warns of a 'serious' mistake if the Fed hikes rates as Wall Street expects a quarter-point increase",
+      "url": "https://finance.yahoo.com/economy/policy/articles/moodys-mark-zandi-warns-serious-103000972.html",
+      "source": "Moneywise",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Crypto Stocks MSTR, COIN, CRCL, HOOD Tumble 3-5% Ahead of CLARITY Act Senate Vote",
+      "url": "https://finance.yahoo.com/markets/crypto/articles/crypto-stocks-mstr-coin-crcl-104620721.html",
+      "source": "CoinGape",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "U.S. Stock Futures Pare Losses as Oil Prices Retreat, FOMC Meeting on Tap",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/u-stock-futures-pare-losses-102619957.html",
+      "source": "Barchart",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.1,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Qualcomm’s Datacenter Pivot Is Real, but The Market Already Knows This",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-datacenter-pivot-real-market-114340853.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Ray Dalio says the US faces a debt crisis ‘in three years, give or take two.’ 5 things Americans can do now",
+      "url": "https://finance.yahoo.com/economy/policy/articles/ray-dalio-says-us-faces-114500355.html",
+      "source": "Moneywise",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Ramit Sethi's first scholarship was $2K and he put it in the stock market. Here's the simple lesson he learned",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/ramit-sethis-first-scholarship-2k-114500607.html",
+      "source": "Moneywise",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Proposed T&G Fresh sale sparks cautious response from NZ watchdog",
+      "url": "https://finance.yahoo.com/economy/policy/articles/proposed-t-g-fresh-sale-105459051.html",
+      "source": "Just Food",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Google’s Traffic Numbers Look Fine, Its Search Economics Tell Another Story",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/google-traffic-numbers-look-fine-102257813.html",
+      "source": "Insider Monkey",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "A Trump Science Advisor Says Elon Musk And Sam Altman Won’t End Up With AI’s Money: ‘There Will Be A Billionaire That Will Emerge That Has Zero Net Worth Today’",
+      "url": "https://finance.yahoo.com/technology/ai/articles/trump-science-advisor-says-elon-114510280.html",
+      "source": "Barchart",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Grab to Buy Majority Stake in SoftBank-Backed Atome for About $1.5 Billion",
+      "url": "https://www.wsj.com/finance/investing/grab-to-buy-majority-stake-in-softbank-backed-atome-for-about-1-5-billion-5d62aad8?siteid=yhoof2&yptr=yahoo",
+      "source": "The Wall Street Journal",
+      "feed": "Yahoo Finance",
+      "category": "Markets",
+      "published": "",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
         "v": 2
       }
     }
