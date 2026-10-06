@@ -1,51 +1,411 @@
 {
   "date": "2026-10-05",
-  "generated_et": "2026-10-05 19:06 EDT",
-  "count": 704,
+  "generated_et": "2026-10-05 22:02 EDT",
+  "count": 756,
   "by_category": {
-    "Economy": 167,
-    "Markets": 402,
-    "Policy": 135
+    "Markets": 446,
+    "Policy": 138,
+    "Economy": 172
   },
   "mood": {
     "overall": {
-      "index": -47,
-      "positive": 60,
-      "negative": 167,
-      "neutral": 186,
-      "relevant": 413,
-      "scored": 704,
-      "total": 704
+      "index": -48,
+      "positive": 62,
+      "negative": 176,
+      "neutral": 194,
+      "relevant": 432,
+      "scored": 756,
+      "total": 756
     },
     "Markets": {
-      "index": -31,
-      "positive": 40,
-      "negative": 76,
-      "neutral": 54,
-      "relevant": 170,
-      "scored": 402,
-      "total": 402
+      "index": -32,
+      "positive": 42,
+      "negative": 82,
+      "neutral": 57,
+      "relevant": 181,
+      "scored": 446,
+      "total": 446
     },
     "Economy": {
-      "index": -64,
+      "index": -65,
       "positive": 18,
-      "negative": 81,
-      "neutral": 40,
-      "relevant": 139,
-      "scored": 167,
-      "total": 167
+      "negative": 84,
+      "neutral": 42,
+      "relevant": 144,
+      "scored": 172,
+      "total": 172
     },
     "Policy": {
       "index": -67,
       "positive": 2,
       "negative": 10,
-      "neutral": 92,
-      "relevant": 104,
-      "scored": 135,
-      "total": 135
+      "neutral": 95,
+      "relevant": 107,
+      "scored": 138,
+      "total": 138
     }
   },
   "items": [
+    {
+      "title": "Trump says MAGA Inc. PAC will pay for controversial TV ads that government funded",
+      "url": "https://www.cnbc.com/2026/10/05/trump-ads-election.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-10-05T21:55:50-04:00",
+      "summary": "The New York Times reported \"Trump personally instructed his budget director to use taxpayer money for TV ads praising him and his presidency.\"",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Ibotta: Premium Valuation Compared To Peers, With Falling EBITDA",
+      "url": "https://seekingalpha.com/article/4952100-ibotta-premium-valuation-compared-to-peers-with-falling-ebitda?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-10-05T21:47:33-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Trump offers U.S. help to Russia after plague death; WHO assesses the situation as low risk",
+      "url": "https://www.cnbc.com/2026/10/06/russia-plague-death-trump-offers-us-help.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-10-05T21:47:32-04:00",
+      "summary": "WHO said it was in contact with Russian authorities, and has offered support if needed, while assessing the risk to the general public as low based on available information.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Tanger: This 3.6% Retail REIT Is Cheaper But Not Yet Cheap Enough",
+      "url": "https://seekingalpha.com/article/4952099-tanger-this-3-6-percent-retail-reit-is-cheaper-but-not-yet-cheap-enough?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-10-05T21:40:47-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Hong Kong quizzes HSBC over Singapore AI hub decision",
+      "url": "https://www.ft.com/content/1a4458ce-6317-4dce-a43e-95e724d7c33f?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "feed": "Financial Times",
+      "category": "Markets",
+      "published": "2026-10-05T21:32:21-04:00",
+      "summary": "Monetary authority strives to bolster Chinese territory’s status as international financial capital",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "GATX: Strong Demand And Utilization But Fairly Valued",
+      "url": "https://seekingalpha.com/article/4952098-gatx-strong-demand-and-utilization-but-fairly-valued?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-10-05T21:14:07-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Trump says Maga Inc will pay for ads instead of taxpayers after backlash",
+      "url": "https://www.ft.com/content/ee7796ef-f6ec-433c-866d-c50f91a25694?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "feed": "Financial Times",
+      "category": "Markets",
+      "published": "2026-10-05T20:54:30-04:00",
+      "summary": "US president reverses course after defending television spots that ran during National Football League games and ‘Saturday Night Live’",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Gentex: Shares Are Cheap Enough To Upgrade, But I Am Wary Of Automotive Woes",
+      "url": "https://seekingalpha.com/article/4952096-gentex-stock-cheap-enough-upgrade-i-am-wary-automotive-woes?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-10-05T20:53:46-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Trump eases red diesel limits in attempt to quell fuel inflation",
+      "url": "https://www.ft.com/content/8a733f73-d506-49ae-9030-2bbf0987bc8d?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "feed": "Financial Times",
+      "category": "Markets",
+      "published": "2026-10-05T20:46:01-04:00",
+      "summary": "US president announces the move during a trip to the agricultural state of Nebraska",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.4,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Nike Bulls, Time To Pull The Plug (Rating Downgrade)",
+      "url": "https://seekingalpha.com/article/4952095-nike-q1-bulls-time-to-pull-the-plug-rating-downgrade?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-10-05T20:43:10-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Lynas Rare Earths Limited (LYSDY) M&A Call Transcript",
+      "url": "https://seekingalpha.com/article/4952081-lynas-rare-earths-limited-lysdy-m-and-a-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-10-05T20:40:24-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "CoStar: An Undervalued Buy, Betting On Niche Of Real Estate Data And Platforms",
+      "url": "https://seekingalpha.com/article/4952094-costar-an-undervalued-buy-betting-on-niche-of-real-estate-data-and-platforms?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-10-05T20:34:30-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Argan: The Valuation Reset Creates A Compelling Entry Point",
+      "url": "https://seekingalpha.com/article/4952093-argan-the-valuation-reset-creates-a-compelling-entry-point?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-10-05T20:23:47-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Tapestry: The Macro Is Becoming A Problem Again",
+      "url": "https://seekingalpha.com/article/4952092-tapestry-the-macro-is-becoming-a-problem-again?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-10-05T20:16:49-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Okta: Time To Sell The Bull Trap - Overly Buoyed Agentic AI Tailwinds",
+      "url": "https://seekingalpha.com/article/4952088-okta-time-to-sell-the-bull-trap-overly-buoyed-agentic-ai-tailwinds?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-10-05T20:08:02-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Prime Big Deal Days starts tomorrow. Here's what we're buying",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNcjR2Wk5Wc2dUYndyd2YxYmtMNGNOOVZ4RzYxVm05bkluRGMtMUtKQVZNbW9DaEc5SlFacTZXUURvRXZmd3hBVUpUMkxEMWFidnlNUGEzc2wwUVhlS1l1eUlkOVF6S05Lcl9aMV85NEVoLU5zNW45WG1oc21MN3NlSnRFTmpURlNoaVJubVVBYzVRWkxuUUtYZFE0MDVISEVmaGVEaDR0eERxVGZybWNPLWVaWjg4b29qSTI2VV82N0k?oc=5",
+      "source": "USA Today",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-10-05T20:05:00-04:00",
+      "summary": "Prime Big Deal Days starts tomorrow. Here's what we're buying USA Today October Prime Day kitchen deals hand-picked by a pro baker: Ninja, Yeti, KitchenAid and more Yahoo Amazon’s October Prime Day deals are here early — I found 81+ worth shopping up to 80% off (live updates) NBC",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Starbucks enters Xinjiang in calculated geopolitical risk",
+      "url": "https://www.cnbc.com/2026/10/06/starbucks-luckin-china-xinjiang-forced-labour-export-trade-.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-10-05T19:41:11-04:00",
+      "summary": "Starbucks struck one of Asia's most closely watched deals last year. Now it is getting headaches over choices made by a partner that leans toward Beijing.",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Polar Capital Technology Trust plc (PLCQF) Shareholder/Analyst Call Transcript",
+      "url": "https://seekingalpha.com/article/4952024-polar-capital-technology-trust-plc-plcqf-shareholder-analyst-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-10-05T19:30:24-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Russian gold floods Hong Kong as Western sanctions redraw bullion trade",
+      "url": "https://www.cnbc.com/2026/10/06/russia-gold-hong-kong-china-western-sanctions.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-10-05T19:14:39-04:00",
+      "summary": "The surge underscores how Russia's gold trade has been rerouted after its invasion of Ukraine in 2022 shut its producers out of major Western markets.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "OFAC ALERT",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE5BWHhnOEFCT0phV1huZXJRVDRMdHZjNTc5ZVhYUjlQRWl5bk44YkVCd0poX0lwLWRQSWhCY2ctYU54ZGMzRlNtUGFSYmFybURDTWhEZDdUU1k5WlEwbll6VmdMOFI?oc=5",
+      "source": "Office of Foreign Assets Control (.gov)",
+      "feed": "US Treasury",
+      "category": "Policy",
+      "published": "2026-10-05T19:12:21-04:00",
+      "summary": "OFAC ALERT Office of Foreign Assets Control (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Monte Rosa Therapeutics, Inc. (GLUE) Discusses GFORCE-1 Phase I Results for NEK7 Molecular Glue Degrader MRT-8102 in Cardiovascular Disease Risk - Slideshow",
+      "url": "https://seekingalpha.com/article/4952091-monte-rosa-therapeutics-inc-glue-discusses-gforceminus-1-phase-i-results-for-nek7-molecular?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-10-05T19:09:04-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Gerresheimer AG 2026 Q2 - Results - Earnings Call Presentation",
+      "url": "https://seekingalpha.com/article/4952090-gerresheimer-ag-2026-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-10-05T19:08:32-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Peoples Bancorp Inc. (PEBO) Capital Bancorp, Inc., - M&A Call - Slideshow",
+      "url": "https://seekingalpha.com/article/4952089-peoples-bancorp-inc-pebo-capital-bancorp-inc-m-and-a-call-slideshow?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-10-05T19:08:05-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "WEG S.A. (WEGZY) Analyst/Investor Day - Slideshow",
+      "url": "https://seekingalpha.com/article/4952087-weg-s-a-wegzy-analyst-investor-day-slideshow?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-10-05T19:05:51-04:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
     {
       "title": "LVR Reports Fewer Homes Selling As Interest Rates Rise",
       "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOOUNXY3BJa19XVjIzMGlyUk1NNFlveWE5M292VFpRaEphdWtPbE5GbHhSZnZHMTd2R0JYbUlYVUxYeWl5MG52alhfeDh3TTlGOUpzNUE2Sml5cVdjeDFLY29pZUgtTGhSbmdndTlQY25fNUUyQ1J6X2paZFJlMHlnc1BuMGdKNGVNSXgwd0lUcC1WY29F?oc=5",
@@ -107,6 +467,36 @@
       }
     },
     {
+      "title": "What exactly are investors looking for in this week's government bond auctions?",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNSDNHTFQ2NlBfLVBfOEp0RkpEWThkN1Q1aUI5WFUxYUJQSHBzMlVoamhUYU1FQ1JlakZ4dVVZakwxeERTbWQyMjhxcGpaR0pqSUtEbUNIcjlMLTZKR2YxNV96ZFg5MER2VGh2UDVTbnNpd2NDWG91cWVvNUZqa3dUc2MxaE16ejJTdk9SWDdUTGpVOUxEd0J0Wk0yOXBjb0Rm?oc=5",
+      "source": "marketplace.org",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-10-05T18:53:41-04:00",
+      "summary": "What exactly are investors looking for in this week's government bond auctions? marketplace.org",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Why is the U.S. dollar at its strongest in 18 months?",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQUVVtRUc5X3BtYUxWNFNqcHB4Z3NMalQtQ0dIanFoYU80UE1PaUt0SUR3SkN4bmxvWU1JTEl1UWx5QTh4NEVKaDlQMXlULXZVSFRTUnVIajRJV1JhVW9vSVdNcW5MUWN0OUNva1NrVllHbHh0RU9JSzAyc0EzeXVmT1IzQkc2b2NSR1ZhTnBfUnp1dUFDMi0zQWxrMA?oc=5",
+      "source": "marketplace.org",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-10-05T18:53:01-04:00",
+      "summary": "Why is the U.S. dollar at its strongest in 18 months? marketplace.org",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Over 122K cases of Gatorade recalled due to undeclared food dyes, FDA says - ABC News",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPNnpyMUxSRVkyX3loSDB0N0VhTWFZbFVEczI3T2taLWNVci1ySFo5dWEtQ3RGZFFKODhudmVTSkV5WUt4Z1FZRFlXcV93cjEySE5ya3FaMDNDNXZWUFhxZ0k4b3QxZTA4ZlZEYTRIdTdEZjhsTVZnSFdfUjRfY0hIc1hoMXY4SFVsUG1VTEFkZUk2REFKX281ZjR3cnpmdi1jYnRR0gGoAUFVX3lxTE9XaFl6TDdra3FTY012dHZqYlpBTDBiVzgzNlNZZkE5ZDN3Zko3YlFNdkRmVE91TlNHdHB1WnFkTHhjRjdiaUNtUUdsYXdqSGdVUHJOdE1BNHUwOGl5ZXpNRHVFMmxhXzFIbV9YdWtJd1dYT0ZSVFBCeXVGYmVvNHB4Sy1kbmk1X1Z6MHpNem9jMTVUQzRBeHF6V1lYN1hhZlhOelJ6R0tlMA?oc=5",
       "source": "ABC News - Breaking News, Latest News and Videos",
@@ -137,6 +527,36 @@
       }
     },
     {
+      "title": "US Treasury yields scale multi-year highs as inflation fears return",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONjZPRWFiX1E5NDNzVGg4ZGRLSDFxUnpRbmdWYUNBYWFoRkpQT3BwcmI1Q1JhUU8xSV9rMExMRGF3aU5xNV9VSVctLWVLY042ODdLTUo0WEQzZUhISmVJMl9ETnVZUmxTQmh1S0ljT2ZaSW9IUlRTUnFXM1NlZVJyVFdWWEJaeHRRUHJQWE9ZRDl6dzA4eWl4S2hNZ1lXclFKX0tlNldXaS1xZXhKejhF?oc=5",
+      "source": "FXStreet",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-10-05T18:31:29-04:00",
+      "summary": "US Treasury yields scale multi-year highs as inflation fears return FXStreet",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Jobs report shows US unexpectedly lost jobs in February",
+      "url": "https://news.google.com/rss/articles/CBMizgdBVV95cUxQclMzZVFJY1JHLVRQM0xfQktFTERjTEpaZ0pWMlRCRDlxckNMZXJCNzdUM1E4X0h0dy1VOHoxUmJQaTZZNWktTjZwOFFrM3lQb05xcDE0RW1RMGx0OFkwcV9DNG9pRzN0MUtNUmREX3VQNzgtOUp6VU53b3MySHc5TElDOVhBUWIyMlY5bkpTMFhwNEgzNWFTcU9RSHJLaXVkOGxFa1NWTWdsMEhUbVJ3QXRuZ0JNM3dSai1VbXZLc0NBYkNWVzd0SWpnMkFDSmRONG51Y3dlbmdoTzZWM0ZFc3JhM1pKWHAxckNkMmlUYTBWYkRaVHpjbFRDWURWRFZ2TlNQREl5bEQtNjJLWEpxN0RZUG9kQy13Y0xxSDloUWtyalFXQUJtMURlb0VGLTRZbGhrd2lndV96OXlaNk1hVGVaRnhBQ1lTZkw3Vk0tUW5tSGFJVlk4c0NFZ1h2S3VvMk1SVmtscU1FM19ReG9neWFCNDF6UFRqTzdLTml1VTM5UGFpZmcxNEFFQnROcGdBRUI1d3RENThyaGVwSXR6S2gzRnphY1hpSkNCTG1kU0llbllaM0xSVHJ4ZFc5bEZoQ2ptR003dk14UHVXSlBfeHo3dUxuMVhCaUxjZWEwNm8zeEliMGJIX01pMVZ1b1o0bkN5bWlvaHVTZVhzWFU0RkM2R2dUYS1MUWFjY1h2SEt6dF9waGdDOXNXTTkzQk9ZT1RuZHJ3RDBlTEhQQ0hqMHdpNmt6WnZLWHd1Vll4NjhBSkZnR2lKQzR3Y0VnTHdiQzBROWxaZ0FjN0FCQjJUX2hodHdXRFdQM28xZjJFQmRoRVlKUHZabDdrUlBhaXFjRURhaTVXZWZzMUhCVkhQNUtKa3lxeXVfRlFET2JjczZzNHEzUmtzOHZ1YlgzSXg2d0pYQzJKSF8xNm9ERnVmVWE2NFlSX2d3QlVZOTA5OF9qNGFlUUxhMG1fR0hLeTU3TmRUanRLNG9rRU9ENHg4eHdyd0Q3RUVsbVExTEdEeU5fQjlYbGxaM3lrQU9jT21zZDdsQWRBLUlpcWh6Z3NHYi05Z3FIdkRaSFhHQ2pxSGR1UXR1ZHczTzdPN3FUNnk3bXFzS21jZVZabUw0Z19EOFJEZUJNUWl1b3k1QWxZUzJDMmkzMV82UXFHSDZCSUtseExDMnRJenFQd2kxYUNYQ0lXTm9JbElJeVkybU1ManJtdFBRWkNXeUZSOTZhVGhEQ0VnejBjZno4emU3ZEpnOTAwQ3dtaGtjaFdQSDRONXJraS11c1I4aWl4S0JfQQ?oc=5",
+      "source": "ABC7 Los Angeles",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-10-05T18:22:18-04:00",
+      "summary": "Jobs report shows US unexpectedly lost jobs in February ABC7 Los Angeles",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.8,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Trump says US pulled bombers from UK after ‘threats’",
       "url": "https://www.ft.com/content/6e57c480-39d9-4b4d-946a-092387cee493?syn-25a6b1a6=1",
       "source": "Financial Times",
@@ -152,6 +572,21 @@
       }
     },
     {
+      "title": "Crew call-outs cause major disruptions to state ferry service, 72% not in operation",
+      "url": "https://news.google.com/rss/articles/CBMipwJBVV95cUxNNVBua0NYSDlEcVpYNHBJamZfUjZsbmZCdGt1YjBTZTNhMUdWT2w5NmNOYXZSSy01Y3NLbE40UVhRSXhtelh3OHJVT3Rkem1CLXJZTS1tV0V0Y3JJVWZPYThVM0ktVnJBYU10TDRQelI2LUUwVzk5UHFPWFhCRHd1RWZBNGVuMEc2aXhrYll1ekVTTXNrZ2RVczRPa2tqQ0ZtVHEydnAwN2pZa3NuTThyOFFmUjdDTmZXM2pxZjMxVktid1pMR0tmVXphZk41OEY0VXF2TFhwUWZVVFpBYy05UjRMbXlBeG1tMFJCR3J4bnZVaEoyaHFDRC1seHlObEFKcDZCTXhtaGVGMjE4VUJFUnB1VC0tamw2NHpEbEFvRkFrMjFPOGdR?oc=5",
+      "source": "KOMO",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-10-05T18:18:45-04:00",
+      "summary": "Crew call-outs cause major disruptions to state ferry service, 72% not in operation KOMO Engine room 'sick-out' over wages causes major Washington State Ferries cancellations, disruptions KING5.com ‘Not the way to address those issues’: Ferguson expects ferry service to resume to",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Stocks are hitting records despite surging yields. Cramer explains why",
       "url": "https://www.cnbc.com/2026/10/05/cramer-ai-stocks-treasury-yields.html",
       "source": "CNBC Top News",
@@ -162,6 +597,21 @@
       "sentiment": {
         "label": "positive",
         "score": 0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "FinCEN Reverses Course on Cryptocurrency Mixing",
+      "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBVazdFZEd1dUtYY1lQU3JoUjdYSmFkd0IyNmFrd3JHcE5WVl92OS1jLXFaWWI0eHBSWUc3UjgyTGRqNl9oSFlCU2RVZV8xbmlEVzhiNC1VZ3pOd1c4dzBBOXhBVWRnSWQ5OWVlTE5TQUpsbkFJSFY4TVBCck1HMmM?oc=5",
+      "source": "ACAMS",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-10-05T18:07:30-04:00",
+      "summary": "FinCEN Reverses Course on Cryptocurrency Mixing ACAMS FinCEN Kills Proposed Crypto Rules After Commenters Warn of Chilling Effect PYMNTS.com Bitcoin Holds Above $85,000 As Treasury Drops Wallet Reporting Plan, CFTC Proposes Crypto Rules TradingView US regulator withdraws digital ",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
         "relevant": true,
         "v": 2
       }
@@ -207,6 +657,21 @@
       "sentiment": {
         "label": "positive",
         "score": 0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Nokia CEO says data centers would be built '2x faster' without supply constraints",
+      "url": "https://www.cnbc.com/2026/10/05/nokia-ai-data-center-buildout.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-10-05T18:00:01-04:00",
+      "summary": "The Nokia CEO's comments underscores continued demand for AI even as top executives debate slowing down the pace of development.",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
         "relevant": true,
         "v": 2
       }
@@ -377,6 +842,21 @@
       }
     },
     {
+      "title": "New York declares first US measles disaster emergency since 2025 surge",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTF9Lb3Q1aHczRXRwVDlSaVFxUk5LUWFWb2t2RXlVd0hrUHNjdVg0RDRtXzRvbGQ0bUJ4LTAteHdBVE9JZXppTXU0TTg1NTFidHdsby0tS0luVVFsU2J6WlE5N3AtLVp6YkRSQmotXzUxNnZYaXpBYnotVnJyTExKSzlwN2JNSjB2UGx6RTZHZm9mazR4MllfRHNSaG1IVmN3UHZ4Y1JpYzFUdWYwZm1fRWh6V01MY216R2QzLWRuTThxMlJNNW8xOXN3?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-10-05T17:20:46-04:00",
+      "summary": "New York declares first US measles disaster emergency since 2025 surge Reuters",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.3,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Madison Air Group: A Solid Performance, But Questions Around A Recent Deal",
       "url": "https://seekingalpha.com/article/4952074-madison-air-group-a-solid-performance-but-questions-around-a-recent-deal?source=feed_all_articles",
       "source": "Seeking Alpha",
@@ -448,6 +928,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Metro says proposed 11% fare hike is due to inflation",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTktiMXlTYk5QV01IV2RSV0hHdEVQSG9oQlJ0ZE5IS1VzTkZSaXBBZU9vWm1GOXdrTWV5RmU1aUUxdWpVeWY1RkpUam51bzdUZDRkZDRTYmowODNsckdoRGVYclNHb0xkalRZLTVJajBiTFhQQmE3eUpTSFZEcVR4ZVdycUlXV2xFbm1mSWVmRTZyQ1BxY0dPQVBLY2NHSkRja05oQmVPLUtCb203WHNXNFhTd1ZEZFVjNHVjNklVVF_SAcgBQVVfeXFMTTg2QVB4RFdqSHBESV9EVlNXS3dWUERPb2xkdmRVY3J6TkdCZ2c3cWVLRVA2VENBakVXUkpvNXBXVHFvUUU3V25NUDlnS0pCd0wzTUlTUjJfZ3RfUjAzZ2hCb3BLTUd0WkRPcXJTSFN3MDg1aWQzSkFPbzAzd3BOemc3SzZNVUprTmhsM0hiaENESmZKbDJtZTRIUllROUN2T0czTUdYSGpMNVF5TWdlQzJudHJNUHo2WFZFYzVzbXVaNjZfeTFUQzU?oc=5",
+      "source": "NBC4 Washington",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-10-05T17:05:38-04:00",
+      "summary": "Metro says proposed 11% fare hike is due to inflation NBC4 Washington",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
         "v": 2
       }
     },
@@ -542,6 +1037,21 @@
       }
     },
     {
+      "title": "A lawsuit accuses Starbucks of mislabeling 8 ‘sugar-free’ protein drinks",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNbWNXclluSExZSzNyQ3J2b0c2ZVpCbWRQbXZyZXlVal9MMFRUWEdkS0tteWkxZFV5RlZ0M1NkVjUzVWRVc2pEelRZSGVTajE1XzdkOThqajFTNW1zdTlJX2llT0Y1ekJpNVR4RjliaVNjeGl3OXVHSTlhZTh0RW5Mbms3VTBmaG1VVE1xdVp6YjNEQTFHYXZaT1FrcjNKMFl1bl9rYXc5WU10enBpQ2hoRlZR?oc=5",
+      "source": "AP News",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-10-05T16:51:00-04:00",
+      "summary": "A lawsuit accuses Starbucks of mislabeling 8 ‘sugar-free’ protein drinks AP News Starbucks Accused of Mislabeling ‘Sugar-Free’ Protein Drinks in Lawsuit WSJ Starbucks sued over 'sugar-free' claims for protein beverages Reuters Starbucks sued over ‘sugar-free’ claims for protein b",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "ODOT approves $7.3 billion construction plan, says inflation impacting projects",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxONGhuTWt1LXNFVG5vMW9xS2lNVVRVcnlBV3ROekJRRFZNeHV0cWE0UUJSOVhjWVV4d3QwVmRpdXY0SHJOcnVVc3d3MDFjTDdJWUlwZlFyQ2gwZlVhN04wS0F0UWdCcUFwazVuUEh4SzR4RFNSOWdZRkE4VFV6UEFGSndOT0UzeUhtNDRoUA?oc=5",
       "source": "News 9",
@@ -552,6 +1062,21 @@
       "sentiment": {
         "label": "negative",
         "score": -0.4,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNzh6QmJXNjRpWG45dDUtWnlqb3V6N1BURTNKT0JHamVTOF9oX1FBMTZ6dHBWb19oa0d0UlhrbnN3OG9NVV81ZmIyUVZaYTItQzdzNEttaVVYRjkwaFBMdDdwa0hQOHJLaVF1UDNuaU9ZRUZtUGQ1amNvc0MtNnlIaFNlWmFPSDcyWWhBVjJxWkNXd0VrWTFBV3NpTTlWUVA3eF9Kalh3cHgwUV93WDM2MU1VX2I?oc=5",
+      "source": "Ars Technica",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-10-05T16:47:48-04:00",
+      "summary": "Cable lobby to sue Trump FCC over repeal of national TV ownership cap Ars Technica This Week in Regulation for Broadcasters: September 28, 2026 to October 2, 2026 Broadcast Law Blog Trusty: The Media Marketplace Has Changed, But FCC Rules Haven’t Radio & Television Business Repor",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
         "relevant": true,
         "v": 2
       }
@@ -598,6 +1123,21 @@
         "label": "positive",
         "score": 0.7,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Lucid (LCID) Q3 deliveries drop 7% as it slashes production by 38%",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1YamhYa3BySzBDc1hUOFNKSHBZZ0h2b3hNazRRdU1LSFJ5Wk9fOU5kdXhTVFhiSWttaEdJX3RvMXNhczJmUTIwbDhuT2NCT2ppZmNnWWxLemRYMUJ0T1VMSkFBcjA3NnY5VllnOWR5N01jczNiaGdJR0VpcEk?oc=5",
+      "source": "Electrek",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-10-05T16:41:00-04:00",
+      "summary": "Lucid (LCID) Q3 deliveries drop 7% as it slashes production by 38% Electrek Lucid's Q3 deliveries fall 6.7% as EV maker cuts production to align with demand CNBC Lucid Motors’ EV output falls to lowest level in almost 2 years TechCrunch Lucid’s Cost-Cut Plan Leads to Pullback in ",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": false,
         "v": 2
       }
     },
@@ -1187,6 +1727,21 @@
       }
     },
     {
+      "title": "AstraZeneca CEO says Summit drug could drive next generation of cancer combinations after $2 billion investment",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNbERpRUxYR2Vkb3cwSXlwT0s4YlhpNkVRNUIxc3lRZWpyUThOejNvd090YXpLS0NBdkZwbmlhT19IRWMtYlpGUjROT1pIYS1GZ2o3UDcxMWo3SkZTWm1vbEc2WWNodi1tNjNXSzd1RWVGVW9jVkIyT1lBdGxrRzFMN2JJVDEycjFMSTYzbnkyVGRRaFZjazItdEU5RnpiU2VpbWV0N9IBqgFBVV95cUxNelpIX1ZIb0liODNQVjhlbHkwR0xfRFFQV1NHbk9ST2ZnaG1VaGVXcFJMZmIzTE1falFKUy03eHppSElrV1ZrZU5xY3VISzhncnBVWDEwLTUyLVhrVWJzeHhGSVBGSzRLa2FRekpHUVJsYV9RZmJHWFlWOXN2b3BUZy1hZGFueUdJVjJvMnVHa1hLQzlDeVVRc1o3dWhZdHh6SWphWWdDQmVyQQ?oc=5",
+      "source": "CNBC",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-10-05T15:44:30-04:00",
+      "summary": "AstraZeneca CEO says Summit drug could drive next generation of cancer combinations after $2 billion investment CNBC AstraZeneca, Daiichi Sankyo partner with Summit to test cancer drug combination Reuters AstraZeneca completes equity investment in Summit Therapeutics AstraZeneca ",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Using PLTY Instead Of Betting On Palantir In The Run-Up To Earnings",
       "url": "https://seekingalpha.com/article/4952053-using-plty-instead-of-betting-on-palantir-in-the-run-up-to-earnings?source=feed_all_articles",
       "source": "Seeking Alpha",
@@ -1307,6 +1862,21 @@
       }
     },
     {
+      "title": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSDZGMTF6bG9MakF5andodEYydVRONTZqckdURmpncmI1YzBzVmNBcXdoSDRrM3JmQ1dMWWlKbXZhV3lUcEtxSkRLdFNTYm4wNV9FeWdUUThQVGFpbUpiN05Bdms2cVh2NEI1N05FaWk5SkxNUEFvM0I1MVBmc3hFalJhcHJaMHpPejgxSS1fWTVQc3dRMTBWSlFjN3czNmJrLXlfTDYtbDJrN1A4UkQ3XzlNaXhDMWU3UE5nNVZ1dHRKUFlL?oc=5",
+      "source": "TechCrunch",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-10-05T15:33:53-04:00",
+      "summary": "Reflection debuts Beam, an open-weight AI model to rival Chinese models at lower compute cost TechCrunch Nvidia-backed Reflection unveils first AI model to take on Chinese open models Reuters OpenAI and Anthropic Have a New Threat to Worry About—and It Isn’t China Gizmodo Scoop: ",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "The bond market sell-off is helping the dollar",
       "url": "https://www.economist.com/finance-and-economics/2026/10/05/the-bond-market-sell-off-is-helping-the-dollar",
       "source": "The Economist",
@@ -1378,6 +1948,21 @@
         "label": "positive",
         "score": 0.6,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Georgia Power says hackers accessed information from about 400,000 customer accounts - WSB-TV",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOR2Vtd3g5WTJnVlpucTZDRVFfd25ZNjd3VzloM2w4SnlYMzl5cV9OVW54M1h6MzNGcjhKRW1FQlVGdnR5ajdaN0EwRngySDItWGF5Z1R6N0FCT3p4clhmZERhUUE1U0pFWVMxaFc3MG1Mb3lWS0FOc1JrUXdWQUhOcWpaR0VsNUFsQ2Y3RnU1WlRhYzRKTnRPQ3ZXVXdCd1E1SEtMc3FFNTZBbTFqdHAwLVJFdjZmWW1VSmdXemdPLUhwZ9IB1gFBVV95cUxQYlVlWHBQcXJlQ01iMlROckRuYlUta1FLa0RHeUxEQWswenhoMjA5S1RYekxJNU80WldBN29JVWNWWUFtT3NOb0pPeFFVeVJ6LVR3V1lTZjlTQTctY2tOZG44N3JDLUNlSUxoZTNMRFREQzlQRy12VjJMMlA2NE5QWXhqRmVFVUxqY0xLdnRiWlc0T05RUjR1WTdaRklDTFNERnNreURrcktPMlowWGJsNmFYU2x2SEtXVUdmZk5GdURBSG9MRV9wa2N4dWNOenR1SGxiX293?oc=5",
+      "source": "WSB-TV",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-10-05T15:25:05-04:00",
+      "summary": "Georgia Power says hackers accessed information from about 400,000 customer accounts WSB-TV Potential data breach possibly affected as many as 100,000 Alabama Power customers AL.com Georgia Power customer portal hacked, company says WSAV-TV Georgia Power customer data may have be",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.3,
+        "relevant": false,
         "v": 2
       }
     },
@@ -1742,6 +2327,21 @@
       }
     },
     {
+      "title": "High Yields Force Muni Bond Borrowers to Delay Refinancing Deals",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQaVBsWU9Yc2N0Q1RjM2o0TlRYeUJUY3VrMl9UNEtlcTFfMTVWR0Zhd0pKZTVJb0J3R1pXcDVOUmYxS0Fld1NNM1UzeUFRdDZhUjJIRjNxN1RxN2ZkZ0pXMXJ1ZG9TUzdYa25Bdi0zSEd0T1hINUNHemVPOUM5R3Jjd1lZNm9KY09meWhOaFdEV01SdF9rLXZBQjE0c3JwZjlLUHpyeGlYZ0QwdmMyb2p5d0N4c0dyUQ?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-10-05T14:35:37-04:00",
+      "summary": "High Yields Force Muni Bond Borrowers to Delay Refinancing Deals Bloomberg.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Cerebras Stock Rebounds After Getting an OpenAI Boost",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPNTlLWmhMM1dxUUFkbHRfWUxuWTJ2TnN5dlpLTkhqeWI1c3NHMlpuMGlMSVhxVXBSS2h6MjV6UDFLcDZLWFpKT1JzakdzYlBEcENrQ2F0WFhfaHRvTjFlYjBFdkVNUktaTHFxVFdYNVYxeklOSTF5ZllHd0g5VklQYUp3?oc=5",
       "source": "Barron's",
@@ -1937,6 +2537,21 @@
       }
     },
     {
+      "title": "Sam Altman says Elon Musk is a ‘bully’ who only respects people who punch him back",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOeXRDMVd3Tno1MEhHWFVPMFpJQTJFNVhzdldKV0dfYTBGNkNvTWZKSzBBUTBIcUJfRXRza0dLZl9EUXdCeFFudF9nMFIzZk9LUWxhUmluWFZrbFJVNFlpQUs3SzhYLVZYZXdqdGxWX1dvb1dEcmZfa0c0QnFQdGo1TVFrLXBQNnlocENF?oc=5",
+      "source": "Business Insider",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-10-05T14:09:00-04:00",
+      "summary": "Sam Altman says Elon Musk is a ‘bully’ who only respects people who punch him back Business Insider Sam Altman to Decoded: ‘The world should accept some bad things happening’ for the benefits of AI Politico Accept ‘bad things’ in return for benefits of AI, says Sam Altman The Gua",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Federal Reserve interest rate decision looms as inflation worries persist",
       "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4ZVZIQnAyNXMtT1dBejBuSXRIOEVmQ015cHRtYjBlSnlFSHNaMTdnTWtGbHBnOGhvMkZJNXp0ZU9wdUZFc21xXzkzb3hOUXJOWG1KOHkxV01Jd2c?oc=5",
       "source": "Fox Business",
@@ -2052,6 +2667,21 @@
       "sentiment": {
         "label": "negative",
         "score": -0.3,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "13+ deals actually worth shopping during the Walmart Deals event",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQR28zVDZFZ2wtV0NwOERJTjhCYUJ6SGpsbHNQaF9QeXFXY0t6SGg2WkROc2FsVGR0LS16U2ItSzNoT3NtdGNvekEwblluYldoLVdCYklDd2RpRXdNLTR5dHI5WGxITVJJVHBLMXVzV0RxU3VfVnpaVDhFSTEyQlRlTHVROA?oc=5",
+      "source": "NBC News",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-10-05T13:47:58-04:00",
+      "summary": "13+ deals actually worth shopping during the Walmart Deals event NBC News Best of Walmart Deals: Up to 80% Off Michael Kors Bags, Luggage Sets, More TODAY.com The 13 Best Deals from Walmart’s Fall Sales Event The New York Times Walmart Deals just dropped. Here are my favorite fin",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
         "relevant": false,
         "v": 2
       }
@@ -2447,6 +3077,21 @@
       }
     },
     {
+      "title": "Ex-Anthropic Researcher Testifies at NYC Council AI Hearing",
+      "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRTA3OUNCV3JxZTM0NnZBdkJEUzhVN3cxOHhQX2owUVc2Y2lFcXZsZFdMbGtGX0dYWEc1Z2ZPN3FQb0F6X0pRZE9xNDBZdDhJMVhDMEY1cm9XQzJzeHhUS3Q5c3k0aC1penE1UC1LTHJRZWY2VnFIaXpVZEVIakxnZkxsR0U0WE8zbWdTNVhlalhXQmJiSUJRNHNuaEFiV19NZFhxSExZZW9mWWIyN2x2QUhsYlFXUGNmNHh2N0N4MA?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-10-05T12:46:47-04:00",
+      "summary": "Ex-Anthropic Researcher Testifies at NYC Council AI Hearing Bloomberg.com AI researcher warns 'we are racing to build and grow our own adversary' in NYC hearing CNBC Guess who showed up at the mayor’s rally Politico Tech workers who resigned tell New York City Council that AI is ",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "China shuts hundreds of banks as Beijing moves to shore up its financial system",
       "url": "https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html",
       "source": "CNBC Top News",
@@ -2683,6 +3328,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Bloomberg Businessweek - Bloomberg",
+      "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9rZzA3NW15dWxmZzV5aFBXWGtHVWNPa2w1Uzd5MXBHZkRMTDV1aEIyMFI1c1lXdTF2MVNfaFRVbVFPTDdOM2dKV3JvLWNKdE0?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-10-05T11:56:18-04:00",
+      "summary": "Bloomberg Businessweek - Bloomberg Bloomberg.com",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
         "v": 2
       }
     },
@@ -3002,6 +3662,21 @@
       }
     },
     {
+      "title": "David Ellison sticks with Mark Thompson as CNN boss amid Trump attacks",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOSkJlbmdRQlVuMWRnQkR3Z1ZWNlRDX0duaHRDdFZCLVlQQUs0eVUxRDBBOTVoa20yUFhmdUc1bTJULS0yNXZqX1dqcFNrSEhrcnRKdVRTMlUyNkUySXQyc191R2ZIelZ2ZThhQks1T3FqVk5Ra1NMdFVpX3F5NFl3d3NHeDc?oc=5",
+      "source": "Financial Times",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-10-05T10:31:06-04:00",
+      "summary": "David Ellison sticks with Mark Thompson as CNN boss amid Trump attacks Financial Times Mark Thompson to remain CNN chairman as Ellisons take control of Warner Bros. Discovery CNN Ellison retains Thompson as CNN chief, unveils Skydance leadership team Reuters CNN’s leader will sta",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Trump reiterates pledge to send $5,000 checks, and hands out smaller payments, as midterm elections loom",
       "url": "https://www.cnbc.com/2026/10/04/trump-5000-checks-cash-payments-midterms.html",
       "source": "CNBC Top News",
@@ -3197,6 +3872,21 @@
       }
     },
     {
+      "title": "California Prepares to Ban Quartz Countertop Production",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQTV0aXFoTUhJMWFrVVhDRVVEc21SSjVPNnJZelVRYnlPNGZVX1lCdF9CYkVxOFZOR0NJREtXYjBwOHA0V3pyWVQ4YjBPdGxQYi1TSktSM25CZVdxb2NuMTJQbFdOcy1VeTRJbkM3ak1sZ3g5bE5qVzNqakpPamFhWG1VZVc?oc=5",
+      "source": "The New York Times",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-10-05T09:57:39-04:00",
+      "summary": "California Prepares to Ban Quartz Countertop Production The New York Times Bloomberg's Big Take Podcast Spotlights Growing Artificial Stone Silicosis Crisis Morningstar ISFA Opposes CA Effort to Ban Artificial Stone Fabrication Kitchen & Bath Design News EXCLUSIVE: stone ban stil",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Nvidia's $6 trillion milestone looms. Here's when options traders see it happening",
       "url": "https://www.cnbc.com/2026/10/05/nvidias-6-trillion-milestone-looms-heres-when-options-traders-see-it-happening.html",
       "source": "CNBC Top News",
@@ -3287,6 +3977,21 @@
       }
     },
     {
+      "title": "South Africa Gasoline Prices Head to Record High After Oil Shock",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQa0ctX3JLdVhuSE8zcnZCWm1EMENXNmNrQzJPSHVSQWMxbDc5NDRqanpFUDQxR29FbkRpWkZfaXk0VEplaEV4eldvSzJJUHNZWk5xcENsTThUUlJzQzZDRDlmMC03M3lUUXVMa3pIaWJUSGxpR0QxOE5pWjVEVlJRSXoyLWZaNWhwa3RJdVdVSEJhMElZM21MR190U1BhcXp1SmhYdjlmMlR4aWtaY3lSM0I1N1ZvZw?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-10-05T09:16:49-04:00",
+      "summary": "South Africa Gasoline Prices Head to Record High After Oil Shock Bloomberg.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "GE HealthCare to buy Sofie Biosciences for $945 million to strengthen radiopharma business",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOOVBLWFpqcFRYNkNxV3A3cVU1aUhFdFNwX2VMbXVXZV9XanZxc20ycWpYS2Qyc004UDFHRGJkQlpsZExWV055TUpmREpXMGl0LVh4aS1Lci1HTTZjSG5SbDQzSVhBdXhKTzZ2MU4xejByTHpWZkx6ZGZycVd4V0I2SzlqQlZKWVJMSzVHVVJSdlVJZ1VhQUxsYVJLVGFfeUlxU2VTOEpESUNRTEZtTGtYSDJ5cnRQdVB3aHFWWUE4QmRHTXpvWnRlNHJiZUpJQ2Q0?oc=5",
       "source": "Reuters",
@@ -3342,6 +4047,21 @@
       "sentiment": {
         "label": "positive",
         "score": 0.4,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Why GE HealthCare’s $945 Million Sofie Biosciences Deal Makes Sense",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYVNqT2dKclhmMmFhT1RuNHlsV2s1a1o1SXhvai1wVGd5VXNGOTlGWEhwYmZkeXZIc2NSZ2g2U0tpWjlHQnUxZnh2S1dpSVdfY05SR1JkZVFTai1EcmtsdlBWZEFKeDNXeUpHQ0dJT0FfRURvM3FwUmxBMkVFRTNhWHM0VE5hUEh5ZHhmUg?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-10-05T08:38:00-04:00",
+      "summary": "Why GE HealthCare’s $945 Million Sofie Biosciences Deal Makes Sense Barron's",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
         "relevant": false,
         "v": 2
       }
@@ -3613,6 +4333,21 @@
         "label": "negative",
         "score": -0.7,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "AI Can Now Prescribe Acne Drugs in this US State",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQYUVCUHV4eFFJRGVSLWZmMWpMUUtLRXdoMF9fSl9hSTNxck9MZXFRWjk3ajZ1cmdXc0l1SmtBdDRUTXU3Ums5TDlYOEtFVVJfOVVBQWpGeklxYTgtQjcwcDVXVTNOa0t4ZWhtZzcyT2tjZnRmMVRTV0xGNHZKSmh4TFIxVkhJQ0tGd0xMcXROWlRvSHNFS1BiVE41RllwanlkY191U3ZQWlVlSXJFbU5TVHAxOWFlbjI1Y2pr?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-10-05T07:00:05-04:00",
+      "summary": "AI Can Now Prescribe Acne Drugs in this US State Bloomberg.com Utah plows ahead with more health AI pilots for prescriptions, women’s health STAT AI replaces a prescribing doctor for the first time — to zap zits The Seattle Times Utah Approved the First Autonomous Prescription Sy",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
         "v": 2
       }
     },
@@ -4798,6 +5533,21 @@
         "label": "negative",
         "score": -0.5,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Frozen berries recalled at Trader Joe’s and Walmart amid E. coli outbreak",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPT0syMWhmLTRWejl4VkVEdENjWXBJb09EZGZVclRTVDRGT3NPbVhWN1Y3eFpYRW0xUXNhRTRrS3BxeVN2QWN0UGFvdmpaMC1zV09LbTB5alZDTnVBRFRxT1JsenczZjFmUFFJeEZUUUU4OGYtSWlLcWNaUUVIQUJycUFwUjJDS3M0ZUNYS3hrVUNDaGlfLXVZeVVsMW9YRWo1OWVR?oc=5",
+      "source": "The Independent",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-10-04T17:18:00-04:00",
+      "summary": "Frozen berries recalled at Trader Joe’s and Walmart amid E. coli outbreak The Independent Walmart, Trader Joe’s frozen berries added to expanded recall due to E. coli Scripps News Check your freezer: Frozen berries sold in dozens of states recalled over possible E. coli concerns ",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": false,
         "v": 2
       }
     },
@@ -9377,6 +10127,21 @@
       }
     },
     {
+      "title": "Wilmington, DE-MD-NJ Economy at a Glance",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9icHczMFlBVjVMYUhKSlpDQXQ4eHdiZmh5Tk93bW5ZTURhUUVZbHhiQXB3T1Y2NzFzREFhelBfT1MtZWxIcV82Z002Nl9Da2pNSjlGNXRtMkxOLTJL?oc=5",
+      "source": "Bureau of Labor Statistics (.gov)",
+      "feed": "BLS",
+      "category": "Policy",
+      "published": "2016-12-16T08:21:23-05:00",
+      "summary": "Wilmington, DE-MD-NJ Economy at a Glance Bureau of Labor Statistics (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Consumer Price Index, Minneapolis-St. Paul-Bloomington area – July 2026",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQZVFKNVBBZUYxQ19fQzBGMGdHOWFUUF9ScDExQ3BfdXQ4Y1FycnJfSF92VnNjQmVpSUNiWFN0aWdmc1k2bkJaMFF0ekZSdzdsRnc1TGF0Szl0V0xNNElvVVdWSjVzbU9BQzBuQWZ3Wi0tOVBCRWVORHM5YmlEVU5WM1M0bXpIaXJ0NlVV?oc=5",
       "source": "Bureau of Labor Statistics (.gov)",
@@ -9594,6 +10359,21 @@
       "category": "Policy",
       "published": "2016-12-13T19:06:39-05:00",
       "summary": "Metropolitan Area Employment and Unemployment (Monthly) Bureau of Labor Statistics (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Connecticut Economy at a Glance",
+      "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE9KUDlfdG51QkJSLTFvMW04czB5MkY1V2p0VFlBTkZmVGhHbVM4Q0Y3WEl2ZHI0c3lFU0xZMUVlZldLSzl3TlNWdEJ3?oc=5",
+      "source": "Bureau of Labor Statistics (.gov)",
+      "feed": "BLS",
+      "category": "Policy",
+      "published": "2016-12-12T05:50:29-05:00",
+      "summary": "Connecticut Economy at a Glance Bureau of Labor Statistics (.gov)",
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
