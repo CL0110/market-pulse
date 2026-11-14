@@ -1,51 +1,951 @@
 {
   "date": "2026-11-13",
-  "generated_et": "2026-11-13 17:28 EST",
-  "count": 694,
+  "generated_et": "2026-11-13 20:57 EST",
+  "count": 789,
   "by_category": {
-    "Economy": 171,
-    "Markets": 399,
-    "Policy": 124
+    "Markets": 481,
+    "Economy": 181,
+    "Policy": 127
   },
   "mood": {
     "overall": {
-      "index": -41,
-      "positive": 59,
-      "negative": 141,
-      "neutral": 167,
-      "relevant": 367,
-      "scored": 694,
-      "total": 694
+      "index": -44,
+      "positive": 62,
+      "negative": 158,
+      "neutral": 177,
+      "relevant": 397,
+      "scored": 789,
+      "total": 789
     },
     "Markets": {
-      "index": -36,
-      "positive": 35,
-      "negative": 74,
-      "neutral": 50,
-      "relevant": 159,
-      "scored": 399,
-      "total": 399
+      "index": -38,
+      "positive": 38,
+      "negative": 84,
+      "neutral": 57,
+      "relevant": 179,
+      "scored": 481,
+      "total": 481
     },
     "Economy": {
-      "index": -51,
+      "index": -54,
       "positive": 22,
-      "negative": 67,
-      "neutral": 48,
-      "relevant": 137,
-      "scored": 171,
-      "total": 171
+      "negative": 74,
+      "neutral": 50,
+      "relevant": 146,
+      "scored": 181,
+      "total": 181
     },
     "Policy": {
       "index": 100,
       "positive": 2,
       "negative": 0,
-      "neutral": 69,
-      "relevant": 71,
-      "scored": 124,
-      "total": 124
+      "neutral": 70,
+      "relevant": 72,
+      "scored": 127,
+      "total": 127
     }
   },
   "items": [
+    {
+      "title": "FAA lifts ground stop after four hours, but flight cancellations will stretch into the weekend",
+      "url": "https://www.cnbc.com/2026/11/13/faa-ground-stop.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-11-13T20:54:38-05:00",
+      "summary": "The Federal Aviation Administration issued a nationwide ground stop on Friday afternoon, disrupting thousands of departing of flights.",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Live Updates: FAA Declares Rare Nationwide Ground Stop of Flights",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOS1F1U1pLV0V3dTVlT1RnSGF1dlJERU1sbkN5X2pMUmlPSFVoZkZaTmlRM3plQmZJQTBBaXdMQnZpbm1PV2NfajFvclpsUWE2VlhwZ3ZlcjVkNG1CbUVxMW9jempQY3VtVlNSUU11c3hGLU9GYk82N0cxT1BBQTZkbWs4VQ?oc=5",
+      "source": "The New York Times",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T20:52:00-05:00",
+      "summary": "Live Updates: FAA Declares Rare Nationwide Ground Stop of Flights The New York Times Live updates: Ground stop lifted after hourslong halt to US departures snarls air travel nationwide CNN FAA Lifts Ground Stop, Allowing Flights to Resume After Outage Bloomberg 'I May Lose My Min",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Federal Realty: This Dividend King Keeps Delivering",
+      "url": "https://seekingalpha.com/article/4968098-federal-realty-this-dividend-king-keeps-delivering?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T20:42:33-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.3,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Trump doesn’t plan to raise Nvidia, spy issue during China trip: U.S. officials",
+      "url": "https://www.cnbc.com/2026/11/13/trump-nvidia-huang-china.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-11-13T20:34:11-05:00",
+      "summary": "Nvidia CEO Jensen Huang resigned this week after reports of multiple affairs, including one with a suspected Chinese spy, Alice Huang.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Okeanis Eco Tankers Corp. 2026 Q3 - Results - Earnings Call Presentation",
+      "url": "https://seekingalpha.com/article/4968101-okeanis-eco-tankers-corp-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T20:31:36-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Trump will not raise Nvidia spy issue with Xi at summit, officials say",
+      "url": "https://www.ft.com/content/6034dd16-8c7d-4b3e-bc4e-942a6c8529dd?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "feed": "Financial Times",
+      "category": "Markets",
+      "published": "2026-11-13T20:28:36-05:00",
+      "summary": "US president will hold trilateral meeting with Chinese president and Russia’s Vladimir Putin next week",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "FAA declares rare nationwide ground stop on flights, with more than 10,000 delayed or canceled",
+      "url": "https://www.marketwatch.com/story/faa-declares-rare-widespread-ground-outage-bdc46393?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-11-13T20:28:00-05:00",
+      "summary": "Agency cites “extraordinary circumstances,” while Homeland Security Secretary Mullin says no indication of attack. Reduced flights amid fuel-cost surge may curtail rebooking options.",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "SpaceX launches Starship in key test flight of massive rocket",
+      "url": "https://www.cnbc.com/2026/11/13/spacex-launches-starship-in-key-test-flight-of-massive-rocket.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-11-13T20:18:51-05:00",
+      "summary": "The test flight is SpaceX's first attempt to ​catch both the Super Heavy booster and upper stage spacecraft of the rocket at its launch site in Starbase, Texas.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.1,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "12-Month Wholesale Inflation Reaches 4-Year High Despite October Slowdown",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTUJmUVNXaHYzRFhiY3BYdl9pUzM2ZHhXQ0RTZ2tEblRVWTJqU1EtaGllWDdaczBZX0FMbzVvVUhkd1dWYy1lX1ItNGFXMm1nWnVtcENpVlUzeDFoZTZydWx2NFhKMndDXzJ4dnBGOVdoNmdYTnk1Q3c0X0ZUazd5cV9UWVlxaF90aVpJbWdET0VJcnJLSTZyRkIybWdpSTRHdDFhcW5pVUtNaFQ5c2JR?oc=5",
+      "source": "PYMNTS.com",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-11-13T20:10:32-05:00",
+      "summary": "12-Month Wholesale Inflation Reaches 4-Year High Despite October Slowdown PYMNTS.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Owlet, Inc. (OWLT) Q3 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4967977-owlet-inc-owlt-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T20:08:59-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Denali Therapeutics Inc. (DNLI) Presents at Stifel 2026 Healthcare Conference 2026 Transcript",
+      "url": "https://seekingalpha.com/article/4968099-denali-therapeutics-inc-dnli-presents-at-stifel-2026-healthcare-conference-2026-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T20:08:54-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Nationwide FAA ground stop: nearly 11,000 flights delayed or canceled at airports across the US",
+      "url": "https://www.theguardian.com/world/2026/nov/13/faa-nationwide-ground-stop-flights",
+      "source": "Guardian Business",
+      "feed": "Guardian Business",
+      "category": "Economy",
+      "published": "2026-11-13T20:01:12-05:00",
+      "summary": "Transportation secretary said stoppage is due to ‘communication issue’ and homeland security says there’s no indication of ‘nefarious attack’ FAA grounds thousands of flights – live The Federal Aviation Administration (FAA) issued a nationwide ground stop for all flights in the U",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "The Next Wave of Food Inflation Is Coming",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOGtfSTVyazhhZjA4UEJWRVFWTlJWV0dUREtpa3pndDRsN0cyQkFiQjBpVFJ2UHFtbXA5MTMwZTFCQUhENld5QUpiV1c1ZmM5My1HNWFvYk1oOUM4ZmNXZFZCVkJRejNkbmRJTS1UbDJwV1pJd3VOd2k4d0VPNW1Rd1RTTFV4ZEluN1dsYVg4b3NjQQ?oc=5",
+      "source": "WSJ",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-11-13T20:00:00-05:00",
+      "summary": "The Next Wave of Food Inflation Is Coming WSJ",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Beasley Broadcast Group, Inc. (BBGI) Q3 2026 Earnings Call Prepared Remarks Transcript",
+      "url": "https://seekingalpha.com/article/4968026-beasley-broadcast-group-inc-bbgi-q3-2026-earnings-call-prepared-remarks-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T19:58:56-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Cresud Sociedad Anónima, Comercial, Inmobiliaria, Financiera y Agropecuaria (CRESY) Q1 2027 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4967888-cresud-sociedad-anonima-comercial-inmobiliaria-financiera-y-agropecuaria-cresy-q1-2027?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T19:58:52-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPd1Zub2xqb3dzYTFILXNXXzF5TkJOZmRDWFRXc25zbVFkNkU5Mll5aEZDVTB3aFJjQmFiZFo4Qzd1RXFnLTE5em1ROEQtNEctMTMwZmhMYUFMZDFRVjY1cF9nMGVOREJXc3VhbFlhSEtNdTNtb1JxS1BfTjdyNTdmMkp4TEN0VXd2eG43ZWJoUXR0dlRydy1zaWZsQWgwZkFSRDBaQUZueTIwMDZwdHZIWWZCNA?oc=5",
+      "source": "Ars Technica",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T19:49:13-05:00",
+      "summary": "Starship flight 15 powers to orbit—setting up a possible catch on Saturday Ars Technica Live updates: SpaceX lifts off, aiming to make history in Starship’s 15th test CNN SpaceX Starship Flight 15 live updates: How to spot Starship in the night sky as it coasts in orbit Space Fir",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.4,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "US aviation regulator grounds flights across the country",
+      "url": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "feed": "Financial Times",
+      "category": "Markets",
+      "published": "2026-11-13T19:45:56-05:00",
+      "summary": "Airports ordered by Federal Aviation Administration to halt take-offs because of ‘telecommunications outage’",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "DeFi Technologies Inc. (DEFI:CA) Q3 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4967935-defi-technologies-inc-defi-ca-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T19:38:52-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Broadcom: Nvidia Has A Problem, And That Creates An Opportunity",
+      "url": "https://seekingalpha.com/article/4968075-broadcom-nvidia-has-a-problem-and-that-creates-an-opportunity?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T19:33:16-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "High Roller Technologies, Inc. (ROLR) Q3 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4968024-high-roller-technologies-inc-rolr-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T19:28:52-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxONzdHUzc1NjBCWjJNbldoNEhWS3RkQzJNdHJGTXFfX0h0YWR5QjhHbjdkd3NENnU2eXZpMktjMWRzT216Y2tMbnB0dS04T25QZEtxQmNpZzQ2SjNXRHNwQ2h4ckdOdkJ3d19IRDBYaUs5dzZzc2o2WmliV3hnRjNSN3VyM0trT1hxMEh4M2ppd3RBQ2RXTVUtWE40MmI0S2Z1d0ZBVjZGV2FSa2tDVEpDWU02WXR0QjBOdHRmTHJRV09faXc?oc=5",
+      "source": "Reuters",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T19:25:00-05:00",
+      "summary": "EXCLUSIVE: Ex-Nvidia CEO misled top lawyer on affair with Chinese businesswoman, sources say Reuters Intel intercepts implicating Jensen Huang in affair sparked classified Rubio memo CNN Musk joins calls for Jensen Huang to be reinstated as CEO of Nvidia The Washington Post The N",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Arrive AI Inc. (ARAI) Q3 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4967845-arrive-ai-inc-arai-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T19:18:56-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Compagnie Financière Richemont SA (CFRUY) Q2 2027 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4967751-compagnie-financiere-richemont-sa-cfruy-q2-2027-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T19:18:52-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed's Jefferson says he is taking his policy cues from inflation",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQZW1TY0lTUklmN2JmVC0zMm5qMUdfOUFjWk43S1NTS1RpcGx1Ni0tWkJCX1NXWDg1cHdzazZsQUZlREpWRkl2UER3S2t0TjFON1lXeTNNLXA4SXZYYjFjbXh0SnJzcXFGV2FPZkhoc1dNc1ZhUXNTRjdmX3R2SUR0ZlZwcHlnT2F2ZzdLdnNkQ1I5Sy1tRmVGTS1GTEpUTmRTWVlkYXRR?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-11-13T19:03:00-05:00",
+      "summary": "Fed's Jefferson says he is taking his policy cues from inflation Reuters",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Stock Market News, Nov. 13, 2026: Nvidia Shares Drop Again as Investors Eye Fallout From Huang's Removal",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOG9vVjRkb0hxUE1ybFptSEtacTBMTjBOOFBETTU3TkJ1YlVvbkoxN1BnR3hmRDZHZzdZZURNY0pwZTFCb1pzRXFaQzJMZnB0ZGxXRF9SODZxOXZ0SktNUDBNX1BFOUcxaDlPcGlIeGM1M2Z6VkN3V1g3YnN3QmFHQlJYaFRtLTA?oc=5",
+      "source": "WSJ",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T19:00:00-05:00",
+      "summary": "Stock Market News, Nov. 13, 2026: Nvidia Shares Drop Again as Investors Eye Fallout From Huang's Removal WSJ Nasdaq falls on Friday as Nvidia sells off, but index notches best week since August: Live updates CNBC AI Rotation Boosts Indexes on Week | Nov. 13 Review and Preview Bar",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed’s Jefferson Says Inflation Will Determine Rate Decisions",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZzBwMC1SRHV2ZUJHLTJ2STdWWFlSSXhKN1lkajNFZ0VTNUZNTnRGeW1uMXJRWXhyR05ic2JDMU9xcGxTV0JKZFM3WVByb0gwbEhrQW1WaTViQm12d1FZT1FnU29xX0tZSjJXOXhaWkI5bnk0aENFVTNOTUNYV09RQmJid1E4bFZxeUliR01kTkVCcXFMRDVnTWFUbTFrbk1HM1Q4MDBHbkVVSm9LUHNxMA?oc=5",
+      "source": "Bloomberg",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-11-13T19:00:00-05:00",
+      "summary": "Fed’s Jefferson Says Inflation Will Determine Rate Decisions Bloomberg",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "AbCellera Biologics Inc. (ABCL) Presents at Stifel 2026 Healthcare Conference 2026 Transcript",
+      "url": "https://seekingalpha.com/article/4968097-abcellera-biologics-inc-abcl-presents-at-stifel-2026-healthcare-conference-2026-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T18:59:00-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Sienna Senior Living Inc. (SIA:CA) Q3 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4967883-sienna-senior-living-inc-sia-ca-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T18:58:52-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Digi International Q4 Review: A Little Bump In The Road, But The Pivot Is Still Promising",
+      "url": "https://seekingalpha.com/article/4968025-digi-international-q4-review-a-little-bump-in-the-road-but-the-pivot-is-still-promising?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T18:53:21-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.1,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "OptimumBank Holdings, Inc. (OPHC) Q3 2026 Earnings Call Transcript",
+      "url": "https://seekingalpha.com/article/4968082-optimumbank-holdings-inc-ophc-q3-2026-earnings-call-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T18:48:52-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "adesso SE 2026 Q3 - Results - Earnings Call Presentation",
+      "url": "https://seekingalpha.com/article/4968094-adesso-se-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T18:48:01-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Harmony Gold Mining Company Limited (HMY) Presents at Investec CEO Conference - Slideshow",
+      "url": "https://seekingalpha.com/article/4968093-harmony-gold-mining-company-limited-hmy-presents-at-investec-ceo-conference-slideshow?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T18:47:43-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Sendas Distribuidora S.A. (ASAIY) Analyst/Investor Day - Slideshow",
+      "url": "https://seekingalpha.com/article/4968092-sendas-distribuidora-s-a-asaiy-analyst-investor-day-slideshow?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T18:47:08-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "First Quantum Minerals Ltd. (FM:CA) Presents at RBCCM Bringing the Diggers Down Under Conference - Slideshow",
+      "url": "https://seekingalpha.com/article/4968091-first-quantum-minerals-ltd-fm-ca-presents-at-rbccm-bringing-the-diggers-down-under-conference?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T18:45:16-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "First Quantum Minerals Ltd. (FM:CA) Presents at UBS London European Conference 2026 - Slideshow",
+      "url": "https://seekingalpha.com/article/4968090-first-quantum-minerals-ltd-fm-ca-presents-at-ubs-london-european-conference-2026-slideshow?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T18:44:53-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Suzuki Motor Corporation 2027 Q2 - Results - Earnings Call Presentation",
+      "url": "https://seekingalpha.com/article/4968089-suzuki-motor-corporation-2027-q2-results-earnings-call-presentation?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T18:44:21-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Kirin Holdings Company, Limited 2026 Q3 - Results - Earnings Call Presentation",
+      "url": "https://seekingalpha.com/article/4968088-kirin-holdings-company-limited-2026-q3-results-earnings-call-presentation?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T18:43:50-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "PepGen Inc. (PEPG) Discusses FREEDOM2 Lowest Dose Cohort Safety, Splicing and vHOT Results - Slideshow",
+      "url": "https://seekingalpha.com/article/4968087-pepgen-inc-pepg-discusses-freedom2-lowest-dose-cohort-safety-splicing-and-vhot-results?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T18:43:33-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "SpaceX aborts attempt to catch Starship booster rocket",
+      "url": "https://www.ft.com/content/ce7c8ab1-8337-4c32-8494-5142ec1697dd?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "feed": "Financial Times",
+      "category": "Markets",
+      "published": "2026-11-13T18:43:09-05:00",
+      "summary": "Elon Musk suffers setback in efforts to develop a completely reusable megarocket system",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.3,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Viridian Therapeutics, Inc. (VRDN) Discusses VRDN-008 Phase I Results and FcRn Portfolio Development Plans - Slideshow",
+      "url": "https://seekingalpha.com/article/4968086-viridian-therapeutics-inc-vrdn-discusses-vrdnminus-008-phase-i-results-and-fcrn-portfolio?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T18:42:20-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Acrivon Therapeutics, Inc. (ACRV) Discusses ACR-525 Acquisition and PKC Inhibitor Preclinical Program - Slideshow",
+      "url": "https://seekingalpha.com/article/4968085-acrivon-therapeutics-inc-acrv-discusses-acrminus-525-acquisition-and-pkc-inhibitor?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T18:42:02-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Precision BioSciences, Inc. (DTIL) Discusses Phase 1 ELIMINATE-B Data for PBGENE-HBV in Chronic Hepatitis B - Slideshow",
+      "url": "https://seekingalpha.com/article/4968084-precision-biosciences-inc-dtil-discusses-phase-1-eliminate-b-data-for-pbgene-hbv-in-chronic?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T18:41:38-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Teva Pharmaceutical Industries Limited (TEVA) R&D Day: Pivot to Growth Strategy, Pipeline and Financial Outlook - Slideshow",
+      "url": "https://seekingalpha.com/article/4968083-teva-pharmaceutical-industries-limited-teva-r-and-d-day-pivot-to-growth-strategy-pipeline-and?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T18:40:43-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Sam Bankman-Fried would have made nearly $40bn in Anthropic IPO",
+      "url": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787?syn-25a6b1a6=1",
+      "source": "Financial Times",
+      "feed": "Financial Times",
+      "category": "Markets",
+      "published": "2026-11-13T18:39:26-05:00",
+      "summary": "Jailed cryptocurrency mogul loses out on windfall from early investment in the AI lab",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "SpaceX’s Starship Launched Today. No Booster Catch Might Hurt the Stock.",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN2FMRnlaa3hwbWR5a1pDVUJKN09OS1ZMNXdnMkRnN19uTzlNVXgxdVhrVWQzSUxoNHBOdTZVTTlmNE0wcTlDd3YyRGxOUHpSai14X18zY0dQRnlWQjJCN1d0Vl90UThCdXZUQXFqTy1XSmMzRmtkTDE1X2VNMXJ5MGtR?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-11-13T18:39:00-05:00",
+      "summary": "SpaceX’s Starship Launched Today. No Booster Catch Might Hurt the Stock. Barron's",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Corbion N.V. (CSNVY) Discusses Innovation Platform Supporting BRIGHT 2030 Growth Strategy - Slideshow",
+      "url": "https://seekingalpha.com/article/4968081-corbion-n-v-csnvy-discusses-innovation-platform-supporting-bright-2030-growth-strategy?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T18:38:55-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Stratec SE (STSEY) Q3 2026 Earnings Call Prepared Remarks Transcript",
+      "url": "https://seekingalpha.com/article/4968067-stratec-se-stsey-q3-2026-earnings-call-prepared-remarks-transcript?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T18:38:52-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Munters Group AB (publ) (MMNNF) Analyst/Investor Day - Slideshow",
+      "url": "https://seekingalpha.com/article/4968080-munters-group-ab-publ-mmnnf-analyst-investor-day-slideshow?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-13T18:38:25-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "The AI boom has handed the Fed an inflation problem that rate hikes may not fix",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNVkhCU3k2eWJjeWgyenJiMnppSXBxdnVQRmZkLW9LZWR5UnVGMzB1X1h5TlpMbnl3R1d1TFJhLXJGNzZOTWxGVHRUM3Z0U2hrYVFvOHEwU0FLRlF3S3Jzb2FaMVd5R2tKZ1Y3WENjMmM5amlTLUUwUWU1QVpDeGYtMENqcEd0dXF2YmhqV3VEaEozTzY1QTRzb3lTbzR4akdTTDNtMUNLYy0?oc=5",
+      "source": "Marketplace.org",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-11-13T18:24:20-05:00",
+      "summary": "The AI boom has handed the Fed an inflation problem that rate hikes may not fix Marketplace.org",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Why Silicon Valley’s Knives Came Out for Anthropic",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPUWxHUTR3T2hmZ0hnbEpjd1VtQUpIS3V4MjY5LUhvQzhTS1BaMEVwVEg5bVFnTlp1dGc3SEZrdG55VDByX1lXbVhxdTFLUlp4NklDXzFWZ1FOa2U0OFZlc1JsUi0zWXFXYXkxMVJHdU50X1psazB4SzZzZmVDNVJsdjRlSGdVdDJjRmQ0?oc=5",
+      "source": "The New York Times",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T18:20:11-05:00",
+      "summary": "Why Silicon Valley’s Knives Came Out for Anthropic The New York Times Anthropic’s Dario Amodei Can’t Always Have His Way Bloomberg The 4 types of people Dario Amodei said he won’t hire — and what Anthropic looks for instead Business Insider Anthropic CEO Sells Investors On Safety",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "‘The thought of living to 100 terrifies me’: Is Social Security a giant Ponzi scheme?",
+      "url": "https://www.marketwatch.com/story/the-thought-of-living-to-100-terrifies-me-is-social-security-a-giant-ponzi-scheme-84a64e7e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-11-13T18:12:00-05:00",
+      "summary": "There is already a demographic ‘run’ on Social Security.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Wholesale inflation rises again",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWnpsWjZoWURjblZrQlpYbmE2VjFWV3hoVDFtcnlGYmVpOUk4VTlYY25tR2l1Y05obTUwYnluTUNQT2dyWE9MeEI5dV80U0h6aFVHWHBkc1B1aFMyT0F3ekdJWkViZm96ZlpDV0JhRG90alVRc1VfcGw3T1VKbU1fU09ULWdfenNOUjFob2h0dUlpU2PSAZgBQVVfeXFMT3R4OFlSN3UtYkYxTXhlVW0tODhuUm1TR09ZM3NIMjJ4bEQxRGJmVGhYSUYwWWw0UDd2WjdWSkhuS1o4Z0RHV0d2QTFUbTdQM0tYMjI0S200V0w0UlA4ZEo3V3NvV28ydHpCVTN6a3Z6QXJzOGdYOHo1c0E1M0JfQThSTUFmTVNXZnAwVHhNdWJFUzVRZmJ4N2E?oc=5",
+      "source": "The Hill",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-11-13T18:09:00-05:00",
+      "summary": "Wholesale inflation rises again The Hill",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Nvidia: How the Jensen Huang scandal exposed a headache for business-friendly Singapore",
+      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFBPT0ZzaGdoa0lGbGxVWWhBdW15TC10Q3pJMlhKTDdMMHY2MGQySTBvNDJHOEh6R1JreHJsMjYyRzVFMGdjbW9kZDhzMTFpaWZ0NlVmd0czT3laQTQ?oc=5",
+      "source": "BBC",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T18:00:31-05:00",
+      "summary": "Nvidia: How the Jensen Huang scandal exposed a headache for business-friendly Singapore BBC Singapore Says Alice Huang Has Been Barred from Returning to the Country WSJ Nvidia CEO’s Ouster Puts Singapore’s Business Reputation Under the Spotlight Bloomberg Singapore held Alice Hua",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Wall Street bears abound after inflation sours Fed outlook, Main Street abandons bullish bias as gold drops below $3,900/oz",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNZ09SOU1XMmZSdkZoVU5iQkdoN1duRHpoNUhqWHlJVVRhd3ozYzFLLXkteml0ZXJoODBvUy1iMDB1Yk9qRy1oSFhfQ296RlBITmhSbzFSRVBVeGZLQ1lXb05ZRmRIVl9PclVZdzVJQ0h0M2JTRnZKUzZndkswa1JNNEtwbjdNMW1IQXZuQ1BDdVJlM0Y2TmRRWnhEUDFVb3FROEZyOFA1ZEdjNjlWbzYxak9QSjNKLVk?oc=5",
+      "source": "Kitco",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-11-13T18:00:05-05:00",
+      "summary": "Wall Street bears abound after inflation sours Fed outlook, Main Street abandons bullish bias as gold drops below $3,900/oz Kitco",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.8,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Inflation rose in October",
+      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNekZXVDUwTUZxVmk0Qkx4REhjUEV1UVFhcXZfMjhFR3dwVkxIcXlrRFMzNzJTMW9sbk8wcEk0MHhlQmRpa0J3RE1OdGF6RmFUYi1vVGdoV1JxVzJyY1laLXZyRVBLTmFtS1dkcFRoc2pZQUFIc29jTjhDUzR2dVNzenRFc1hCWWxlWE9Uc0dTR0d4aGZmVVZSLUFZOXlKd2VPR244?oc=5",
+      "source": "WKOW",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-11-13T17:55:00-05:00",
+      "summary": "Inflation rose in October WKOW",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "4 expert tips for signing up for Medicare",
+      "url": "https://www.marketwatch.com/story/what-really-happens-during-medicare-counseling-6a4f618e?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-11-13T17:45:00-05:00",
+      "summary": "A day in the life of a Medicare counselor",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed unveils 2027 calendar, confirming October meeting will not include rates vote",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9LOFV2S1F2VFVFWG51dVRzbUg1VUJuLTdzenJxVjZZNnItQ2RYTjlQYTJ0SkJTQ0Q0OENocEhjR3JLMEN6YklVd2g0bmw2U01YSkowUkwwa3NUaE12a3NSOHR0WHRYUHZVbXRzYXZtS3dDdVhISDNXSTdLWDFEZ9IBgwFBVV95cUxPRTQ2aVhyLXhSZ0l0dzMzMGlJQ0RkdnpCZW80M1ZhQXpQTmdqemtJd0Q1SnI0ZF8wbm1RdktrQ3FjV2tSTnRNNjVKXzV4TEZyc0hvcklzRVpHeHQ0QXZ5dUx4cmRjVHplZi1EOUtucHZMdzNZZEVfNWc5b0JQNHRSSUFaSQ?oc=5",
+      "source": "The Hill",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-11-13T17:44:00-05:00",
+      "summary": "Fed unveils 2027 calendar, confirming October meeting will not include rates vote The Hill",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0Nkc183ekxNZ0hpbEEyYkRTa1JMVy1ETHZMN0VubXFFNVBMWGZmeUkzSFRsNUhaajB0ZGdHMGJpektwVXAyc1N2TFBUSEdhb0FFMnJBNWdWckNiMjFld212QUZXcDlBQnJGSW5RSU1YN2FpUlNVaE1CaGc0Uk9UdjNHbEF4UzVyN3BGNE55LXFpTXJpcWNkNjFsV0swWGcxdFhaVWN2MEVSbjFNUU1pSXdsRkQtU1R0?oc=5",
+      "source": "TechCrunch",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T17:43:00-05:00",
+      "summary": "Jensen Huang’s departure blasts big hole in AI startup funding, VCs and founders say TechCrunch Jensen Huang's ouster triggers an AI earthquake Axios Nvidia’s Crisis Reverberates Across Its Circular Financing Empire WSJ Video What NVIDIA's CEO departure means for AI development A",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "United, Other Airline Stocks Drop After Nationwide Flight Ground Stop. Rental Car Stocks Rise.",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPUnRJbHJLSHJqMWNRYU5NanFGVkl2OFhCMnYwYnB5ZXdFdHRKbWtjaENQM2Vjb083ajZrSWZqd19KZGoyOXZjLTY0ZmUxT19SbXJpR2hOOUpXNUpheUk5UEM4aU03YlEzOUVLelBqM2dlcWl1UjRYYW81bzVGMVFSUXM1cUcyZVQ2b1ZvaWlnRW00ZGJpMm80S0QtVVQ?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-11-13T17:41:00-05:00",
+      "summary": "United, Other Airline Stocks Drop After Nationwide Flight Ground Stop. Rental Car Stocks Rise. Barron's",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Registered nurses - Bureau of Labor Statistics",
+      "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBTbk1aLVhEN0RCM2lsSmtFMFdCVHltQlVGMVZqZUJ5a1dvNVVnR1dJUTlWX1VkUVA5UENVUkhfR3BUWkQ5LTFrT3J0M3pSNjlZMVVicHUzN3lJS0sxSkx3ZF92MnVLRmZXUlVIRUd4TQ?oc=5",
+      "source": "Bureau of Labor Statistics (.gov)",
+      "feed": "BLS",
+      "category": "Policy",
+      "published": "2026-11-13T17:32:29-05:00",
+      "summary": "Registered nurses - Bureau of Labor Statistics Bureau of Labor Statistics (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
     {
       "title": "How Will Higher-than-Expected Inflation Data Impact the Fed's Next Rate Decisions?",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPa1VLWDljSGF6OUNPWFM0UzVxZDUta2RVUUdqRFp5eWdzcmlLYTZfbEpIZDRzcmNjemxzZTkyZG9wdi00ZXFDd3pucTZhaThGZVNwSmIyWmsyZ1FnUGFKN0E3dUI3eXBiSkJNYWdFdzFXN2l3Y0xqQzYwT1lrc21fN0xTVno0dENsUkNTTUxVWHVYVkx6Y1JmR3pqUEdwWnp6SXBQNGllQmNueG9rUWNZUDdNRk9ScHlfMDFvMDJQb0szaEFkcUVRZVF3?oc=5",
@@ -242,6 +1142,21 @@
       }
     },
     {
+      "title": "National Weather Service reports nationwide radar website outage amid FAA ground stop",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNRGxjX2ExOGtjV2tLWV8zZWVXOHRlVlNKbE9weEVtRkk0QlpqVl9zalFmVWJuQ1JZc00wWWNhajBpUEE2eUg0RHBZZE8tOXVBLVRoLW5TcS1rdGVJRUVVQ2ZFTEhMZURhSmE5SW1YY3hZbld6M1dxaXlxMDI0QWlPRjc1MC1LaFRCNUZzaTZvMTdjdHNCZnQzeFFqRm5wQS0tQmZYejB6cjk?oc=5",
+      "source": "News 9",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T17:05:10-05:00",
+      "summary": "National Weather Service reports nationwide radar website outage amid FAA ground stop News 9 See more headlines & perspectives on Google News",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Global oil supplies are suddenly flowing. Why a crude glut won’t mean cheaper diesel.",
       "url": "https://www.marketwatch.com/story/global-oil-supplies-are-suddenly-flowing-why-a-crude-glut-wont-mean-cheaper-diesel-a5fa80c8?mod=mw_rss_topstories",
       "source": "MarketWatch Top",
@@ -332,6 +1247,36 @@
       }
     },
     {
+      "title": "Nvidia Eyes Worst Week Since Trump Tariff Selloff as Huang Exits",
+      "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWkFiR1ZfWkFHNzNXWC1PaTF5UmxoWHFBd1lQTFpKM19Yajc2QURDR1k3MjJaazZOWk5ieE5jWWdqU2J6dVlPX0Y0bW9oSEs0Skl0c2lsTTJDdkVsd1NrdU1NSHZwUzYwS2tRcWV0UXJtbG0ySUVkOTZYaFI5cjFBLWo4Y1JaUmxQTkVvblRWaEk4WGZTZ2YzUWxybEdUUS1hTzZIbW1SSDB1TWtqUDdmWl9ScGhKUQ?oc=5",
+      "source": "Bloomberg",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-11-13T16:41:04-05:00",
+      "summary": "Nvidia Eyes Worst Week Since Trump Tariff Selloff as Huang Exits Bloomberg",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "US Futures Gain With Microsoft Outage, Producer Prices in Focus",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUGFnaDF1dHVTeVV2SlEyQ0w4SHlwMTVSb1RxMlc3SFByR1l1WnM1YXRVRy11RjAyZ0xnMVdldU1PY1lhMVRHeldxQ0pUTGp1eC13eEZSLUpiejF0ZlpqRlQ4QTBhN0xEMmxaNktiRldvbG5tbk9OZy1Pbkw0ck5MRXZnblRsRnVsbHY3TlBkRGxUVEVmX1B0dDJuNDlnR1h4cld4UWdsUUI5OWhEQnRBNTJZdw?oc=5",
+      "source": "Bloomberg",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-11-13T16:40:05-05:00",
+      "summary": "US Futures Gain With Microsoft Outage, Producer Prices in Focus Bloomberg",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "US aviation regulator grounds all departing flights",
       "url": "https://www.ft.com/content/c9b119ff-d1da-46a7-b2b3-4ad0544fff6b?syn-25a6b1a6=1",
       "source": "Financial Times",
@@ -377,6 +1322,21 @@
       }
     },
     {
+      "title": "US Treasury Weighs Short-Term Loan to Help Venezuela Pay IDB Debt",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ0dCaWVmOUV0SExGR1lQTVEzY1UxWXhnM0RYcUlQdVdRQ3hYSm1kbW8zbWhrUkNNVlA3WWxpRG5La1VwejZCOTNweHkweGJqRFB4c0pUU05STDVMV0RWRmRZcUxVYkR4RVg3Y1p4bHNwTi1YY1pKTmFkSFZhTXd2SExab0diU1ZRX3JnS3REcXlROWdhQkNrMXVmOGdCaE9QVnZYdWpUbkdIaWgz?oc=5",
+      "source": "Bloomberg",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-11-13T16:30:02-05:00",
+      "summary": "US Treasury Weighs Short-Term Loan to Help Venezuela Pay IDB Debt Bloomberg",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Newsmax: Fading The Questionable Post-Earnings Rally",
       "url": "https://seekingalpha.com/article/4967999-newsmax-fading-the-questionable-post-earnings-rally?source=feed_all_articles",
       "source": "Seeking Alpha",
@@ -403,6 +1363,21 @@
         "label": "negative",
         "score": -0.7,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "What a Lutnick Departure Would Mean for Trade, Crypto and Steel",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUkVkN2FXMnhiaTlHbmY4QThzTHlDenN3ZmN0N3BPOUFBY3NxUnZrdUgyNzY3d05LN29WUGFnUUxQdVJ2Ry1uOTJCbkZUUjROdkxIdjhkZDllSjc4NldHajFrVmhvTEpXZWtOc015LTJ5VEZUekhxSFhhNnpjM0ZqejRn?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-11-13T16:26:00-05:00",
+      "summary": "What a Lutnick Departure Would Mean for Trade, Crypto and Steel Barron's",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
         "v": 2
       }
     },
@@ -512,6 +1487,21 @@
       }
     },
     {
+      "title": "The Denny’s where Nvidia was born has already removed the sign honoring the company",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQMDJXYmNsQkJpUHZXWThzMzNFZmJvZGdRWGpNRWJuU0RMcWNNUjhWSjFfd1RYUTJkZ2s4WEcxaW5nNjB0VnBWV2ZDWk93VmstUWxZZXlaSi1ZMDR1M3RhZElSdXpRVE5WSVFMTnI4bzZOVElQTXQxa2VBeDZFMTRaRWxCM2g2U1VSd2NXS29wckw?oc=5",
+      "source": "NBC News",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T16:14:58-05:00",
+      "summary": "The Denny’s where Nvidia was born has already removed the sign honoring the company NBC News Bay Area Denny's takes down plaque commemorating Jensen Huang SFGATE San Jose Denny's removes plaque honoring former Nvidia CEO Jensen Huang NBC Bay Area Iconic Chain Restaurant Deals New",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Okeanis Eco Tankers: Cash Flowing, Dividends Soaring, And A Bull Case Still Intact",
       "url": "https://seekingalpha.com/article/4967998-okeanis-eco-tankers-cash-flowing-dividends-soaring-and-a-bull-case-still-intact?source=feed_all_articles",
       "source": "Seeking Alpha",
@@ -537,6 +1527,21 @@
       "sentiment": {
         "label": "positive",
         "score": 0.6,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Anthropic IPO Buyers Have More Influence on Price Than SpaceX",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPaFNnalJQbXd0ajBKQzVHZFZuQlpzdktSNlN6MGZiNXlFaGZaOHVPbXlVYURmaVZkeE9xaTJPaFFjREdMVGJhMFZsU1pmeGpXUkpTcy1yVlFkN3MtbkhmWW5HQ2JtOXp2RlZXVUkxcF9lemc1eVlyNmJFMFlUUlg0WS1mVGJ5czVpcmQzbkswcjZ3b2Zha3dJNDNKOXJqeXVTQlJQbHdYQVNJdS01YnhkS3p3?oc=5",
+      "source": "Bloomberg",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-11-13T16:13:03-05:00",
+      "summary": "Anthropic IPO Buyers Have More Influence on Price Than SpaceX Bloomberg",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
         "relevant": false,
         "v": 2
       }
@@ -702,6 +1707,21 @@
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Family Dollar to pay $63 million to settle claims it overcharged customers",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOVnRqNkdhV3JtQ2VPS3VOSHRXWENndGY4cnlKTFFmNElReU02dkdXQmozN1BFRUxMZHAzVkVkRGJBc0ZwZTRVY1QwOGZ1T2w0RW16eXhvY09iOTNoWXJ1eXM5Zi1fbFhsc1F3R0JCSVc1RUtYaWh3Nk1XY3VTZnpVSDE1T2JWdlE?oc=5",
+      "source": "CBS News",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T15:52:00-05:00",
+      "summary": "Family Dollar to pay $63 million to settle claims it overcharged customers CBS News Family Dollar to pay $63m to settle overcharging allegations The Guardian Family Dollar agrees to $63M settlement in multistate lawsuit claiming retailer overcharged customers ClickOnDetroit | WDI",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
         "relevant": false,
         "v": 2
       }
@@ -977,6 +1997,21 @@
       }
     },
     {
+      "title": "4 Takeaways From Dario Amodei’s Anthropic IPO Chat With Jamie Dimon",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1yaHg4TDhXQUw1LXRIMFh2eWxJRy1PQ2JscTl1S0FXcVpLeHV0a2pDU1I1eXZNel9xOTk5Zl8wbUdwQUtHSEVKdHlscndDb1k5SkFNYVRWbHJxdW0zcVRod0hlMmhMWFR6VEY2YkNnNzJwS2xmMW5CNjgyc1JHQQ?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-11-13T15:28:00-05:00",
+      "summary": "4 Takeaways From Dario Amodei’s Anthropic IPO Chat With Jamie Dimon Barron's",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Nvidia’s Scandal Is Poking Real Holes in the AI Trade. That Doesn’t Mean It’s Over.",
       "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBOeVp6SkZKLWtBRFRFSHVldzZBLXFqQmpOWmdaWTRpWGRwdy1TQmIxM1gxblBmRlM5NU9VYU04NFU4YlYxM3V0YXlyeDNDUVdnaC1RZER0YXFJNDc2ZVpRZWgtWC1mcG1STktobFdVRU51dVowWWlKXzZTYw?oc=5",
       "source": "Barron's",
@@ -1017,6 +2052,21 @@
       "sentiment": {
         "label": "negative",
         "score": -0.6,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Anthropic CEO Calls Computing Power ‘Deepest Business Dilemma’",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcloySmU0ekIyaV9vRXNHWHNUZ1Z0eHVlenVrRW9PNDBhNTFOVEtiNUFCSk02ci1sOWVabGI5dEtjTUxzUldjTWxFeGdUVTRVZVBPY1IzWVFtOFd5Y1V6UGVRMGRvT3VrbE84Qzd2ZnNyOUxPZ29hWXg0Q2ZMWTk4Wi1aVDFjdHNPMWVlNWxjYWVfSzBZYThDWDBBcm9wUnY3SUdZVWFVMlRfc2Y1VEpzRQ?oc=5",
+      "source": "Bloomberg",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T15:16:06-05:00",
+      "summary": "Anthropic CEO Calls Computing Power ‘Deepest Business Dilemma’ Bloomberg Anthropic, PBC - S-1/A-2 SEC.gov Wall Street Braces for Anthropic’s Spending The New York Times Anthropic IPO: Claude maker to begin trading on Thursday, Nov. 19 Yahoo Finance EXCLUSIVE: Investors flock to A",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
         "relevant": false,
         "v": 2
       }
@@ -1153,6 +2203,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "U.S. Stocks Decline as Nvidia Shares Slide Again",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNcEdLelU4VXpMTmdPeTgxTjBhZkd3NEIyZDg5ZnZCWXdtVnVFd3Fxbm95Z2ZfbkNZRnh2WVppWUhnR0pvZXZsRHdEaWdkaEJ1emVweFpFbG9WUTBPV3B1UktyeVNodWY0SXBtOGNUbXZQWXcyRmNWUnRGR21vYWt0WmxraHFsZ2haSGRCdHZacG1uTkpMTTlNQUpsNEFSRUY4Z2MzaUZn?oc=5",
+      "source": "WSJ",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-11-13T15:02:00-05:00",
+      "summary": "U.S. Stocks Decline as Nvidia Shares Slide Again WSJ",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": false,
         "v": 2
       }
     },
@@ -1344,6 +2409,21 @@
       "category": "Markets",
       "published": "2026-11-13T14:49:16-05:00",
       "summary": "Trump Jr. out as Kalshi advisor after his firm's big investment in Polymarket Ars Technica Kalshi Severs Its Relationship With Donald Trump Jr. The New York Times Donald Trump Jr exits as paid adviser for prediction market Kalshi The Guardian Kalshi ends Trump Jr.’s advisory role",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Kalshi ditches Trump Jr. as advisor; CEO admitted “optics” weren’t good",
+      "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOY3ZJZVFsT3JuUXBRY3lIVDNoNFgzTkRlZERPUEdYbko3ZGRZcXFnUTAwaTRSM3YwV0tFbDhxbldkRmhzMGJ0VEVPS0tpWk5OdHNCQ2lVbTJUTGhyNFRlcmtuQjRDeFRZVHRoVHRnczVELVR5OEZHdzZsWjkwcVZOX09HeHl6MVdPeGRzVkJWREVwcHBockI4RUoxRlFjbGF3WXBDTXNPYlVrc2pNazRYTW5aeUtQQXB5TFBJaw?oc=5",
+      "source": "Ars Technica",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T14:49:16-05:00",
+      "summary": "Kalshi ditches Trump Jr. as advisor; CEO admitted “optics” weren’t good Ars Technica Kalshi Severs Its Relationship With Donald Trump Jr. The New York Times Donald Trump Jr exits as paid adviser for prediction market Kalshi The Guardian EXCLUSIVE: Kalshi says it ended Donald Trum",
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
@@ -1967,6 +3047,21 @@
       }
     },
     {
+      "title": "Chile Mulls Private-Sector Role in Codelco’s Mines and Infrastructure",
+      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNNTZyWmp1V2VmME1nRjRlMWQ1YVhGLTlZcmZ2YkJVdmZCV3ZuVEJodVJwVHMtSnFNakwtQXV3Y0g2YzM1Snc0czJjbHZfVW00VW1PNDBsVkdmcVJvVC0yOHFKMjJaLVkzM3prdHY2RDYtanNmX3k4WV9IMXhpNEY5SUhrNHN0Uzc1OHQzYlEtTU1pekZ1TjVQSDI0Zi1xVE1K?oc=5",
+      "source": "Bloomberg",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-11-13T13:54:32-05:00",
+      "summary": "Chile Mulls Private-Sector Role in Codelco’s Mines and Infrastructure Bloomberg",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Stubborn input inflation pressures builders despite energy pullback",
       "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPd3YyYXcyZnAtaS1iYzlJN2NuUE5CbW1fMHQzUlF2cjJEeGYxN09BbFJEUXNtU2dlUGF5Q29wMDlRc2pjQ090UnpTMnV4bG16bUpVdmZRMXhYUC1WVkdFT2xaako5VEJmZTJxdndZNnZla0Y1U2IwN3hMcl90dms4OVBJdl80Y0lJaEt5U3Zaa1JyWHB4TlE?oc=5",
       "source": "HousingWire",
@@ -1997,6 +3092,21 @@
       }
     },
     {
+      "title": "New candidate emerges to replace Jensen Huang as Nvidia CEO",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQc2E2Z3ozVU1jd1E5dU41SnZSVTl2SU5kMHphVWNnVHUxTG5HaS1VazdTUlZFT0ZmX3ZTOURtMWNBV2JQMHFKeHZJczlsSk1acWhVV3VxM3VFRGNqZ0xSNE1KdHVDb1BveVlYVUh1VmJ0ZC1neE95dGszcHpXUlVxYk0xaWZSMnMtVVJRVXVCR0N1bDFmY28wc3dLNNIBoAFBVV95cUxQQVdrRG9PYUJtdTR4ZFJQdHdXSF83SG5hUEJEZ2ZsWHZVMGRkSzBpcDFhZnZDWnRqZFJvblFfa3lLMVg5ZFhXV1lGWE9FMjRsTkRkSGgzSHJqNGZvWU40b3VNcG5tTjRmZUx2WTlFakMtZi0xa2k4QWFvQnVqTjNWZjBGcUF2MzFLeHFnVnFCWVZUXzhmVzFidzFnRlNGWDBl?oc=5",
+      "source": "Fox Business",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T13:44:00-05:00",
+      "summary": "New candidate emerges to replace Jensen Huang as Nvidia CEO Fox Business Nvidia Approaches UK Chipmaker Arm CEO Rene Haas To Succeed Jensen Huang NDTV Nvidia’s Chris Malachowsky cofounded the company and is seen as a potential successor to Huang Yahoo Finance Nvidia hasn’t select",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh oh, Jensen!",
       "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2RjMXJ5cnYyUmVXT3FXVVVIeENJN0hQT3E0ZTg1YlpRSEItczBNaW1SZzlIM2hBNEZldVVzUjEwQzRDczhvVkQwMjZlLXh4U1pqd1NFcTFJOHh6MUMtQktSVmFmZUtzTUowb2hCdU1tVzY5NFFwWURpT3c5RW9zMUJOVHNvcG5aVG9lTUIzVUNqMW8yWkNzcXpidmtNRnlia3hySVpfbGRfQ3phbjJmbGZuYlhwS0E?oc=5",
       "source": "TechCrunch",
@@ -2007,6 +3117,21 @@
       "sentiment": {
         "label": "negative",
         "score": -0.7,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen!",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM2RjMXJ5cnYyUmVXT3FXVVVIeENJN0hQT3E0ZTg1YlpRSEItczBNaW1SZzlIM2hBNEZldVVzUjEwQzRDczhvVkQwMjZlLXh4U1pqd1NFcTFJOHh6MUMtQktSVmFmZUtzTUowb2hCdU1tVzY5NFFwWURpT3c5RW9zMUJOVHNvcG5aVG9lTUIzVUNqMW8yWkNzcXpidmtNRnlia3hySVpfbGRfQ3phbjJmbGZuYlhwS0E?oc=5",
+      "source": "TechCrunch",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T13:40:30-05:00",
+      "summary": "Export-banned Nvidia chips are behind China’s most powerful AI models — uh-oh, Jensen! TechCrunch Alice Huang-Linked Firm Procured Banned Nvidia Chips in China Bloomberg Jensen Huang scandal trail leads to Alibaba, the king of free Chinese AI: Chart of the Day Yahoo Finance Chine",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
         "relevant": false,
         "v": 2
       }
@@ -2222,6 +3347,21 @@
       }
     },
     {
+      "title": "Consumer Alert: Urgent Park Outside Recall Issued for Nearly 721K BMW Vehicles",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9HcWM2OUppWHA1TFJOVm1WTTNZVm9wNUpEdnNrSDR0TVdEY21HTlVRczNZaVdaUnVST1kzbTctQURMZk1ZZkgwZUFEdmlqeGZ1SGlHRzdkVGlIazZtVWhUM1llbXFBV0MyZl9WaGpfekNBWFcxQkE4?oc=5",
+      "source": "NHTSA | National Highway Traffic Safety Administration (.gov)",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T12:47:31-05:00",
+      "summary": "Consumer Alert: Urgent Park Outside Recall Issued for Nearly 721K BMW Vehicles NHTSA | National Highway Traffic Safety Administration (.gov) US urges owners of 720,000 BMW vehicles to park outside over fire risks Reuters BMW Owners Told to Park Outside Over Risk of Cars Catching ",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.3,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "US producer prices rise moderately in October, but inflation broadens out",
       "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNZTNDTVIxbVNEWDkyN3QzVk9YR2stVjFURXFqcDNXeGZ2S3FUcmhJNzJqcEp5R3JMY0dDdnl3MDEyRXVKRnB1ZGhMVHpQeTRYNnZwZDQ3UlpnTG5mR1o0akdxWDRhWDU1dm1CY2M3bFZQNHhNRHZyaUZFU1VPODZIdFJrbXBaM2UzTnRXOA?oc=5",
       "source": "Reuters",
@@ -2402,6 +3542,21 @@
       }
     },
     {
+      "title": "Neoclouds, AI stocks slide again as Nvidia turmoil rattles sector",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPNDEwYUl1V3JQSU1MMUlWQ2k5V0toMnNCNUFZLXFaTldqYTVEWXlrZ0xudEhMNDk4bVJweUxrNThEaGo1VmRhYTRndVJ6djRINHRNQU8yVE9oczQyUUVxRzVjbnNzZlFQbEhTcGV6elkzcjNNVWs3RFhZYVg3a00zNlhxam1xV0ExcVM0ZEIzN05oQl9YTU5vUC1FVXFXU1k3dFpwQmx0d0hGdw?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-11-13T12:17:40-05:00",
+      "summary": "Neoclouds, AI stocks slide again as Nvidia turmoil rattles sector Reuters",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Microsoft outage shakes up companies, schools and local governments across US",
       "url": "https://www.theguardian.com/technology/2026/nov/13/microsoft-outage-shakes-up-companies-local-governments",
       "source": "Guardian Business",
@@ -2567,6 +3722,21 @@
       }
     },
     {
+      "title": "West African Oil Just Got $64 a Barrel Cheaper for Some Buyers",
+      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQMjNSR0RrY2c4YnV4clVZRUNvWHVJSlYyX25WTHh1VWF5Qm5vZjZENHJNR3BFQzh0enY3dkNONGw0TVlDV00wVHZBb2dtSEVGMEFFMC10SEh0RXRFXzZ4MFdNTVFOSDBTSEFFRFRaWG1GMTlPcDRQSGFveng3d1ZYaFNwOHF5TTl2c3l3TGtKNlNEY2ZoRS1RZXp6YmdCdWJZNEpIWkw0T29xV0RBbnNSZHJR?oc=5",
+      "source": "Bloomberg",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-11-13T12:02:34-05:00",
+      "summary": "West African Oil Just Got $64 a Barrel Cheaper for Some Buyers Bloomberg",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Treasury Sanctions Guatemalan Drug Trafficking Organizations Supporting Mexican Narco-Terrorist Cartels",
       "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9wN3JHYndLaFBaUi05UEJaZ1RWWmx0Y1Y3Qi1tVER3aXBPd0hEdVJEeDFfbzVXaUlEdlIzd0d1YnUyTG56dF9oN2U1aDAyRFlKVVF2TzZKZ0E3OVFCZ1FIVHF6cw?oc=5",
       "source": "U.S. Department of the Treasury (.gov)",
@@ -2657,6 +3827,21 @@
       }
     },
     {
+      "title": "Jensen Huang’s Leather Jacket Isn’t Helping Him Right Now",
+      "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQdjFQQWVpeVRvcEs5WTJickdmOFp3dC01YnE5TnJYdEN2Q1Q1SVBfeHY2UVpyRWdLN3J2bHp6TVAzUk1ya3pYeHJsd2s5LUN0OEpVNmE0UjVmcEt2R0tjRklzVXlBZlhCOFZIX19RaU45RTRzX3F2Z2h6TkJfM2tVWGxfYUhKeUo4VHJr?oc=5",
+      "source": "The New York Times",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T11:41:07-05:00",
+      "summary": "Jensen Huang’s Leather Jacket Isn’t Helping Him Right Now The New York Times Marlon Brando cool to Jensen Huang joke: how the black leather jacket became a meme The Guardian Jensen Huang’s Leather Jackets Confessed Before He Did The Cut Breakingviews - COMMENTARY: Beware of baref",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Fed's Collins says more rate hikes are coming, Bloomberg Television reports",
       "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSldraUpPcktUZ2pFallHdjEzMjVhR1lwamJmOGtUeEp2ZnVnRUFCT0ZzX2daQlJFVWZPbVZVZGpKWmJWZXM0Y0xBamxoUzNzNGRpWlltbjdZdGVDVUNGdGx5QnVhbDhQbGZDVFNXcXMwd2RpektRbmRpRlI2SXdmd1BuSTZrQTN5UF9tZzBsQkl3VWhNLURRQ2dWNDhiLVpad0dUUXBQbk5xbFFYX01SdC1yZlY1N05BT2RqbA?oc=5",
       "source": "Reuters",
@@ -2728,6 +3913,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Nvidia stock slips as investors digest CEO exit, broader chip sell-off accelerates",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPT1FhU3E0MEFkQjV4aHZ4WXk5cktoTzhKbE9Sd1ZKTS11dE5raks5bXA0dk5IOGZ1bzBfT2Y5LUluVTZENml5cnBxcVEyOWh6eU9UU0lIS3FNbmdxVnpvdVUyTkdRNlU0REJGYjhaQzhpZHlpWGV1U1pfRjFLVE5wb3h3NGxWbFJmSlRJNDktSENjNVVpUFlHbnNrcW1BMk9vN2NsNzFjQURkeUtGQXBrSWRsMzctNmRzWlhvSUJVQjk5aHZkeUNtYTh3?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T11:23:18-05:00",
+      "summary": "Nvidia stock slips as investors digest CEO exit, broader chip sell-off accelerates Yahoo Finance Nvidia stock suffers longest weekly losing streak since 2012 as market value sinks by $1.7 trillion CNBC EXCLUSIVE: Huang exit and US scrutiny imperil $3 billion in Chinese AI project",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": false,
         "v": 2
       }
     },
@@ -2818,6 +4018,21 @@
         "label": "negative",
         "score": -0.3,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Russian Economy Slows as Ukrainian Strikes Weigh on Output",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOZW9mVi1IcTZCNEJGaUVmb3I0U3IxUjhxTGc3TmkyRUhEc0hXcnc1N01US3RTUEV0UGRVamxBMURlMXltSGRVQVdERE92Y0hGTElzaTNmeG1ZX1l5bjV4SlpjSlQ0cnp4azJlcENWVU82Z1FPRUlkQ2FvMENYeDdXYTFXSF90Q3NjSVFIem10c29GZm9EUm5CQTVsdWlwaGNHcTUxRS1OSDZPUGhqeVE?oc=5",
+      "source": "Bloomberg",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-11-13T11:11:40-05:00",
+      "summary": "Russian Economy Slows as Ukrainian Strikes Weigh on Output Bloomberg",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
         "v": 2
       }
     },
@@ -3043,6 +4258,21 @@
         "label": "negative",
         "score": -0.5,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Home sales plummet to lowest level since ‘Great Recession’ as prices hit all-time high",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObXBRYUNlWjhzUDlLeXhib0xZZjlXd1dGZHRKNnpNcng4dFRtcDVPb1ZvNjlJcFdzWTRZMHNyUU1Rb1I3X0JDNG5FSmdSX0NzZDlfUXh6MVFqdWdBNi1YTUpsN0ltWHhEa3dqWHZrYnFoVG5vM2RMZVpNQnFDa2N2S081cXROMGM3UUtMd3g4czN1MFBnT3NqcUNnRWo5LW1LSWYzRzhzcDlkRkpYaElGejlVNEZOVkJfbTRmdDViWk1fQ2syYkZ2UA?oc=5",
+      "source": "MarketWatch",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T10:08:00-05:00",
+      "summary": "Home sales plummet to lowest level since ‘Great Recession’ as prices hit all-time high MarketWatch 'Punch in the gut': Homes sales fall to their lowest in 16 years NPR Increasing cost of housing squeezes Americans out of market PBS US existing home sales slump to more than 16-yea",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.9,
+        "relevant": true,
         "v": 2
       }
     },
@@ -3287,6 +4517,21 @@
       }
     },
     {
+      "title": "Goldman Sachs sees a new problem emerging for the Federal Reserve",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPUnBtU29qMXAtR25HMGZSWmZBaDltZk9LZi1mOExUWFp0S2lhcTkxNzJZcjQzckVLVG5lazY4Tm1OVW9QaHYtTngzUEdVZ1NDVDFieGwzVmNaeUNrV0U5emk0LW04SE82UkxGOTRWVnBFRjN1M1Uybk9HaG9lM3JWbXVadUl0OFU2dEJtQUJRN3k3RmtrZmx1VTB0cw?oc=5",
+      "source": "TheStreet",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T09:17:00-05:00",
+      "summary": "Goldman Sachs sees a new problem emerging for the Federal Reserve TheStreet Fed on Track to Raise Interest Rates Next Month And Maybe Again in January Bloomberg Wall Street thinks the Fed made a 'mistake' — and now more hikes are coming Yahoo Finance Fed to raise rates once more ",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Fed’s Collins Says Inflation Fight Outweighs Housing Woes",
       "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOLWNWM3ptZWVMSTZ2Nm1jY2JQU1pXZ3l1Q01qdzAwV1YwbGxPN2JIY19pTmNiTmV5eFA3c1lkQklsX2JKV1BuM2haS09HU21XSk5DT3FvRG5vSkEyNGlLalJMNTZfQ3hCTlM5SVBGY3NBb2xDTloyYmtidHdKNE5YZnNUREI3dk5ZQ01UdVpKaC1MQkJJbkF0V2o5QS1RQQ?oc=5",
       "source": "Yahoo Finance",
@@ -3497,6 +4742,21 @@
       }
     },
     {
+      "title": "Exclusive / FTC to block $3.5B veterinary merger",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS3ZPeFF6WUNpaTIwMXlUUnUxcjd2WHBNZV9FaHhBSHk0WHlLbUNtZzJGa18xWVptY1FaLU9SZl9MaEVhc3lQTGI5QzhmUTZ6QnZvQlk3U3JCekYxaDd5SUptM3dIM0JlaENjNV85R3VvZ0dmRGg1aDJ1RWQ2c0RrQnBmQQ?oc=5",
+      "source": "Semafor",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T08:00:00-05:00",
+      "summary": "Exclusive / FTC to block $3.5B veterinary merger Semafor US FTC sues to block Cencora's $3.5 billion sale of veterinary unit to Covetrus Reuters Paws for concern: The Tipline for 13 November 2026 Global Competition Review Covetrus-MWI deal would 'leave pet owners footing the bill",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "CNBC's Official NHL Team Valuations 2026: How the 32 franchises stack up",
       "url": "https://www.cnbc.com/2026/11/13/cnbcs-official-nhl-team-valuations-2026-how-the-32-clubs-stack-up.html",
       "source": "CNBC Top News",
@@ -3534,6 +4794,21 @@
       "category": "Markets",
       "published": "2026-11-13T07:36:28-05:00",
       "summary": "Former Nvidia chief executive is facing intense scrutiny over ties to Beijing",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Texas’ Next AG Vows ‘Tremendous Scrutiny’ of Tesla-SpaceX Deal",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSUFXZS1pa0g5RjNoLW5MUmMzUF9IQkNDWGxsYkFvczU4SDN4MlZVUFZVS0szdnlsQTE5NzFOV2pxWjFoTjNTUDlPaXF3YWtVSzR1MlBFVXZWd0s3MVBMbUs4aG5pbG1IS3RscDBaM3luRk9NMEdiY3hlVzNJdWdpVERsX2hzaGZ2QVMwTWwtaDdfdDJiUzUwaGk1Rnd3VGZQZWFzVkZSUjJCaGpySldV?oc=5",
+      "source": "Bloomberg",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T07:15:00-05:00",
+      "summary": "Texas’ Next AG Vows ‘Tremendous Scrutiny’ of Tesla-SpaceX Deal Bloomberg How Texas’s New Leaders Could Ground SpaceX Texas Monthly What Democrats Gaining Control In Congress And Texas Means For Elon Musk Forbes New Texas governor-elect strikes conciliatory tone toward Musk after ",
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
@@ -3597,6 +4872,21 @@
       "sentiment": {
         "label": "negative",
         "score": -0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Colette Kress helped bring Israel to the heart of Nvidia's AI business. Now she's in charge.",
+      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBtcVpnOXE4Sk9DN25tRFl0VDBSV3dCWUpZTFNpak5FTFhmVVRYWWppV3ZQYkxPSzVsSnJpN3Jwb2hrNmhFRGc2bFJxU3RUMklncm1KemFxai16WU5rNlMtSTZwblYxTC1Y?oc=5",
+      "source": "CTech",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T07:02:00-05:00",
+      "summary": "Colette Kress helped bring Israel to the heart of Nvidia's AI business. Now she's in charge. CTech Before His Ouster, Jensen Huang Belittled the Executive Replacing Him WSJ Nvidia’s next test The Economist Jensen Huang didn’t show confidence in his successor, report says Yahoo Fi",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
         "relevant": false,
         "v": 2
       }
@@ -3778,6 +5068,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Iraq October Oil Output Jumps to Highest Since 2019, IEA Says",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMnUtQXpjOHBHeFFwUnVhMW5rR3ZpTk5hdUdDRTdQVlRZRHJ0R3JTVEJoRGhYRFJsdFdaWWN5ZVBCdXBSSDgwS3hBZnY4SlhZNzdWY0ZwX3pvWDYzclp4QVM3VWNCYzNCcXYtMnFhSUpKOVJybTBobXhPbnRydjVXVGpVd1JfLUprTE9uMXBWT2VkSzVRRHpQNVFIdTNMejh6dkdFZmRFY0lqX2F4aTRLcQ?oc=5",
+      "source": "Bloomberg",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-11-13T04:05:30-05:00",
+      "summary": "Iraq October Oil Output Jumps to Highest Since 2019, IEA Says Bloomberg",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": true,
         "v": 2
       }
     },
@@ -4217,6 +5522,21 @@
       }
     },
     {
+      "title": "The FAA Is Rolling Out Its AI Air Traffic Tool Nationwide",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQbkd6WGx3czFzYkNyNzBLLWczM1JiZUNmdlJYWlMzVjV5NzZfaDlBay04Wm5FaExRamxoNTkxMVJtSEFURDFxWjBDSEhaQkctanlFRTVqQTRRcXhOa0VaUDlSVHdGb3VVRkNpSWo5UDdjNkNVb180S2VsbHcyaW9DSXVURnU1SlJDOWJoVUgwQVdUUQ?oc=5",
+      "source": "Gizmodo",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-12T20:12:02-05:00",
+      "summary": "The FAA Is Rolling Out Its AI Air Traffic Tool Nationwide Gizmodo FAA expands AI advice to manage air traffic congestion across entire US airspace Ars Technica FAA’s SMART AI System Now Active at All 22 ARTCCs FLYING Magazine FAA taps AI to ease air traffic jams for Charlotte’s a",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Kalshi ends Trump Jr.’s advisory role after Polymarket clash",
       "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQTnh6SVJ5YjNzVU5icTNhTWZsemo2bEh5UkV3dHl3VGUtRjlKMUhjczdtYjV2NnBCUkRxZ09ISmQ4d0YyclFMeF9zU2p6VUlMejhiWjlhXzR1ZjZ6cl9VMXFIeGRRWkJINlBWVnlVNjR6aGdXdUt6dlpreEJRVFlxWmI0S3EtT1Mtd3hn?oc=5",
       "source": "MS NOW",
@@ -4228,6 +5548,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed’s Williams Says Inflation ‘Far Too High,’ Work to Do",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPWmwxOGI1cll5UUxfWkNqVEVhOEtfWGZaY1phLWdBdzBDVUhzMWJseXBPdTFsU3dQZW5HRlgzbWo2dEx1cWIxMnpjVjdFV1ZvTzJ5UXZDd1RRcFJyUEcyV2pqWndGc21aQ3JJMUtJeHFCM1JsNFg2eklQTkMtLXZacTFqZnhGaFdpTm1jc3p0cEF2aFNRTVJxckJCTy1MaFRnVGw0MUNiNm5qQ1lCRlRj?oc=5",
+      "source": "Bloomberg",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-11-12T19:53:00-05:00",
+      "summary": "Fed’s Williams Says Inflation ‘Far Too High,’ Work to Do Bloomberg",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
         "v": 2
       }
     },
@@ -4472,6 +5807,21 @@
       }
     },
     {
+      "title": "Micron, Other Memory Chip Stocks Fall on Nvidia Shakeup. Why They’re at Risk.",
+      "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPaElVXy1jS0ZlWS1YeW1tUTliOTZjRlQzcEthZnJxbGktVHV0bWVGWS1FRWFONTNLam5aaHprRFU3NHpmSkh4SDFIUXJuNkIxR2lZcEtZVWhFRFZBZmpNQTRKS05qc1pIdkhXOWhrRE1GT1pWQ1R6Sy0xQ2RHT25CeWRsRVJReXRHY2c?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-11-12T17:24:00-05:00",
+      "summary": "Micron, Other Memory Chip Stocks Fall on Nvidia Shakeup. Why They’re at Risk. Barron's",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Europe's STOXX 600 pulls back from record high as investors weigh earnings, oil prices",
       "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPb2lhYU41THN2eG9LQ3BhakNHMERZZEhUaG05elhtaVFsT3EwczI1QWxtM21uVGFEVUpYR2FkYnlUejJrYzUwRVdfR19SRXFQN1VuQmNmNXluOWVRNUNzdXlrSTRlekpJWDJETF80RTJ6a19VN1BNOFBKbThGYnBmWGdLSktleXdBZEtTMGNOYV9Rc1lVN01TNDhPVXJ6QkxtOGlUaG5FQm1TekNQU2VvV2JwSXhNdmdfT1l3?oc=5",
       "source": "Reuters",
@@ -4528,6 +5878,21 @@
         "label": "negative",
         "score": -0.6,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "COMMENTARY: Trading Day: Weathering the Nvidia storm",
+      "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxObThxM3BRRC1qQ3NIMk1DekU3b2RoTW9IOUdCZ3J3VFNqQm9mRV95dXE3S1NLYmVMUWpxeEk5eXFTMjRxdmd3ejU1MGZyVFcwVTV4TXVIbFJ3VlYwT3pqNWY3Y0pqeGJYVUZHbFBBLUEyXzBxMWdSSTBLRTAtMkhMRFh0a0tCM3MtVVQzVkxBMVQyODdobXpVak5aVVJBaHdVR3NpcHp3?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-11-12T17:00:00-05:00",
+      "summary": "COMMENTARY: Trading Day: Weathering the Nvidia storm Reuters",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": false,
         "v": 2
       }
     },
@@ -5589,6 +6954,36 @@
       "category": "Markets",
       "published": "2026-11-12T05:00:00-05:00",
       "summary": "Rising Yields Don’t Scare This Veteran Bond Manager. What She’s Buying Now Barron's",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "US humanoid robot production could hit 400,000 by 2030 as deployment ramps, J.P. Morgan says",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOSUNLZ3YtTHR3U1dXVUtobzMxMWlKQ0tGV01aSF9SdFVOb3NWZC1lVjZvbThsaTBoUHpiQVlxRDkyRkMtbFpwZGd4b0VFa2JGX1NKNHhvb2dfR0lhNElVRUZ4V0dSRjNkdVhOQ2NTOEJzbGV1T2gzM3M4NDdhSTNSc0k1V1FKWHUyd1hMV2dtZmFQQlVSbWFQTEZPNFBTSGx3VjhqZGdfWnVuaFNPNFZuZXFJMXViSlhDSFFnV1duWHRvb00?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-11-12T04:55:04-05:00",
+      "summary": "US humanoid robot production could hit 400,000 by 2030 as deployment ramps, J.P. Morgan says Reuters",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.4,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Nvidia customer Megaspeed says it cooperated with US inspections, takes export control laws seriously",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNYnRfeVJWNEcwSWtIN0ZRdEFHSGRGMV9sRGFqa3l0VGZfdVVFVEpzVFZEUEhUTkZFcS1RZ29zX0YyWlJDaGNnU0pEUVBaSXJFX2o4cGJlM2tDUGFuWTI4dThTdVg0dkNEb3dKQ2hFTk92dWdicW9nSnBFSlpaRm0ycEtzRmZqMVpoTWNaQ29xX2V1dHlFcFY0bTVSSXhua3RXNWJiQTJqc21GNUgyZXFVbXZSdjRPNy1zNmNhUzFtTHBnVjA?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-11-12T04:53:36-05:00",
+      "summary": "Nvidia customer Megaspeed says it cooperated with US inspections, takes export control laws seriously Reuters",
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
@@ -9632,6 +11027,21 @@
       }
     },
     {
+      "title": "Financial Management Standards",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE9NTUZzNkhkWHpLcUVKVmRGem9MTkJMeTlVUGNpanN1ZzNBdE9ZUDFNdU9keWpod2NFOUI2TGt0aHRsakowNnFxbDRHSThSZw?oc=5",
+      "source": "TFX: Treasury Financial Experience (.gov)",
+      "feed": "US Treasury",
+      "category": "Policy",
+      "published": "2021-06-22T23:07:24-04:00",
+      "summary": "Financial Management Standards TFX: Treasury Financial Experience (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Emergency Rental Assistance Program",
       "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPX1gxOVNhRXRLVklRazlYM3MwMU5lcVFqZUIzNi1zWE9jNUF2UWZ4X0o2aHF3ZE9LWmRveDRiU2RNVUQyM1NYQWl6QVk4QXNmZTlXU1FuWnJQOVR3cjFmVTA4TE9HQ3ZFUk9VNENNblNfTkdxQjNpZUlnZ3lFdlVrWTNTSWZhQmxlR01lR25ncWU4eG16blFWcENkZ2Vhb3dBUkE4djV3c1RYcmNnQ1JNcTlWekxsR3ZEcTVUUDhmX2M5TjVremU2NVVTcFNSNkpEVlhn?oc=5",
       "source": "U.S. Department of the Treasury (.gov)",
@@ -9969,6 +11379,21 @@
       "category": "Policy",
       "published": "2016-12-14T01:49:56-05:00",
       "summary": "Colorado Economy at a Glance Bureau of Labor Statistics (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Information: NAICS 51",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFAtVHYtWmdHSlNYb0VlTVRDT01HaVFFMUl5ZWg1dUhBaVE2eENqR1dzbmJObmlhSTlka3BnNjc3YmpHQXE5MndtNmEzMnFVdw?oc=5",
+      "source": "Bureau of Labor Statistics (.gov)",
+      "feed": "BLS",
+      "category": "Policy",
+      "published": "2016-12-14T01:49:52-05:00",
+      "summary": "Information: NAICS 51 Bureau of Labor Statistics (.gov)",
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
