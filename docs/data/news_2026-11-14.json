@@ -1,51 +1,261 @@
 {
   "date": "2026-11-14",
-  "generated_et": "2026-11-14 13:36 EST",
-  "count": 586,
+  "generated_et": "2026-11-14 16:17 EST",
+  "count": 626,
   "by_category": {
-    "Markets": 310,
-    "Economy": 155,
-    "Policy": 121
+    "Markets": 338,
+    "Economy": 164,
+    "Policy": 124
   },
   "mood": {
     "overall": {
-      "index": -32,
-      "positive": 56,
-      "negative": 109,
-      "neutral": 127,
-      "relevant": 292,
-      "scored": 586,
-      "total": 586
+      "index": -37,
+      "positive": 57,
+      "negative": 123,
+      "neutral": 133,
+      "relevant": 313,
+      "scored": 626,
+      "total": 626
     },
     "Markets": {
-      "index": -17,
-      "positive": 34,
-      "negative": 48,
-      "neutral": 34,
-      "relevant": 116,
-      "scored": 310,
-      "total": 310
+      "index": -21,
+      "positive": 35,
+      "negative": 54,
+      "neutral": 37,
+      "relevant": 126,
+      "scored": 338,
+      "total": 338
     },
     "Economy": {
-      "index": -48,
+      "index": -53,
       "positive": 21,
-      "negative": 60,
+      "negative": 68,
       "neutral": 41,
-      "relevant": 122,
-      "scored": 155,
-      "total": 155
+      "relevant": 130,
+      "scored": 164,
+      "total": 164
     },
     "Policy": {
       "index": 0,
       "positive": 1,
       "negative": 1,
-      "neutral": 52,
-      "relevant": 54,
-      "scored": 121,
-      "total": 121
+      "neutral": 55,
+      "relevant": 57,
+      "scored": 124,
+      "total": 124
     }
   },
   "items": [
+    {
+      "title": "SpaceX plans to try first-ever catch of Starship rocket from orbit",
+      "url": "https://www.cnbc.com/2026/11/14/spacex-plans-to-try-first-ever-catch-of-starship-rocket-from-orbit.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-11-14T16:14:46-05:00",
+      "summary": "Starship Test Flight 15 marks the first time Elon Musk's company has tried to catch both the booster and upper stage of the rocket.",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Fed Rate Hikes Threaten U.S. Farm Margins as Debt Hits $605 Billion",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFAzeVIwRHdsY045UWNkZThtVkhWb2QwWVhVSlVFaUM1TTRCV1dNRVh5ZDJEV1JqZnNGYlBlam5sS2RhVkJ1dWUwTVhLRmNfdEpUeDVpVldtcDZibUJ5eHdOUTVOa0U3eTBpSFlQaGpVSVZoXzZMUGtjelBHQQ?oc=5",
+      "source": "AgroLatam",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-11-14T16:04:04-05:00",
+      "summary": "Fed Rate Hikes Threaten U.S. Farm Margins as Debt Hits $605 Billion AgroLatam",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "I inherited $1.4 million from my father. Am I wrong to ask my husband of 25 years for a postnuptial agreement?",
+      "url": "https://www.marketwatch.com/story/i-inherited-1-4-million-from-my-father-am-i-wrong-to-ask-my-husband-of-25-years-for-a-postnuptial-agreement-b739c51d?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-11-14T16:00:00-05:00",
+      "summary": "“He has always said he wants his daughter to inherit a chunk of his estate, and I’ve never objected to that.”",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "BOE’s Case to Raise Rates Again May Strengthen on UK Price Data",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPMTVWYmlSSkRLUWpBSHctZE9JWHZQVHhpNnFLellld3NXYzJiVl92VmpBWEViTHBhVEd1dGlyYTdFSXdOSTdfWWJGLVVsNXg5NEQ4S3RSZlhzR0hiUmRQTmpnR1lPU3BVMjZBNVZ1RmFQRmN2Q0I4WGtqdDlNM202dFJFZmMyRjhicXdnR1U3c3QtUUJpeFFwNVFfQ2Y1QzZvT2NLeXVla2hpRDg0R3d5WDBxVjQ?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-11-14T16:00:00-05:00",
+      "summary": "BOE’s Case to Raise Rates Again May Strengthen on UK Price Data Bloomberg.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "3 High Quality Dividend Stocks For Investors Watching Interest Rates",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaG8tbnBwbG9RR3o0OVVoU0ZIRmZUUmdibmVEd3hya3ZRaVdteXRFZWJDbTU3TndNdHRJd0hXSkNxa2V0QW12TGlyM2ZWLXpKRzd1aHJoVzFFMVduZEhRSFY2VFB2VjhiQ0h4Mk5UeXZJQmxpMmo0cmlYYVlVMGI1ZlJ0TG5XQnZQVDJLbGJLVkw3R0s4UlBrTlY5QQ?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-11-14T15:08:19-05:00",
+      "summary": "3 High Quality Dividend Stocks For Investors Watching Interest Rates Yahoo Finance",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "‘It leaves me with a sour taste’: My elderly mother gave our cousin $800 for a car repair. Should I be worried?",
+      "url": "https://www.marketwatch.com/story/it-leaves-me-with-a-sour-taste-my-elderly-mother-gave-our-cousin-800-for-a-car-repair-should-i-be-worried-88dbd188?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-11-14T15:00:00-05:00",
+      "summary": "“I know older people can easily feel patronized, and I don’t want that to happen.”",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Nvidia News: Jensen Huang Out, Hot Inflation, Gold Down",
+      "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBCZGZ0b0h2NnhVcVNiMHYxRW9ieXlhWDlDRmo0WENOVHhrdVBFRlNmZ1U3eHRNLTIxUkVtUmYxR2xYT0NvN2wxNHg1eWdGckF4cEQ2RTdoZlJRTmF0STlLcw?oc=5",
+      "source": "Briefs Finance",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-11-14T14:57:57-05:00",
+      "summary": "Nvidia News: Jensen Huang Out, Hot Inflation, Gold Down Briefs Finance",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "‘I’m sick of flying’: I paid for priority boarding, but the overhead bins were full. Was I duped?",
+      "url": "https://www.marketwatch.com/story/im-sick-of-flying-i-paid-for-priority-boarding-but-the-overhead-bins-were-full-was-i-duped-0badcc80?mod=mw_rss_topstories",
+      "source": "MarketWatch Top",
+      "feed": "MarketWatch Top",
+      "category": "Markets",
+      "published": "2026-11-14T14:30:00-05:00",
+      "summary": "“Maybe next time I’ll try the other approach: I’ll board whenever I feel like it and drop my suitcase in the first open slot I see.”",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Why L3Harris Stock Lost Altitude After the FAA’s Nationwide Groundstop",
+      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE42Z0tNVmxHT2hjX2d1cVR2LVB2ZjdlT0Z6U1FrYmVva1FtZ3h2c0F1cWpHNlJ0QkxacnV6YkdUVlQ2YmtCUnk1aTMtQjlzRmRBdHFYTE93LV9JUEI2R2lEUV9zTnJMc2NfZ0E2aWdIQ2xpS1FqRE9EVmd4cVY?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-11-14T14:11:00-05:00",
+      "summary": "Why L3Harris Stock Lost Altitude After the FAA’s Nationwide Groundstop Barron's",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "FAA ground stop lifted: NYC-airports facing delays, cancellations after communication issue",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNak9Rc01NYUMzUjBsUWJQVDJZUjNNaWJNajNzQkhDSTNEOVpxTEV5UTZkbmlCN09helEyay10SHNZVnZ2QWx3c19JMVhDbVpPcWRXUWRCMm5YMS1uOUlQbk5SSjNud0s3UFA3eWxkT1lQZnRqcWYxREFjQXYxYTNqS3RaYXItQjJYSUdDNWZqTHprTWRlWVNWX1NGak1iNEVkQ05OR0V3Q01iWlpPRldfLThsSEd5YjBf0gG-AUFVX3lxTFB5RG9vSjlueXVjTThUWUUtRVFDMm4xTDVDU1M3ZTVlTV92bzRnYmVLV2IxcEhBVGlJQXB1QVBXRV9ZRXBRcnFtTjV4MFB4SXJyalVHa3JUVVM4bkNKTk1VemtBSmZsNXdWMDlNSTZBVElmNGRQdFhKd0F4cUhDb0xGdnFTY1MwUTBTRFBKMzJNRFpLa2dUNXIxeUVLdU9WMXR4Q2JiYUJ3Zlo4bzhFd3o4bGJIN1NyWjBrV1ZNSmc?oc=5",
+      "source": "ABC7 New York",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-14T13:58:28-05:00",
+      "summary": "FAA ground stop lifted: NYC-airports facing delays, cancellations after communication issue ABC7 New York US Flight Chaos Spills Into Weekend After Nationwide Stoppage Bloomberg.com Over 820 flights delayed, 65 canceled amid widespread U.S. travel disruptions Yahoo Nearly 700 are",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Anthropic IPO to test Wall Street’s faith in AI as skepticism mounts",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQcHZ4cmtrWmFOWXB6M0oyLWFDX2dJMEdOV3ZVelNIUUxpZDF4ZkdJaU5EZ2t6bUduUk9MaFJleEdsOHAzY3V6bWRzNmpxaTJFVGxYQVFic1BBU2VsUU01TjQ3S2dHNWlhZVhZczVzNi1aNTFLV3FnYmx0SVNsNjh1RC1FX21LZ0V0R0ktaDRLWTJjSWl6MHU1bUlrN3UxN0dXMklxNmV6T0VCalBZWm1aYUZYY05LdXJaWGtpM1c3UUFQb1Q5Q1M0Wk5YWQ?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-14T13:56:19-05:00",
+      "summary": "Anthropic IPO to test Wall Street’s faith in AI as skepticism mounts Yahoo Finance Huang's exit, Anthropic's entrance Reuters Smart Investor: What’s Next for Nvidia, Undervalued Earnings Crushers, and is Anthropic a Buy? Morningstar Anthropic IPO Is ‘Jenga Block’ Holding Up Next ",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Arteris: Chiplet Royalties Could Redefine The Growth Story",
+      "url": "https://seekingalpha.com/article/4968214-arteris-chiplet-royalties-could-redefine-the-growth-story?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-14T13:54:36-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Nvidia's leadership crisis rattles the AI trade. Here's how we're adjusting our portfolio",
+      "url": "https://www.cnbc.com/investingclub/2026/11/14/nvidias-leadership-crisis-rattles-wall-street-how-were-adjusting.html",
+      "source": "CNBC Top News",
+      "feed": "CNBC Top News",
+      "category": "Markets",
+      "published": "2026-11-14T13:48:39-05:00",
+      "summary": "Despite the turbulence, the S&P 500 secured a weekly gain of 2.5%, while the tech-heavy Nasdaq added 2.3%.",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Cardinal Infrastructure - A Bombshell Report, But An Interesting Situation",
+      "url": "https://seekingalpha.com/article/4968213-cardinal-infrastructure-a-bombshell-report-but-an-interesting-situation?source=feed_all_articles",
+      "source": "Seeking Alpha",
+      "feed": "Seeking Alpha",
+      "category": "Markets",
+      "published": "2026-11-14T13:42:44-05:00",
+      "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
     {
       "title": "Nationwide ground stop followed contractor upgrade to L3Harris telecommunication system: DOT’s Duffy",
       "url": "https://www.cnbc.com/2026/11/14/faa-ground-stop-flights-resume-delays.html",
@@ -103,6 +313,21 @@
         "label": "negative",
         "score": -0.5,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Stocks Needed a Clear Runway For a Post-Election Rally. Nvidia May Have Blocked it.",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRFJqMFYtOHJNMktqd1FSSlozbUpTUDdUdjB1aDg2Nkt0Znd3Y000R3ZYUjdJT3psX24wb0VZTVFFRlRFTUVEMzBNOVFZZ1Y2dzFYSkdkMVhEWFJOZXdweFpEYkJaUHBCaWNndk5LSjN3d0YtYWppYlh3S0pUMmpJaFBEU0ExLTNyQlE1TlN3?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-11-14T13:19:26-05:00",
+      "summary": "Stocks Needed a Clear Runway For a Post-Election Rally. Nvidia May Have Blocked it. Barron's",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": false,
         "v": 2
       }
     },
@@ -422,6 +647,21 @@
       }
     },
     {
+      "title": "Inflation Becomes the Central Economic Risk for 2027 as Fed Weighs Rate Hikes - News and Statistics",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWDc3ampZdTIxZUZNN2lhTWVWYjBUZTRPd2xqeVdYLXVtUVJlYzBWdUI2Q3JXRWIxaC1oZE1Sc3RTTkJZSmNJYVNqQnp3V1FJU3RWY1d1QkJuakVkcUJRX1JodFR5OG1uRjBlQTI5RVdYRkhMRlp3NWtlYkk4bUFXcFFmRVZsT0NrejU4endR?oc=5",
+      "source": "IndexBox",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-11-14T12:00:29-05:00",
+      "summary": "Inflation Becomes the Central Economic Risk for 2027 as Fed Weighs Rate Hikes - News and Statistics IndexBox",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.8,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "A rapid interest rate rise seems inevitable – and UK households are expected to pick up the tab",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPZWg2eXA2U2I2QTRzRWFjcVV2X1hQaURhamh1aGJId3lGUWRRUkZySEdHWm5TOUdxOW5lZ3VISVZGTmxBTERqNjlxLTVqVXlaRkdxNzJSYTBoNlJWeFNzeFI4Sld4d2R5NkZuWmhHdUR2MWF1RGN6UG1sbkR6VC11NFViWUxpbHg0X1R0aHp3eVJ4WnpRdVlKUG5NMEVERmNL?oc=5",
       "source": "The Guardian",
@@ -448,6 +688,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone'",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPREhQQTJ6T1M4cmdyMzU2SUhaYWszWDZOOWp0TzJ1M240RnY3RjI4OEpCQmlHR0pFbU1FekdXMXE1dzVjVHJlZ2ZMUjdOYXZIem5JY01DQ3JyYnIyUWxnZWNoR25TTG9DdExHNjNGMTdSNzJLZ3pKQ0JJeWxzMjV5cUlid3JkR0czV3ZmWlRnWXZ5QVBaSFJYZmltaU1Caks4NkdPTHo2bjE?oc=5",
+      "source": "CoinDesk",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-14T11:42:10-05:00",
+      "summary": "Bitcoin price analysis: BTC continues to decline Saturday, entering 'deep value zone' CoinDesk Bitcoin is falling to fresh lows today: What’s causing the crypto decline? Fast Company Bitcoin Holds Below $70,000 as Risk-Off Mood Pressures Crypto WSJ Bitcoin Just Crashed Toward $66",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
         "v": 2
       }
     },
@@ -643,6 +898,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Jim Cramer has a strong take on Nvidia’s next chapter",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOY3hTc0QtYmJINkVRNkpHSTVjZGJfRkhRSDRxdk1pNmpVMFkxRUxuXzNMekhUbWptdnJzNWwyTlgzQUtBX3h6aXN3WkU3d1hXYjYzNTZWLUx0R1R0QVFldk5KNE1iS2k4VjdGeGVaY2xrSm83b3BaQThSMExIOFBwNWNsX2w1dDV5Tk05NVo2N3BhNFdKT2F3SWI2aw?oc=5",
+      "source": "TheStreet",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-14T10:33:00-05:00",
+      "summary": "Jim Cramer has a strong take on Nvidia’s next chapter TheStreet Jim Cramer has a strong take on Nvidia's next chapter Yahoo Finance Cramer says Jensen Huang betrayed Nvidia shareholders. How to pick up the pieces CNBC Jim Cramer Says Jensen Huang's NVIDIA Exit 'Had to Happen' Ben",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
         "v": 2
       }
     },
@@ -857,6 +1127,21 @@
       }
     },
     {
+      "title": "Ukraine's Zelenskiy escalates criticism of SpaceX over speed caps",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOMkhQTnktYkc2Wml2dS1JOURUTUtNSFNQell6R1BFY2FqT05iWUdKRV9SWC10WlJtbTNzdTJZUzJoZ3k1eUNSTVQySEhRNEp6dGd0VHIyNFkwSnFCeGtzQ1Y3MlI4eHBXbUlFX2tIbTE0TFpMYmZNcUVuSDZnS1c0N2haUk5NLWM1T3NSaWQwc0MwbUpjZjdZR2UwblVEWFVnU3RNaTlYSXA2QTh3SWxFUG05QjIzV1l6LUdEd2dHN0g2UQ?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-11-14T09:37:30-05:00",
+      "summary": "Ukraine's Zelenskiy escalates criticism of SpaceX over speed caps Reuters",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Heating oil prices are up 59% from last winter. The spike is 'crushing folks,' Maine nonprofit says",
       "url": "https://www.cnbc.com/2026/11/14/heating-oil-price-spike-household-budgets.html",
       "source": "CNBC Top News",
@@ -882,6 +1167,21 @@
       "sentiment": {
         "label": "positive",
         "score": 0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Jensen Huang had a strict meetings rule for his 60 reports—Nvidia’s interim CEO has a similar mantra",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOZlFvTEZKTFVZb2VHMGxvQTJST0xnSVpPcnRzVno2VVg3TG1HQkFVTjlhUUxVRkN1eXc2SDd3VlNlVjlyMlBUOTh4Q0lQa2xLb3NtOTVhUEh1UENZS2xDNnBwVF9JMnBUU0JOa3Awd0VuNkE5RlE1Si1TTlJwSkgtU3BHcE9oSmVvNkF6VEFMYUJFNmJURlRNMHdXNGxuS2hxX3k1Q01JWVkzZWZk?oc=5",
+      "source": "Fortune",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-14T09:20:00-05:00",
+      "summary": "Jensen Huang had a strict meetings rule for his 60 reports—Nvidia’s interim CEO has a similar mantra Fortune Before His Ouster, Jensen Huang Belittled the Executive Replacing Him WSJ Nvidia CFO to CEO Transition: What Finance Leaders Should Know Forbes Nvidia’s next test The Econ",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
         "relevant": false,
         "v": 2
       }
@@ -1029,6 +1329,21 @@
       "category": "Markets",
       "published": "2026-11-14T09:00:00-05:00",
       "summary": "",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQWxWWXV2SzNsbkhDOUtQWVVfWVp3RjdkRVB0djV0TUpnU0ExUVFnWk1Ba1BiS0F4RkpSVVBibDFhWXowWTVnYklLX1BnMTUzbndYeVJfSU1zNnJtbC1XMnFoYXRQZC01NXViRnRrLWpGUmQycG1MSHktQ1Vublo5QVhUS2ZFZk5MZEpfNXcyc0t1Rk9hakppUExNcEZZMGc3RlpBR2o0RHVQdE9pM3ViaHFLNkg?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-11-14T09:00:00-05:00",
+      "summary": "SpaceX’s S&P 500 Bid Gets New Life as Musk Pitches Tesla Merger Bloomberg.com",
       "sentiment": {
         "label": "neutral",
         "score": 0.0,
@@ -1247,6 +1562,21 @@
       }
     },
     {
+      "title": "BoE’s Greene says acting proactively now on inflation would ’screw’ things up the least By Reuters",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPMzhkcmVwV2tRVjJnUXdnUnRGZVI4MDVFYllWMm1oTVZueEFaVmUyakVBbVNyQkZ4aURFQUV0T2JtbF82NzlZanNFWWxSVjcyOFpzTGc0OVI0NVVtdjZjWEpoOWxBend2MU9PcDF2eVFwREhrS0lNQ0M1MlkzUms0cmxGeWFDSFNSMGhSWGpVVDB4V28wXzd6WkktbTQ3X0N6djR0aXZBYmdsYmhPRS1qVnpxNjN2OUZMZlFZSU1kOUpXVm9Val93bm1TbmhjbnktTFE?oc=5",
+      "source": "Investing.com",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-11-14T08:01:26-05:00",
+      "summary": "BoE’s Greene says acting proactively now on inflation would ’screw’ things up the least By Reuters Investing.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Trump Media group stares down $1bn debt crunch as bitcoin bet fades",
       "url": "https://www.ft.com/content/ada459c4-5f43-4a4a-bc6c-90de8897a4f0?syn-25a6b1a6=1",
       "source": "Financial Times",
@@ -1307,6 +1637,21 @@
       }
     },
     {
+      "title": "Wholesale food prices are on the rise",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBKc05JZEtZNzBDd1dRVlI2anE2Qi12ZG1pSmgzOGh0ZGxzUURiYVhDVHV5Y0hheHRWTmQyVUNUcVZDM0RMYmlsekxqMmRQbHFGZHFwQ3dhRmVuSDdXZ1pxZWprUFJ2TG56azRjYUsxMXN6M21xSFl0TWwzMA?oc=5",
+      "source": "Axios",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-11-14T07:16:00-05:00",
+      "summary": "Wholesale food prices are on the rise Axios",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Meet the seven co-founders of Anthropic",
       "url": "https://www.cnbc.com/2026/11/14/meet-the-seven-co-founders-of-anthropic.html",
       "source": "CNBC Top News",
@@ -1322,6 +1667,21 @@
       }
     },
     {
+      "title": "The Massive Chinese Spy Operation Targeting Western Tech and AI | The 10-Point for Nov. 14",
+      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNaXd4UlN6UWw5UmxJZGc3QnA5Sm5hVi1hRUl1blh3bnRfSnc3Zk4yeG53UjdFbjFvaklZbWRrN0ludmgxbm02cDFBZURTaXdDQTNxZ0gyZUk0OG5XeGVUUy1CZW94T19IUmVLWmFacU02eDVLbnYxcGU0TDI5SDVxMTQ3T0RaanNTdFFaUWpWZEZIbnVDU0hyUFpUVHAzajF4bTlJaWlCUQ?oc=5",
+      "source": "WSJ",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-14T07:06:00-05:00",
+      "summary": "The Massive Chinese Spy Operation Targeting Western Tech and AI | The 10-Point for Nov. 14 WSJ Jensen Huang and the Storied Lineage of the Honey Trap The New Yorker The hottest job in AI right now may be counterintelligence as companies hire to protect secrets Fortune China’s Int",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "What Nvidia losing its founder did to stocks. The week on Wall Street",
       "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNQ0g0WTROTWJLYTVqeUVzQ3lRakF5bmJXa2dQX1NBWHJ1WldBWUU1Nk03LU4tSXpyMzdENGJNSU5xTzZDYXFyOXFQdFoyeG5CUW03SGxCczI2dmxPWWk2U1ZNeXlmRUtKTkQ5cUxBTEdpaFFVUDNEREtfV1FPM3NkRWV1UzdQSURoZHItLWtPU0RvS1RWQno1d1VoNnlRM0Z1?oc=5",
       "source": "Detroit Free Press",
@@ -1332,6 +1692,21 @@
       "sentiment": {
         "label": "negative",
         "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "GOP newcomer who toppled Cory Mills sets sights on fraud, inflation as he heads to Capitol Hill",
+      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdFdydGVzZDlmTlN6QkxPRllBZW9xYjNYTWRyLXhzeDJ5WW5RSGlfLWpra3pGZk5qNHdVQmtBa3A1VHlGYl9nU3BKV05FTTJ6X294UnhOQ0pyLUJvWHNFYWt5LXY0RFZMc0dQOWlUQ3ZYcThXQUNsT0c3aGNfdm1kSndGcU9aSTJYSmNLaTZQcV9mZlRTQ0wxNmk5TWhYeWVEWkxJY1dDd2NETGo3V1VSd05RZmU3UGtuWUHSAb8BQVVfeXFMUFFwRzhZanVxUlI2WlVVUWxYcFZXUFJTT2p4bExmajZaLV9PSEh1b0JZVzQxUi1iZ2JwcHdTQ3dPYWdZLUdMZnQ0V1JFYURJRnAtZTdJLVRqT202eXlQVkJYSVk5dzl1UnJUVll5b1dvRi15bTR1eW1kdHpnZ0RUYVN1X3FiSzdfQVF0SG9KSWhnYVJ0NHQ4UmJ4OWI0RDRNV29XSzFFZmZVY3I5Q1lEREFrampNVk5neFNjRnVVUm8?oc=5",
+      "source": "Fox News",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-11-14T07:00:08-05:00",
+      "summary": "GOP newcomer who toppled Cory Mills sets sights on fraud, inflation as he heads to Capitol Hill Fox News",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
         "relevant": true,
         "v": 2
       }
@@ -1363,6 +1738,36 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Not Only Did President Donald Trump Fail to Keep His Social Security Promise, but He May Have Accelerated the Program's Path to Insolvency",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNeXBxTEFJVDkzWFRJZHItVmxhdkpOV3pxTHZCNUVWd0dCMzJBQ0xoZG95M3lYMHA1dndncnhPenlLNjVCY0tSeGpEUzI1eWttN215ckhiQ1dndXlDem92dDlYU0xONFdicG9mOGdfcGZfWVNBVzJXZzlZeEExdW8wOXpVOThHaFBkQ1hQc3I5SFJwX1k2ZkRjbXlUUnA2aUlpc00wZHllTm9qWFN4bjlnanhJZU1TWE5CelBEV05TQXVtWG5yaDlqWDVLclg?oc=5",
+      "source": "The Motley Fool",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-14T06:36:00-05:00",
+      "summary": "Not Only Did President Donald Trump Fail to Keep His Social Security Promise, but He May Have Accelerated the Program's Path to Insolvency The Motley Fool Social Security cuts: 28 states could lose $500 or more per month Yahoo Finance How Income Inequality Affects Social Security",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Restaurant chain may rethink controversial 20% service charge in some venues after customer pushback",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOdGxYdXZud184OEtMeENqNkIwRzhneHlEUEdjRU9TY0ROYlQwNEFtUElMd050OERUZWZyZ3RlR1UtZ0xjcXY1OWt2VFdMcHdkVUpsclgtcndkeE5kT0tOeGhsaEIzb0w4SVF2dHh2NE5CeDlhY1dTRngzRWJJU1Z1dmNVRXQ2OXRRS2s5dkFqTnFsbVc1Rmo0ZEVscGFfX3JOeUlmelMzb2x1VXdQRDYzRUNoekZibWxpb05fTlZ5WW1xMjBoRjd5WXBYY9IB0AFBVV95cUxPZ3hOZDlLc016ZVFVOUN0LXVxbTAyVHB2VXJmTTJvWDkxV2phS08yQnQ2N0g3ak5IcHQxbUQ2S3lhRi1mNnR6N1hVeWQydHRNb0lNN3QzcS0tTDNBcHZ2bE4xbWdVRmVIakVFQURwQXNaVGRldGd6b3p4eDFCRWZPMTFGV3o2V0tPdTZZcC1reDk0amtHX1o2MFFfYmV0VS1MNFR2bHRiUi1TYUlDMElUQVNHTUc3bW53WVlubXdEUzhQd25tMEo4RmE2TGVxR2Np?oc=5",
+      "source": "Fox News",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-14T06:00:44-05:00",
+      "summary": "Restaurant chain may rethink controversial 20% service charge in some venues after customer pushback Fox News",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
         "v": 2
       }
     },
@@ -1719,6 +2124,21 @@
       "category": "Markets",
       "published": "2026-11-14T00:20:00-05:00",
       "summary": "China’s Market Regulator Warns of Global Asset Repricing Risks Bloomberg.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.7,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "BoE chief economist says further rate rises needed to combat inflation",
+      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeTJBZmNHSzM3d2RiV3RfdWVIaGdWbXc3YS05LWRUUENvMmVaakRlSXBndzNEd1lqbHJjSUk4Um1nTFRraXBqLUVWVHA4SUlBSXVLZHBBUGJlZmNnejc0aXM5alNITDdxZnUyb3FvV3ZiNXg2dGltSWFZT241WDAtV050WTE?oc=5",
+      "source": "Financial Times",
+      "feed": "Google News: Inflation/Fed",
+      "category": "Economy",
+      "published": "2026-11-14T00:00:46-05:00",
+      "summary": "BoE chief economist says further rate rises needed to combat inflation Financial Times",
       "sentiment": {
         "label": "negative",
         "score": -0.7,
@@ -3197,6 +3617,21 @@
       }
     },
     {
+      "title": "CoreWeave and Nebius Lost a Friend in Huang. What Comes Next for Neoclouds.",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUG12T0o5WFcxVXdfQ25oMjJyR2xqdUp2cnNSRXJpOVFuWUFvcHJJWHhIR0pKa3A3VTlSbmo4TjluNHkzYkNOd2dxSS1ucXNkUzVNQ1c5aXJ0MWlrdUhaVFRtX1I3X2s2X3JfbXltaUNsbGU2dmFvVmkzbWRMbW8tQk4xWFRYaWhUMmViUnhBZ1Q?oc=5",
+      "source": "Barron's",
+      "feed": "Barron's",
+      "category": "Markets",
+      "published": "2026-11-13T09:54:00-05:00",
+      "summary": "CoreWeave and Nebius Lost a Friend in Huang. What Comes Next for Neoclouds. Barron's",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "US Wholesale Inflation Picks Up to Fastest Pace Since 2022",
       "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOcE0tUnMzeG95OWFMM29VYmF2S3lkTmZ0ODFqYmw0TVhzaXE5UE5OYkJVQzdGYlVka3U4aUNRZWIyY1JEUE1JNlo4LVFVb2tBLWVseFkySXNSS1JuZmJXS2pyVU80cE5hRDdYSHE5NWd5SGw2SFk0NlVOc2NtbFlzdHNhaHhPXzdXd2lUOVVBUjVqZWFqUkFwcWN3dHFleTE4VGZlVg?oc=5",
       "source": "Bloomberg.com",
@@ -3204,6 +3639,21 @@
       "category": "Markets",
       "published": "2026-11-13T09:44:11-05:00",
       "summary": "US Wholesale Inflation Picks Up to Fastest Pace Since 2022 Bloomberg.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.8,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "PPI report: Inflation shows signs of broadening in red-hot wholesale prices, keeping pressure on Fed to hike rates",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxOUF9BM1A1S1AzRHd2VEpNRDF2SEU2WjN2WDJFTXRQYl9PREhYVVRlTUllcm1uTEtaZHRybGhPRnBDdzlxZy15MHJFRkc3SF9mVHlSalVCRkVEenhFNEFCbVY5TV9aTl91eU5Uamd5UWNBSVpDOEZMSjBCdU1OZmxQWXNmdHhnSnlRY1JpWXNrU0JtWDVqdUJvM3VHN0NCRW9pRG03MHNJUnlSUTBqMmxhaDFBTUJReTJwLU0zVVBHcFZHV2Z1cW9PQTUxaXhJVXdBU05rWnFVeXNqN3RlZGdvZ1U3SjRWNTZyVktCcUx1RTh1a241TDBaY1BQZXdmdw?oc=5",
+      "source": "Yahoo Finance",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T09:36:09-05:00",
+      "summary": "PPI report: Inflation shows signs of broadening in red-hot wholesale prices, keeping pressure on Fed to hike rates Yahoo Finance Wholesale inflation rose in October to highest annual rate in nearly four years CNN Wholesale prices rise at fastest pace in nearly 4 years ABC News - ",
       "sentiment": {
         "label": "negative",
         "score": -0.8,
@@ -3362,6 +3812,21 @@
       }
     },
     {
+      "title": "Exclusive / FTC to block $3.5B veterinary merger",
+      "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQS3ZPeFF6WUNpaTIwMXlUUnUxcjd2WHBNZV9FaHhBSHk0WHlLbUNtZzJGa18xWVptY1FaLU9SZl9MaEVhc3lQTGI5QzhmUTZ6QnZvQlk3U3JCekYxaDd5SUptM3dIM0JlaENjNV85R3VvZ0dmRGg1aDJ1RWQ2c0RrQnBmQQ?oc=5",
+      "source": "Semafor",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T08:00:00-05:00",
+      "summary": "Exclusive / FTC to block $3.5B veterinary merger Semafor FTC sues Maine-based veterinary supplies company over acquisition WGME NC attorney general sues to block veterinary supply merger, citing pet care costs WECT Paws for concern: The Tipline for 13 November 2026 Global Competi",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.4,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Global Equity Funds Draw Record Inflows, BofA Strategists Say",
       "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeVZXS212OGt6d0I1N3FuYUpNX0pUajNIakhoQklCalpJSkFGVUJGdFpsVENFbHM2alZJTC01enVvM1lFNHU3LVB0U0VuaDlRMktWY25YR1hGblYzN29sajExX1BJaFZNVXljZC11NkZTSU5kdjQ5c1k1VzMtbXl2cTdadmZ4a2tmZ24wTE40X2pwSGF0d1QxUkNocjR5ZVh1YXFYTDNDQWtaRHhFR1ZGTQ?oc=5",
       "source": "Bloomberg",
@@ -3403,6 +3868,21 @@
         "label": "negative",
         "score": -0.4,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "China’s Improbable Transformation Into an Automobile Superpower",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNS29nRmNzclNScl9rZ0dHdWc5VFY4LWtoRmZfaFdwdmJYUDhYaFVWYndVazdxNFUxdV9INXc3MmRfdHQ0Y0d1b214aXRYb0l3ZVUwMHJ0Nk9jMzgtVXFoUzRlbzY2YVpCZDRSSGs2VnhtcGNBaWNvOGI1VUdoNDhaRXprYkxwclhqaF84d3hveFJxVjhjbG1HR0pNNFVHekVlUENobGRWa0l4RXlva1pmRXBlOVhLbm1jbzAzOW9qaGhKTDg?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-11-13T07:00:05-05:00",
+      "summary": "China’s Improbable Transformation Into an Automobile Superpower Bloomberg.com",
+      "sentiment": {
+        "label": "positive",
+        "score": 0.5,
+        "relevant": true,
         "v": 2
       }
     },
@@ -3582,6 +4062,21 @@
       "sentiment": {
         "label": "positive",
         "score": 0.5,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Oil Market Report - November 2026 - IEA",
+      "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBCcjlkUGFSSXRUNklHMVJrTmNYV3NtX1gzMUJ5cjlwOVI4ZzZtWE0yVmdxU1VxYmJfcEJrcDNRNkxqbS1pcWs0R0VaelUxWncwR2pMQ3FpQVRsb0U2RDhyQlBIcEVKZFFhNVRv?oc=5",
+      "source": "IEA - International Energy Agency",
+      "feed": "Google News: Business",
+      "category": "Markets",
+      "published": "2026-11-13T04:00:00-05:00",
+      "summary": "Oil Market Report - November 2026 IEA - International Energy Agency Global Oil Market Set to Return to Surplus as Gulf Exports Recover, IEA Says WSJ World oil market is returning to surplus as Gulf exports recover, IEA says Reuters The Oil Market Is Brimming With Crude Despite Ta",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
         "relevant": true,
         "v": 2
       }
@@ -3797,6 +4292,21 @@
       }
     },
     {
+      "title": "What is APEC and who will be there?",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOOGUtWDdCbkpKT0p0c2lwR3dQVG1Pa3E5eHUzb0g4MllEWXlnclA3SEpSV3BIY0hEQXRzN29qM3hxalB6MjZwWW5ub2NuRDZZLU9iaVJZZjlwT2lHWllHWVd6NURNRlFNY3BaeTlNOGhqby1ydjdRS3dEZTRUdGo2SGV2bkZtZnF3dFNUOFNURUtVc1JLVDByX2hkN25sdWFYNUF1ZVJVUW1tZGFj?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-11-12T22:05:00-05:00",
+      "summary": "What is APEC and who will be there? Reuters",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
       "title": "Indonesia budget deficit at 1.5% of GDP in January to October, minister says",
       "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxORkhtYW1DTHRTRXJVRDNUSWFfaFZKOVBqSHRPWFZsZlUzNng5QWdwdFlnZW9UajBXNS1LUlNodThfNFdyVjBqMjlrTWlLb3dMM25hX0d5cDRBSTh4dm9BanFjdGlGNG9wa3QxOUlsNm4xRTFyY3czclBWQTRSeWJVQUVxMWh6bVRpRVVoQlpaVmU2a2cwODk5YWpaNGRoWlh3UWx0T3ltRWxPS2ZXSE5j?oc=5",
       "source": "Reuters",
@@ -3962,6 +4472,21 @@
       }
     },
     {
+      "title": "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOMEFwN0FWdjB6blNtR0RZaTBWZXZDaWVwYkhXREttY2FaYVNNVC1qNEFHYm9Yd1pDODBDN2tvNzhnMTY4cmxWYTg1WVFidzFlNVFEdlZNb3IyZG1nS2FKcHAzUERhQW9EdG9oOER6YmwydXZOd0t1VHRub1BCdFdoR1V4dktlUVUydjZWeU53aVdKMGwtOGFtZmd2T3VhODF3eXhPazVtbV81b0hpUi1vcw?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-11-12T19:04:59-05:00",
+      "summary": "Nvidia CEO Jensen Huang resigns in blow to AI boom he helped foster Reuters",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.5,
+        "relevant": false,
+        "v": 2
+      }
+    },
+    {
       "title": "Oil prices rise after Trump says no Iran deal needed: 'We've got their Strait'",
       "url": "https://www.cnbc.com/2026/11/12/oil-prices-jump-after-trump-says-no-iran-deal-needed-weve-got-their-strait.html",
       "source": "CNBC Finance",
@@ -4018,6 +4543,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "US Treasury bought yen in July; Fed made no solo FX interventions in Q3",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQMkM3MHBxSC0zWERfdnhqRURMc2dhS01oamJOMC1TZFMwNGljLUtmTEVlaFZsVWc4b2JsUmJVNkUwWEpraUJaVVJrNHp3TktqczB6RXhtSTBOaWZFQ0k0WFd6UHhvTGFJMWs5UTAzZDkyb1FfNU90RVh5WVZfT0ZzMzNfeGVLR1J2NDItOVhvbmFtQVgtclBoMEpQdkxCcXFtVkUzZFZrQzB2bmd3NlE?oc=5",
+      "source": "Reuters",
+      "feed": "Reuters",
+      "category": "Markets",
+      "published": "2026-11-12T18:03:22-05:00",
+      "summary": "US Treasury bought yen in July; Fed made no solo FX interventions in Q3 Reuters",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
         "v": 2
       }
     },
@@ -4243,6 +4783,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Yen Falls to Key 160 Level Per Dollar, Raising Intervention Risk",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTk1NVHMydHhSME14cFAtRFBncHNCOWc5MEw4ODZkLUtkSEpSeVNpNkhCZXRhTHNvTUowdlEyQ3ZlQmZuenozTjNtM3VNRTB6N2JSMVhoT2lJS3ljTldVZDROa0ZWZ01ZaU52SjloUFlwV18tRi1idk45ZGtNajdPZ2toajZYVHNORHRyMWRxSHdab045VjdLVDNRUXhYUjIxX1lIUzNWOFVDSHYxT1p0NnhEclc?oc=5",
+      "source": "Bloomberg.com",
+      "feed": "Bloomberg",
+      "category": "Markets",
+      "published": "2026-11-12T16:32:57-05:00",
+      "summary": "Yen Falls to Key 160 Level Per Dollar, Raising Intervention Risk Bloomberg.com",
+      "sentiment": {
+        "label": "negative",
+        "score": -0.6,
+        "relevant": true,
         "v": 2
       }
     },
@@ -4587,6 +5142,21 @@
       "sentiment": {
         "label": "positive",
         "score": 0.6,
+        "relevant": true,
+        "v": 2
+      }
+    },
+    {
+      "title": "Treasury Offering Announcement1",
+      "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPeEFvVkpXaWlzbDY1Nlc2RWJkQ1FTbm9wZEFRM1E1LUhMRkVxNnNOU2ttTW9hZk53MTJZeE5UVzNaOXhkUzctdFVwdXlWWXBNUUJKV2R6VkxSVXBkZV80bU9DbWtERFdmN1Qtb0sxX0FEeUxQa0pwX3dzSHZyLVMzaGEtR3FBTU9jQVlKRC1nSzBnZGFlVXRBcjhrYUkyTFVJNy1vdVJZck42Ymc?oc=5",
+      "source": "U.S. Treasury Fiscal Data (.gov)",
+      "feed": "US Treasury",
+      "category": "Policy",
+      "published": "2026-11-12T03:00:00-05:00",
+      "summary": "Treasury Offering Announcement1 U.S. Treasury Fiscal Data (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
         "relevant": true,
         "v": 2
       }
@@ -5158,6 +5728,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Consumer Price Index, Philadelphia-Camden-Wilmington — October 2026",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMDE2UjJEeWNjenBtRTQtYW1RSXRET3d3QnNzXzlEUExfQ2s5UUNRX1Q2cXFaOG92Q1pIZUlFUzhFamhUQktFTG9SS3QwTlk2cVBoOV9ldTdHbUdoS2dpRU9mcGtCOF85eGx4MnZLLWVHZ0hDS1FiTjBrZTd5OGxacWVuVUlxQUZVUDFVVzhockNGN28?oc=5",
+      "source": "Bureau of Labor Statistics (.gov)",
+      "feed": "BLS",
+      "category": "Policy",
+      "published": "2026-11-10T03:00:00-05:00",
+      "summary": "Consumer Price Index, Philadelphia-Camden-Wilmington — October 2026 Bureau of Labor Statistics (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
         "v": 2
       }
     },
@@ -8293,6 +8878,21 @@
         "label": "neutral",
         "score": 0.0,
         "relevant": false,
+        "v": 2
+      }
+    },
+    {
+      "title": "Agriculture, Forestry, Fishing and Hunting: NAICS 11",
+      "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTFBxZE83R01ubzlaUWRYTzQ1alFlbEpPdExLajAzOTZQeHhyWVJ2ZXZYYlZVbjJZWTRMOVJySTFiMmo2N2NUUEdPYkhfMTN6Zw?oc=5",
+      "source": "Bureau of Labor Statistics (.gov)",
+      "feed": "BLS",
+      "category": "Policy",
+      "published": "2016-12-14T15:26:13-05:00",
+      "summary": "Agriculture, Forestry, Fishing and Hunting: NAICS 11 Bureau of Labor Statistics (.gov)",
+      "sentiment": {
+        "label": "neutral",
+        "score": 0.0,
+        "relevant": true,
         "v": 2
       }
     },
